@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self'; style-src 'self'; script-src 'self'" />
+  <title data-i18n="extensionName">Diff Viewer</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       HEADER
+  ═══════════════════════════════════════════════════════════ -->
+  <header class="app-header" role="banner">
+    <div class="app-header__brand">
+      <img src="assets/icons/icon32.png"
+           alt=""
+           class="app-header__logo"
+           aria-hidden="true"
+           width="20" height="20" />
+      <h1 class="app-header__title" data-i18n="extensionName">Diff Viewer</h1>
+    </div>
+    <p class="app-header__subtitle" data-i18n="headerSubtitle">
+      Compare text, code, JSON, and more — offline
+    </p>
+    <div class="app-header__controls">
+      <!-- View mode toggle -->
+      <div class="toggle-group" role="group" aria-label="View mode">
+        <button id="btnSideBySide"
+                class="toggle-btn toggle-btn--active"
+                data-i18n="btnSideBySide"
+                data-i18n-aria="btnSideBySide"
+                data-mode="side-by-side"
+                type="button">Side by Side</button>
+        <button id="btnInline"
+                class="toggle-btn"
+                data-i18n="btnInlineDiff"
+                data-i18n-aria="btnInlineDiff"
+                data-mode="inline"
+                type="button">Inline</button>
+      </div>
+
+      <!-- Word diff toggle -->
+      <label class="toggle-label" title="Toggle word-level diff highlighting">
+        <input type="checkbox" id="wordDiffToggle" />
+        <span class="toggle-label__text" data-i18n="wordDiff">Word Diff</span>
+      </label>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       MAIN INPUT AREA
+  ═══════════════════════════════════════════════════════════ -->
+  <main class="app-main" role="main">
+
+    <!-- Input Panels -->
+    <section class="input-section" aria-label="Text input panels">
+      <div class="input-panels">
+
+        <!-- Left Panel: Original -->
+        <div class="input-panel input-panel--left" role="group" aria-labelledby="labelOriginal">
+          <div class="panel-header">
+            <label id="labelOriginal" class="panel-label" for="textOriginal"
+                   data-i18n="labelOriginal">Original</label>
+            <div class="panel-actions">
+              <button id="btnCopyLeft"
+                      class="btn btn--icon"
+                      type="button"
+                      data-i18n-aria="btnCopyLeft"
+                      data-i18n-title="btnCopyLeft"
+                      title="Copy original">
+                <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect x="9" y="9" width="13" height="13" rx="2"/>
+                  <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+                </svg>
+                <span data-i18n="btnCopyLeft">Copy</span>
+              </button>
+            </div>
+          </div>
+          <div class="textarea-wrapper">
+            <textarea id="textOriginal"
+                      class="code-textarea"
+                      spellcheck="false"
+                      autocomplete="off"
+                      autocorrect="off"
+                      autocapitalize="off"
+                      data-i18n-placeholder="placeholderOriginal"
+                      aria-labelledby="labelOriginal"
+                      aria-multiline="true"></textarea>
+            <div class="line-counter" id="lineCountLeft" aria-hidden="true"></div>
+          </div>
+        </div>
+
+        <!-- Resizer -->
+        <div class="panel-resizer" role="separator" aria-orientation="vertical"
+             aria-label="Panel resizer" tabindex="0">
+          <div class="panel-resizer__handle">
+            <div class="panel-resizer__dots"></div>
+          </div>
+        </div>
+
+        <!-- Right Panel: Modified -->
+        <div class="input-panel input-panel--right" role="group" aria-labelledby="labelModified">
+          <div class="panel-header">
+            <label id="labelModified" class="panel-label" for="textModified"
+                   data-i18n="labelModified">Modified</label>
+            <div class="panel-actions">
+              <button id="btnCopyRight"
+                      class="btn btn--icon"
+                      type="button"
+                      data-i18n-aria="btnCopyRight"
+                      data-i18n-title="btnCopyRight"
+                      title="Copy modified">
+                <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect x="9" y="9" width="13" height="13" rx="2"/>
+                  <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+                </svg>
+                <span data-i18n="btnCopyRight">Copy</span>
+              </button>
+            </div>
+          </div>
+          <div class="textarea-wrapper">
+            <textarea id="textModified"
+                      class="code-textarea"
+                      spellcheck="false"
+                      autocomplete="off"
+                      autocorrect="off"
+                      autocapitalize="off"
+                      data-i18n-placeholder="placeholderModified"
+                      aria-labelledby="labelModified"
+                      aria-multiline="true"></textarea>
+            <div class="line-counter" id="lineCountRight" aria-hidden="true"></div>
+          </div>
+        </div>
+
+      </div><!-- /.input-panels -->
+    </section>
+
+    <!-- Action Toolbar -->
+    <section class="toolbar" aria-label="Actions">
+      <div class="toolbar__left">
+        <button id="btnCompare"
+                class="btn btn--primary"
+                type="button"
+                data-i18n="btnCompare"
+                data-i18n-aria="btnCompare">Compare</button>
+
+        <button id="btnSwap"
+                class="btn btn--secondary"
+                type="button"
+                data-i18n-aria="btnSwap">
+          <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M7 16V4m0 0L3 8m4-4l4 4"/>
+            <path d="M17 8v12m0 0l4-4m-4 4l-4-4"/>
+          </svg>
+          <span data-i18n="btnSwap">Swap</span>
+        </button>
+
+        <button id="btnFormatJSON"
+                class="btn btn--secondary"
+                type="button"
+                data-i18n-aria="formatJSON">
+          <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="16 18 22 12 16 6"/>
+            <polyline points="8 6 2 12 8 18"/>
+          </svg>
+          <span data-i18n="formatJSON">Format JSON</span>
+        </button>
+      </div>
+
+      <div class="toolbar__right">
+        <button id="btnReset"
+                class="btn btn--ghost btn--danger"
+                type="button"
+                data-i18n="btnReset"
+                data-i18n-aria="btnReset">Reset</button>
+        <button id="btnClear"
+                class="btn btn--ghost"
+                type="button"
+                data-i18n="btnClear"
+                data-i18n-aria="btnClear">Clear</button>
+      </div>
+    </section>
+
+    <!-- Status Bar -->
+    <div id="statusBar"
+         class="status-bar"
+         role="status"
+         aria-live="polite"
+         hidden></div>
+
+    <!-- ═══════════════════════════════════════════════════════════
+         RESULTS SECTION
+    ═══════════════════════════════════════════════════════════ -->
+    <section id="resultsSection"
+             class="results-section"
+             aria-label="Diff results"
+             aria-live="polite">
+
+      <!-- Empty State -->
+      <div id="emptyState" class="empty-state" role="status">
+        <div class="empty-state__icon" aria-hidden="true">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/>
+          </svg>
+        </div>
+        <h2 class="empty-state__title" data-i18n="emptyStateTitle">Ready to Compare</h2>
+        <p class="empty-state__body" data-i18n="emptyStateBody">
+          Paste text into both panels and click Compare
+        </p>
+        <div class="keyboard-hints" aria-label="Keyboard shortcuts">
+          <kbd>Ctrl</kbd><span>+</span><kbd>Enter</kbd>
+          <span class="hint-separator">→</span>
+          <span data-i18n="btnCompare">Compare</span>
+          &nbsp;&nbsp;
+          <kbd>Esc</kbd>
+          <span class="hint-separator">→</span>
+          <span data-i18n="btnClear">Clear</span>
+        </div>
+      </div>
+
+      <!-- Loading State -->
+      <div id="loadingState" class="loading-state" hidden aria-live="polite">
+        <div class="loading-spinner" aria-hidden="true">
+          <div class="spinner"></div>
+        </div>
+        <p data-i18n="processingLabel">Processing...</p>
+      </div>
+
+      <!-- Identical State -->
+      <div id="identicalState" class="identical-state" hidden role="status">
+        <div class="identical-state__icon" aria-hidden="true">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <path d="M20 6 9 17l-5-5"/>
+          </svg>
+        </div>
+        <h2 class="identical-state__title" data-i18n="identicalTitle">Files are Identical</h2>
+        <p class="identical-state__body" data-i18n="identicalBody">No differences found.</p>
+      </div>
+
+      <!-- Stats Bar -->
+      <div id="statsBar" class="stats-bar" hidden aria-label="Diff statistics">
+        <div class="stat stat--added" role="status">
+          <span class="stat__count" id="statAdded" aria-live="polite">0</span>
+          <span class="stat__label" data-i18n="statAdded">Added</span>
+        </div>
+        <div class="stat stat--removed" role="status">
+          <span class="stat__count" id="statRemoved" aria-live="polite">0</span>
+          <span class="stat__label" data-i18n="statRemoved">Removed</span>
+        </div>
+        <div class="stat stat--changed" role="status">
+          <span class="stat__count" id="statChanged" aria-live="polite">0</span>
+          <span class="stat__label" data-i18n="statChanged">Changed</span>
+        </div>
+        <div class="stat stat--unchanged" role="status">
+          <span class="stat__count" id="statUnchanged" aria-live="polite">0</span>
+          <span class="stat__label" data-i18n="statUnchanged">Unchanged</span>
+        </div>
+      </div>
+
+      <!-- Diff Output -->
+      <div id="diffOutput" class="diff-output" hidden>
+        <div class="diff-scroll-container" id="diffScrollContainer">
+          <table class="diff-table" id="diffTable"
+                 role="table"
+                 aria-label="Diff results table">
+            <colgroup id="diffColgroup">
+              <!-- Columns set dynamically by JS -->
+            </colgroup>
+            <tbody id="diffTbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+    </section><!-- /.results-section -->
+
+  </main>
+
+  <!-- ═══════════════════════════════════════════════════════════
+       FOOTER
+  ═══════════════════════════════════════════════════════════ -->
+  <footer class="app-footer" role="contentinfo" aria-hidden="false">
+    <a href="https://e8013585.github.io/diff-viewer-privacy-policy/">Privacy policy</a>
+  </footer>
+
+  <!-- Scripts — load in dependency order -->
+  <script src="i18n.js"></script>
+  <script src="diff/utils.js"></script>
+  <script src="diff/diffEngine.js"></script>
+  <script src="diff/renderer.js"></script>
+  <script src="popup.js"></script>
+
+</body>
+</html>
