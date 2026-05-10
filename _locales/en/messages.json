@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lightweight offline diff comparison tool for text and code.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Compare text, code, JSON, and more — offline"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Modified"
+  },
+  "placeholderOriginal": {
+    "message": "Paste original text or code here..."
+  },
+  "placeholderModified": {
+    "message": "Paste modified text or code here..."
+  },
+  "btnCompare": {
+    "message": "Compare"
+  },
+  "btnClear": {
+    "message": "Clear"
+  },
+  "btnCopyLeft": {
+    "message": "Copy Left"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Swap"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side"
+  },
+  "statAdded": {
+    "message": "Added"
+  },
+  "statRemoved": {
+    "message": "Removed"
+  },
+  "statChanged": {
+    "message": "Changed"
+  },
+  "statUnchanged": {
+    "message": "Unchanged"
+  },
+  "statLines": {
+    "message": "lines"
+  },
+  "emptyStateTitle": {
+    "message": "Ready to Compare"
+  },
+  "emptyStateBody": {
+    "message": "Paste text into both panels and click Compare — or press Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Files are Identical"
+  },
+  "identicalBody": {
+    "message": "No differences were found between the two inputs."
+  },
+  "errorLargeInput": {
+    "message": "Input is very large. Diff may take a moment..."
+  },
+  "errorBothEmpty": {
+    "message": "Please paste content into both panels before comparing."
+  },
+  "errorOneEmpty": {
+    "message": "One panel is empty. Please provide content in both panels."
+  },
+  "copied": {
+    "message": "Copied!"
+  },
+  "copyFailed": {
+    "message": "Copy failed"
+  },
+  "cleared": {
+    "message": "Cleared"
+  },
+  "swapped": {
+    "message": "Swapped"
+  },
+  "kbShortcutsTitle": {
+    "message": "Keyboard Shortcuts"
+  },
+  "kbCompare": {
+    "message": "Compare"
+  },
+  "kbClear": {
+    "message": "Clear"
+  },
+  "kbSwap": {
+    "message": "Swap panels"
+  },
+  "lineLabel": {
+    "message": "Line"
+  },
+  "addedLabel": {
+    "message": "added"
+  },
+  "removedLabel": {
+    "message": "removed"
+  },
+  "changedLabel": {
+    "message": "changed"
+  },
+  "unchangedLabel": {
+    "message": "unchanged"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "Invalid JSON in one or both panels."
+  },
+  "wordDiff": {
+    "message": "Word Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Results"
+  },
+  "processingLabel": {
+    "message": "Processing..."
+  }
+}
