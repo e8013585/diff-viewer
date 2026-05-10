@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diferan Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diferan Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Zouti konparezon dif offline ki lejè pou tèks ak kòd.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diferan Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Konpare tèks, kòd, JSON, ak plis ankò - offline"
+  },
+  "labelOriginal": {
+    "message": "Orijinal"
+  },
+  "labelModified": {
+    "message": "Modifye"
+  },
+  "placeholderOriginal": {
+    "message": "Kole tèks orijinal oswa kòd isit la..."
+  },
+  "placeholderModified": {
+    "message": "Kole tèks modifye oswa kòd isit la..."
+  },
+  "btnCompare": {
+    "message": "Konpare"
+  },
+  "btnClear": {
+    "message": "Klè"
+  },
+  "btnCopyLeft": {
+    "message": "Kopi Left"
+  },
+  "btnCopyRight": {
+    "message": "Kopi dwa"
+  },
+  "btnSwap": {
+    "message": "Boukante"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Kòt a kòt"
+  },
+  "statAdded": {
+    "message": "Te ajoute"
+  },
+  "statRemoved": {
+    "message": "Retire"
+  },
+  "statChanged": {
+    "message": "Chanje"
+  },
+  "statUnchanged": {
+    "message": "San chanje"
+  },
+  "statLines": {
+    "message": "liy"
+  },
+  "emptyStateTitle": {
+    "message": "Pare pou Konpare"
+  },
+  "emptyStateBody": {
+    "message": "Kole tèks nan tou de panno yo epi klike sou Konpare - oswa peze Ctrl + Antre"
+  },
+  "identicalTitle": {
+    "message": "Fichye yo idantik"
+  },
+  "identicalBody": {
+    "message": "Pa gen diferans ki genyen ant de entrées yo."
+  },
+  "errorLargeInput": {
+    "message": "Antre se gwo anpil. Diferans ka pran yon ti moman..."
+  },
+  "errorBothEmpty": {
+    "message": "Tanpri kole kontni nan tou de panno anvan konpare."
+  },
+  "errorOneEmpty": {
+    "message": "Yon panèl vid. Tanpri bay kontni nan tou de panno yo."
+  },
+  "copied": {
+    "message": "Kopi!"
+  },
+  "copyFailed": {
+    "message": "Kopi echwe"
+  },
+  "cleared": {
+    "message": "Otorize"
+  },
+  "swapped": {
+    "message": "Boukante"
+  },
+  "kbShortcutsTitle": {
+    "message": "Rakoursi klavye"
+  },
+  "kbCompare": {
+    "message": "Konpare"
+  },
+  "kbClear": {
+    "message": "Klè"
+  },
+  "kbSwap": {
+    "message": "Boukante panno yo"
+  },
+  "lineLabel": {
+    "message": "Liy"
+  },
+  "addedLabel": {
+    "message": "te ajoute"
+  },
+  "removedLabel": {
+    "message": "retire"
+  },
+  "changedLabel": {
+    "message": "chanje"
+  },
+  "unchangedLabel": {
+    "message": "san chanje"
+  },
+  "formatJSON": {
+    "message": "Fòma JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON pa valab nan youn oswa toude panno."
+  },
+  "wordDiff": {
+    "message": "Pawòl dif"
+  },
+  "resultsPanelTitle": {
+    "message": "Rezilta dif"
+  },
+  "processingLabel": {
+    "message": "Traitement..."
+  }
+}

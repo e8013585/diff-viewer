@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Oluwo iyatọ",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Oluwo iyatọ",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Ọpa lafiwe diff offline iwuwo fẹẹrẹ fun ọrọ ati koodu.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Oluwo iyatọ"
+  },
+  "headerSubtitle": {
+    "message": "Ṣe afiwe ọrọ, koodu, JSON, ati diẹ sii — aisinipo"
+  },
+  "labelOriginal": {
+    "message": "Atilẹba"
+  },
+  "labelModified": {
+    "message": "Títúnṣe"
+  },
+  "placeholderOriginal": {
+    "message": "Lẹẹmọ ọrọ atilẹba tabi koodu nibi..."
+  },
+  "placeholderModified": {
+    "message": "Lẹẹmọ ọrọ ti a ti yipada tabi koodu nibi..."
+  },
+  "btnCompare": {
+    "message": "Fiwera"
+  },
+  "btnClear": {
+    "message": "Ko o"
+  },
+  "btnCopyLeft": {
+    "message": "Daakọ Osi"
+  },
+  "btnCopyRight": {
+    "message": "Daakọ ọtun"
+  },
+  "btnSwap": {
+    "message": "Yipada"
+  },
+  "btnInlineDiff": {
+    "message": "Ni tito"
+  },
+  "btnSideBySide": {
+    "message": "Ẹgbẹ nipa Ẹgbẹ"
+  },
+  "statAdded": {
+    "message": "Fi kun"
+  },
+  "statRemoved": {
+    "message": "Yiyọ kuro"
+  },
+  "statChanged": {
+    "message": "Yipada"
+  },
+  "statUnchanged": {
+    "message": "Ko yipada"
+  },
+  "statLines": {
+    "message": "awọn ila"
+  },
+  "emptyStateTitle": {
+    "message": "Ṣetan lati ṣe afiwe"
+  },
+  "emptyStateBody": {
+    "message": "Lẹẹmọ ọrọ sinu awọn panẹli mejeeji ki o tẹ Afiwe — tabi tẹ Konturolu + Tẹ"
+  },
+  "identicalTitle": {
+    "message": "Awọn faili jẹ Aami"
+  },
+  "identicalBody": {
+    "message": "Ko si iyato laarin awọn igbewọle meji."
+  },
+  "errorLargeInput": {
+    "message": "Iṣawọle ti tobi pupọ. Iyatọ le gba iṣẹju diẹ ..."
+  },
+  "errorBothEmpty": {
+    "message": "Jọwọ lẹẹmọ akoonu sinu awọn panẹli mejeeji ṣaaju afiwe."
+  },
+  "errorOneEmpty": {
+    "message": "Ọkan nronu ti ṣofo. Jọwọ pese akoonu ni awọn panẹli mejeeji."
+  },
+  "copied": {
+    "message": "Ti daakọ!"
+  },
+  "copyFailed": {
+    "message": "Daakọ kuna"
+  },
+  "cleared": {
+    "message": "Pade"
+  },
+  "swapped": {
+    "message": "Yipada"
+  },
+  "kbShortcutsTitle": {
+    "message": "Awọn ọna abuja Keyboard"
+  },
+  "kbCompare": {
+    "message": "Fiwera"
+  },
+  "kbClear": {
+    "message": "Ko o"
+  },
+  "kbSwap": {
+    "message": "Siwopu paneli"
+  },
+  "lineLabel": {
+    "message": "Laini"
+  },
+  "addedLabel": {
+    "message": "kun"
+  },
+  "removedLabel": {
+    "message": "kuro"
+  },
+  "changedLabel": {
+    "message": "yi pada"
+  },
+  "unchangedLabel": {
+    "message": "ko yipada"
+  },
+  "formatJSON": {
+    "message": "Ṣe ọna kika JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON ti ko tọ ni ọkan tabi mejeeji awọn panẹli."
+  },
+  "wordDiff": {
+    "message": "Ọrọ Iyatọ"
+  },
+  "resultsPanelTitle": {
+    "message": "Awọn abajade iyatọ"
+  },
+  "processingLabel": {
+    "message": "Nṣiṣẹ..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Tampilan Beda",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Tampilan Beda",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Alat perbandingan beda offline sing entheng kanggo teks lan kode.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Tampilan Beda"
+  },
+  "headerSubtitle": {
+    "message": "Bandhingake teks, kode, JSON, lan liya-liyane - offline"
+  },
+  "labelOriginal": {
+    "message": "Asli"
+  },
+  "labelModified": {
+    "message": "Diowahi"
+  },
+  "placeholderOriginal": {
+    "message": "Tempel teks utawa kode asli ing kene..."
+  },
+  "placeholderModified": {
+    "message": "Tempel teks utawa kode sing diowahi ing kene..."
+  },
+  "btnCompare": {
+    "message": "Mbandhingake"
+  },
+  "btnClear": {
+    "message": "Cetha"
+  },
+  "btnCopyLeft": {
+    "message": "Salin Ngiwa"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Ngganti"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Sisih dening Sisih"
+  },
+  "statAdded": {
+    "message": "Ditambahake"
+  },
+  "statRemoved": {
+    "message": "Dibusak"
+  },
+  "statChanged": {
+    "message": "Diganti"
+  },
+  "statUnchanged": {
+    "message": "Ora owah"
+  },
+  "statLines": {
+    "message": "baris"
+  },
+  "emptyStateTitle": {
+    "message": "Siap Bandingake"
+  },
+  "emptyStateBody": {
+    "message": "Tempel teks menyang loro panel banjur klik Bandingake - utawa pencet Ctrl + Enter"
+  },
+  "identicalTitle": {
+    "message": "File identik"
+  },
+  "identicalBody": {
+    "message": "Ora ana bedane ditemokake ing antarane rong input kasebut."
+  },
+  "errorLargeInput": {
+    "message": "Input gedhe banget. Diff bisa njupuk sawetara wektu ..."
+  },
+  "errorBothEmpty": {
+    "message": "Tempel konten menyang panel loro sadurunge mbandhingake."
+  },
+  "errorOneEmpty": {
+    "message": "Siji panel kosong. Mangga nyedhiyani isi ing loro panel."
+  },
+  "copied": {
+    "message": "Disalin!"
+  },
+  "copyFailed": {
+    "message": "Nyalin gagal"
+  },
+  "cleared": {
+    "message": "diresiki"
+  },
+  "swapped": {
+    "message": "Ditukar"
+  },
+  "kbShortcutsTitle": {
+    "message": "Trabasan Keyboard"
+  },
+  "kbCompare": {
+    "message": "Mbandhingake"
+  },
+  "kbClear": {
+    "message": "Cetha"
+  },
+  "kbSwap": {
+    "message": "Ganti panel"
+  },
+  "lineLabel": {
+    "message": "baris"
+  },
+  "addedLabel": {
+    "message": "ditambahake"
+  },
+  "removedLabel": {
+    "message": "dibusak"
+  },
+  "changedLabel": {
+    "message": "diganti"
+  },
+  "unchangedLabel": {
+    "message": "ora owah"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON ora valid ing siji utawa loro panel."
+  },
+  "wordDiff": {
+    "message": "Tembung Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Asil beda"
+  },
+  "processingLabel": {
+    "message": "Ngolah..."
+  }
+}

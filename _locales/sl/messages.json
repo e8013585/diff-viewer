@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Pregledovalnik razlik",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Pregledovalnik razlik",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lahko orodje za primerjavo razlik brez povezave za besedilo in kodo.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Pregledovalnik razlik"
+  },
+  "headerSubtitle": {
+    "message": "Primerjajte besedilo, kodo, JSON in drugo – brez povezave"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Spremenjeno"
+  },
+  "placeholderOriginal": {
+    "message": "Tukaj prilepite izvirno besedilo ali kodo ..."
+  },
+  "placeholderModified": {
+    "message": "Tukaj prilepite spremenjeno besedilo ali kodo ..."
+  },
+  "btnCompare": {
+    "message": "Primerjaj"
+  },
+  "btnClear": {
+    "message": "jasno"
+  },
+  "btnCopyLeft": {
+    "message": "Kopiraj levo"
+  },
+  "btnCopyRight": {
+    "message": "Kopiraj desno"
+  },
+  "btnSwap": {
+    "message": "Zamenjaj"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Drug ob drugem"
+  },
+  "statAdded": {
+    "message": "Dodano"
+  },
+  "statRemoved": {
+    "message": "Odstranjeno"
+  },
+  "statChanged": {
+    "message": "Spremenjeno"
+  },
+  "statUnchanged": {
+    "message": "Nespremenjeno"
+  },
+  "statLines": {
+    "message": "vrstice"
+  },
+  "emptyStateTitle": {
+    "message": "Pripravljen za primerjavo"
+  },
+  "emptyStateBody": {
+    "message": "Prilepite besedilo v obe plošči in kliknite Primerjaj — ali pritisnite Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Datoteke so enake"
+  },
+  "identicalBody": {
+    "message": "Med obema vnosoma ni bilo ugotovljenih razlik."
+  },
+  "errorLargeInput": {
+    "message": "Vnos je zelo velik. Diff lahko traja nekaj trenutkov ..."
+  },
+  "errorBothEmpty": {
+    "message": "Pred primerjavo prilepite vsebino v obe plošči."
+  },
+  "errorOneEmpty": {
+    "message": "Ena plošča je prazna. Navedite vsebino v obeh ploščah."
+  },
+  "copied": {
+    "message": "Kopirano!"
+  },
+  "copyFailed": {
+    "message": "Kopiranje ni uspelo"
+  },
+  "cleared": {
+    "message": "Počiščeno"
+  },
+  "swapped": {
+    "message": "Zamenjal"
+  },
+  "kbShortcutsTitle": {
+    "message": "Bližnjice na tipkovnici"
+  },
+  "kbCompare": {
+    "message": "Primerjaj"
+  },
+  "kbClear": {
+    "message": "jasno"
+  },
+  "kbSwap": {
+    "message": "Zamenjajte plošče"
+  },
+  "lineLabel": {
+    "message": "Linija"
+  },
+  "addedLabel": {
+    "message": "dodano"
+  },
+  "removedLabel": {
+    "message": "odstranili"
+  },
+  "changedLabel": {
+    "message": "spremenjeno"
+  },
+  "unchangedLabel": {
+    "message": "nespremenjeno"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "Neveljaven JSON v eni ali obeh ploščah."
+  },
+  "wordDiff": {
+    "message": "Word Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Rezultati"
+  },
+  "processingLabel": {
+    "message": "Obdelava ..."
+  }
+}

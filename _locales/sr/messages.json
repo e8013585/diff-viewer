@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Дифф Виевер",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Дифф Виевер",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Лагана алатка за поређење разлика ван мреже за текст и код.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Дифф Виевер"
+  },
+  "headerSubtitle": {
+    "message": "Упоредите текст, код, ЈСОН и још много тога — ван мреже"
+  },
+  "labelOriginal": {
+    "message": "Оригинал"
+  },
+  "labelModified": {
+    "message": "Модификовано"
+  },
+  "placeholderOriginal": {
+    "message": "Овде налепите оригинални текст или код..."
+  },
+  "placeholderModified": {
+    "message": "Овде налепите измењени текст или код..."
+  },
+  "btnCompare": {
+    "message": "Упоредите"
+  },
+  "btnClear": {
+    "message": "Јасно"
+  },
+  "btnCopyLeft": {
+    "message": "Цопи Лефт"
+  },
+  "btnCopyRight": {
+    "message": "Цопи Ригхт"
+  },
+  "btnSwap": {
+    "message": "Свап"
+  },
+  "btnInlineDiff": {
+    "message": "Инлине"
+  },
+  "btnSideBySide": {
+    "message": "Раме уз раме"
+  },
+  "statAdded": {
+    "message": "Додато"
+  },
+  "statRemoved": {
+    "message": "Уклоњено"
+  },
+  "statChanged": {
+    "message": "Промењено"
+  },
+  "statUnchanged": {
+    "message": "Унцхангед"
+  },
+  "statLines": {
+    "message": "линије"
+  },
+  "emptyStateTitle": {
+    "message": "Спремни за поређење"
+  },
+  "emptyStateBody": {
+    "message": "Налепите текст у оба панела и кликните на Упореди — или притисните Цтрл+Ентер"
+  },
+  "identicalTitle": {
+    "message": "Фајлови су идентични"
+  },
+  "identicalBody": {
+    "message": "Нису пронађене разлике између два улаза."
+  },
+  "errorLargeInput": {
+    "message": "Улаз је веома велики. Разлика може потрајати..."
+  },
+  "errorBothEmpty": {
+    "message": "Налепите садржај у оба панела пре поређења."
+  },
+  "errorOneEmpty": {
+    "message": "Један панел је празан. Наведите садржај у оба панела."
+  },
+  "copied": {
+    "message": "Копирано!"
+  },
+  "copyFailed": {
+    "message": "Копирање није успело"
+  },
+  "cleared": {
+    "message": "Очишћено"
+  },
+  "swapped": {
+    "message": "Замењено"
+  },
+  "kbShortcutsTitle": {
+    "message": "Пречице на тастатури"
+  },
+  "kbCompare": {
+    "message": "Упоредите"
+  },
+  "kbClear": {
+    "message": "Јасно"
+  },
+  "kbSwap": {
+    "message": "Замените панеле"
+  },
+  "lineLabel": {
+    "message": "Линија"
+  },
+  "addedLabel": {
+    "message": "додао је"
+  },
+  "removedLabel": {
+    "message": "уклоњена"
+  },
+  "changedLabel": {
+    "message": "променио"
+  },
+  "unchangedLabel": {
+    "message": "непромењена"
+  },
+  "formatJSON": {
+    "message": "Форматирајте ЈСОН"
+  },
+  "formatJSONError": {
+    "message": "Неважећи ЈСОН на једном или оба панела."
+  },
+  "wordDiff": {
+    "message": "Ворд Дифф"
+  },
+  "resultsPanelTitle": {
+    "message": "Дифф Ресултс"
+  },
+  "processingLabel": {
+    "message": "Обрада..."
+  }
+}

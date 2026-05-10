@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff nga Agbuya",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff nga Agbuya",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Nalag-an nga offline diff comparison tool para iti teksto ken kodigo.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff nga Agbuya"
+  },
+  "headerSubtitle": {
+    "message": "Idilig ti teksto, kodigo, JSON, ken dadduma pay — offline"
+  },
+  "labelOriginal": {
+    "message": "Orihinal"
+  },
+  "labelModified": {
+    "message": "Nabaliwan"
+  },
+  "placeholderOriginal": {
+    "message": "I-paste ti orihinal a teksto wenno kodigo ditoy..."
+  },
+  "placeholderModified": {
+    "message": "I-paste ti nabaliwan a teksto wenno kodigo ditoy..."
+  },
+  "btnCompare": {
+    "message": "Iyasping"
+  },
+  "btnClear": {
+    "message": "Nalawag"
+  },
+  "btnCopyLeft": {
+    "message": "Kopiaen ti Kannigid"
+  },
+  "btnCopyRight": {
+    "message": "Kopiaen ti Kannawan"
+  },
+  "btnSwap": {
+    "message": "Isukat"
+  },
+  "btnInlineDiff": {
+    "message": "Inline ti linya"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side"
+  },
+  "statAdded": {
+    "message": "Nainayon"
+  },
+  "statRemoved": {
+    "message": "Naikkat"
+  },
+  "statChanged": {
+    "message": "Nagbaliw"
+  },
+  "statUnchanged": {
+    "message": "Saan a nagbaliw"
+  },
+  "statLines": {
+    "message": "linia"
+  },
+  "emptyStateTitle": {
+    "message": "Nakasagana a Mangidilig"
+  },
+  "emptyStateBody": {
+    "message": "I-paste ti teksto iti agpada a panel ken i-klik ti Compare — wenno i-press ti Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Agpapada dagiti file"
+  },
+  "identicalBody": {
+    "message": "Awan ti nasarakan a nagdumaan ti dua nga input."
+  },
+  "errorLargeInput": {
+    "message": "Dakkel unay ti input. Mabalin nga alaen ti diff ti apagbiit..."
+  },
+  "errorBothEmpty": {
+    "message": "Pangngaasi nga i-paste ti linaon iti agpada a panel sakbay nga idilig."
+  },
+  "errorOneEmpty": {
+    "message": "Awan ti kargana ti maysa a panel. Pangngaasiyo ta ipaayyo ti linaon iti agpada a panel."
+  },
+  "copied": {
+    "message": "Nakopia!"
+  },
+  "copyFailed": {
+    "message": "Napaay ti panagkopia"
+  },
+  "cleared": {
+    "message": "Na-clear"
+  },
+  "swapped": {
+    "message": "Nagsinnukat"
+  },
+  "kbShortcutsTitle": {
+    "message": "Dagiti Ababa a Dalan ti Teklado"
+  },
+  "kbCompare": {
+    "message": "Iyasping"
+  },
+  "kbClear": {
+    "message": "Nalawag"
+  },
+  "kbSwap": {
+    "message": "Agsinnukat kadagiti panel"
+  },
+  "lineLabel": {
+    "message": "Linia"
+  },
+  "addedLabel": {
+    "message": "innayonna"
+  },
+  "removedLabel": {
+    "message": "naikkat"
+  },
+  "changedLabel": {
+    "message": "nagbaliw"
+  },
+  "unchangedLabel": {
+    "message": "saan a nagbaliw"
+  },
+  "formatJSON": {
+    "message": "Pormat ti JSON"
+  },
+  "formatJSONError": {
+    "message": "Di umiso a JSON iti maysa wenno agpada a panel."
+  },
+  "wordDiff": {
+    "message": "Sao Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff nga Resulta"
+  },
+  "processingLabel": {
+    "message": "Panagproseso ti..."
+  }
+}

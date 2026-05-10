@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Instrument ușor de comparare a diferențelor offline pentru text și cod.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Comparați text, cod, JSON și multe altele, offline"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Modificat"
+  },
+  "placeholderOriginal": {
+    "message": "Lipiți textul sau codul original aici..."
+  },
+  "placeholderModified": {
+    "message": "Lipiți aici textul sau codul modificat..."
+  },
+  "btnCompare": {
+    "message": "Comparaţie"
+  },
+  "btnClear": {
+    "message": "Clar"
+  },
+  "btnCopyLeft": {
+    "message": "Copiere la stânga"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Schimbați"
+  },
+  "btnInlineDiff": {
+    "message": "În linie"
+  },
+  "btnSideBySide": {
+    "message": "Alăturat"
+  },
+  "statAdded": {
+    "message": "Adăugat"
+  },
+  "statRemoved": {
+    "message": "Îndepărtat"
+  },
+  "statChanged": {
+    "message": "Schimbat"
+  },
+  "statUnchanged": {
+    "message": "Neschimbat"
+  },
+  "statLines": {
+    "message": "linii"
+  },
+  "emptyStateTitle": {
+    "message": "Gata de comparat"
+  },
+  "emptyStateBody": {
+    "message": "Lipiți text în ambele panouri și faceți clic pe Comparare — sau apăsați Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Fișierele sunt identice"
+  },
+  "identicalBody": {
+    "message": "Nu au fost găsite diferențe între cele două intrări."
+  },
+  "errorLargeInput": {
+    "message": "Intrarea este foarte mare. Diferența poate dura un moment..."
+  },
+  "errorBothEmpty": {
+    "message": "Vă rugăm să lipiți conținutul în ambele panouri înainte de a compara."
+  },
+  "errorOneEmpty": {
+    "message": "Un panou este gol. Vă rugăm să furnizați conținut în ambele panouri."
+  },
+  "copied": {
+    "message": "Copiat!"
+  },
+  "copyFailed": {
+    "message": "Copierea eșuată"
+  },
+  "cleared": {
+    "message": "Eliberat"
+  },
+  "swapped": {
+    "message": "Schimbat"
+  },
+  "kbShortcutsTitle": {
+    "message": "Comenzi rapide de la tastatură"
+  },
+  "kbCompare": {
+    "message": "Comparaţie"
+  },
+  "kbClear": {
+    "message": "Clar"
+  },
+  "kbSwap": {
+    "message": "Schimbați panourile"
+  },
+  "lineLabel": {
+    "message": "Linia"
+  },
+  "addedLabel": {
+    "message": "adăugat"
+  },
+  "removedLabel": {
+    "message": "îndepărtat"
+  },
+  "changedLabel": {
+    "message": "schimbat"
+  },
+  "unchangedLabel": {
+    "message": "neschimbat"
+  },
+  "formatJSON": {
+    "message": "Formatați JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON nevalid în unul sau ambele panouri."
+  },
+  "wordDiff": {
+    "message": "Diferent cuvinte"
+  },
+  "resultsPanelTitle": {
+    "message": "Rezultate diferențiale"
+  },
+  "processingLabel": {
+    "message": "Prelucrare..."
+  }
+}

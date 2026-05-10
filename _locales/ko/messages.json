@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "차이점 뷰어",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "차이점 뷰어",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "텍스트 및 코드를 위한 경량 오프라인 차이점 비교 도구입니다.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "차이점 뷰어"
+  },
+  "headerSubtitle": {
+    "message": "텍스트, 코드, JSON 등을 오프라인으로 비교"
+  },
+  "labelOriginal": {
+    "message": "원래의"
+  },
+  "labelModified": {
+    "message": "수정됨"
+  },
+  "placeholderOriginal": {
+    "message": "여기에 원본 텍스트나 코드를 붙여넣으세요..."
+  },
+  "placeholderModified": {
+    "message": "여기에 수정된 텍스트나 코드를 붙여넣으세요..."
+  },
+  "btnCompare": {
+    "message": "비교하다"
+  },
+  "btnClear": {
+    "message": "분명한"
+  },
+  "btnCopyLeft": {
+    "message": "왼쪽으로 복사"
+  },
+  "btnCopyRight": {
+    "message": "복사권"
+  },
+  "btnSwap": {
+    "message": "교환"
+  },
+  "btnInlineDiff": {
+    "message": "인라인"
+  },
+  "btnSideBySide": {
+    "message": "나란히"
+  },
+  "statAdded": {
+    "message": "추가됨"
+  },
+  "statRemoved": {
+    "message": "제거됨"
+  },
+  "statChanged": {
+    "message": "변경됨"
+  },
+  "statUnchanged": {
+    "message": "변하지 않은"
+  },
+  "statLines": {
+    "message": "윤곽"
+  },
+  "emptyStateTitle": {
+    "message": "비교할 준비가 되었습니다"
+  },
+  "emptyStateBody": {
+    "message": "두 패널에 텍스트를 붙여넣고 비교를 클릭하거나 Ctrl+Enter를 누릅니다."
+  },
+  "identicalTitle": {
+    "message": "파일이 동일합니다"
+  },
+  "identicalBody": {
+    "message": "두 입력 사이에는 차이가 발견되지 않았습니다."
+  },
+  "errorLargeInput": {
+    "message": "입력값이 매우 큽니다. Diff에는 잠시 시간이 걸릴 수 있습니다..."
+  },
+  "errorBothEmpty": {
+    "message": "비교하기 전에 두 패널에 콘텐츠를 붙여넣으세요."
+  },
+  "errorOneEmpty": {
+    "message": "패널 하나가 비어 있습니다. 두 패널 모두에 콘텐츠를 제공하세요."
+  },
+  "copied": {
+    "message": "복사되었습니다!"
+  },
+  "copyFailed": {
+    "message": "복사 실패"
+  },
+  "cleared": {
+    "message": "삭제됨"
+  },
+  "swapped": {
+    "message": "교환됨"
+  },
+  "kbShortcutsTitle": {
+    "message": "키보드 단축키"
+  },
+  "kbCompare": {
+    "message": "비교하다"
+  },
+  "kbClear": {
+    "message": "분명한"
+  },
+  "kbSwap": {
+    "message": "패널 교체"
+  },
+  "lineLabel": {
+    "message": "선"
+  },
+  "addedLabel": {
+    "message": "추가됨"
+  },
+  "removedLabel": {
+    "message": "제거됨"
+  },
+  "changedLabel": {
+    "message": "변경됨"
+  },
+  "unchangedLabel": {
+    "message": "변하지 않은"
+  },
+  "formatJSON": {
+    "message": "JSON 형식"
+  },
+  "formatJSONError": {
+    "message": "하나 또는 두 패널 모두에 JSON이 잘못되었습니다."
+  },
+  "wordDiff": {
+    "message": "단어 차이"
+  },
+  "resultsPanelTitle": {
+    "message": "차이점 결과"
+  },
+  "processingLabel": {
+    "message": "처리 중..."
+  }
+}

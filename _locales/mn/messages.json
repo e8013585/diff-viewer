@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Диф Харагч",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Диф Харагч",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Текст болон кодын офлайн ялгааг харьцуулах хөнгөн хэрэгсэл.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Диф Харагч"
+  },
+  "headerSubtitle": {
+    "message": "Текст, код, JSON болон бусад зүйлийг офлайнаар харьцуулаарай"
+  },
+  "labelOriginal": {
+    "message": "Жинхэнэ"
+  },
+  "labelModified": {
+    "message": "Өөрчлөгдсөн"
+  },
+  "placeholderOriginal": {
+    "message": "Эх текст эсвэл кодыг энд буулгана уу..."
+  },
+  "placeholderModified": {
+    "message": "Өөрчлөгдсөн текст эсвэл кодыг энд буулгана уу..."
+  },
+  "btnCompare": {
+    "message": "Харьцуулах"
+  },
+  "btnClear": {
+    "message": "Тодорхой"
+  },
+  "btnCopyLeft": {
+    "message": "Зүүн талд хуулах"
+  },
+  "btnCopyRight": {
+    "message": "Баруун хуулах"
+  },
+  "btnSwap": {
+    "message": "Солих"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Зэрэгцээ"
+  },
+  "statAdded": {
+    "message": "Нэмсэн"
+  },
+  "statRemoved": {
+    "message": "Устгасан"
+  },
+  "statChanged": {
+    "message": "Өөрчлөгдсөн"
+  },
+  "statUnchanged": {
+    "message": "Өөрчлөгдөөгүй"
+  },
+  "statLines": {
+    "message": "шугамууд"
+  },
+  "emptyStateTitle": {
+    "message": "Харьцуулахад бэлэн"
+  },
+  "emptyStateBody": {
+    "message": "Текстийг хоёр самбарт буулгаж, Харьцуулах - эсвэл Ctrl+Enter товчийг дарна уу"
+  },
+  "identicalTitle": {
+    "message": "Файлууд нь ижил байна"
+  },
+  "identicalBody": {
+    "message": "Хоёр оролтын хооронд ямар ч ялгаа олдсонгүй."
+  },
+  "errorLargeInput": {
+    "message": "Оролтын хэмжээ маш том байна. Ялгаа нь хэсэг хугацаа шаардаж магадгүй..."
+  },
+  "errorBothEmpty": {
+    "message": "Харьцуулахын өмнө агуулгыг хоёр самбарт буулгана уу."
+  },
+  "errorOneEmpty": {
+    "message": "Нэг самбар хоосон байна. Хоёр самбарт агуулгыг оруулна уу."
+  },
+  "copied": {
+    "message": "Хуулсан!"
+  },
+  "copyFailed": {
+    "message": "Хуулж чадсангүй"
+  },
+  "cleared": {
+    "message": "Цэвэрлэсэн"
+  },
+  "swapped": {
+    "message": "Солигдсон"
+  },
+  "kbShortcutsTitle": {
+    "message": "Гарын товчлол"
+  },
+  "kbCompare": {
+    "message": "Харьцуулах"
+  },
+  "kbClear": {
+    "message": "Тодорхой"
+  },
+  "kbSwap": {
+    "message": "Самбарыг солих"
+  },
+  "lineLabel": {
+    "message": "Шугам"
+  },
+  "addedLabel": {
+    "message": "нэмсэн"
+  },
+  "removedLabel": {
+    "message": "хасагдсан"
+  },
+  "changedLabel": {
+    "message": "өөрчлөгдсөн"
+  },
+  "unchangedLabel": {
+    "message": "өөрчлөгдөөгүй"
+  },
+  "formatJSON": {
+    "message": "JSON форматлах"
+  },
+  "formatJSONError": {
+    "message": "Нэг эсвэл хоёр самбарт хүчингүй JSON."
+  },
+  "wordDiff": {
+    "message": "Үгийн ялгаа"
+  },
+  "resultsPanelTitle": {
+    "message": "Ялгаатай үр дүн"
+  },
+  "processingLabel": {
+    "message": "Боловсруулж байна..."
+  }
+}

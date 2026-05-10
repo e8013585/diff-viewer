@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "تېكىست ۋە كود ئۈچۈن يېنىك تورسىز پەرقلىق سېلىشتۇرۇش قورالى.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "تېكىست ، كود ، JSON ۋە باشقىلارنى سېلىشتۇرۇڭ"
+  },
+  "labelOriginal": {
+    "message": "ئەسلى"
+  },
+  "labelModified": {
+    "message": "ئۆزگەرتىلدى"
+  },
+  "placeholderOriginal": {
+    "message": "ئەسلى تېكىست ياكى كودنى بۇ يەرگە چاپلاڭ ..."
+  },
+  "placeholderModified": {
+    "message": "ئۆزگەرتىلگەن تېكىست ياكى كودنى بۇ يەرگە چاپلاڭ ..."
+  },
+  "btnCompare": {
+    "message": "سېلىشتۇرۇش"
+  },
+  "btnClear": {
+    "message": "Clear"
+  },
+  "btnCopyLeft": {
+    "message": "سولغا كۆچۈرۈڭ"
+  },
+  "btnCopyRight": {
+    "message": "توغرا كۆچۈرۈڭ"
+  },
+  "btnSwap": {
+    "message": "Swap"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side"
+  },
+  "statAdded": {
+    "message": "قوشۇلدى"
+  },
+  "statRemoved": {
+    "message": "چىقىرىۋېتىلدى"
+  },
+  "statChanged": {
+    "message": "ئۆزگەرتىلدى"
+  },
+  "statUnchanged": {
+    "message": "ئۆزگەرمەيدۇ"
+  },
+  "statLines": {
+    "message": "قۇر"
+  },
+  "emptyStateTitle": {
+    "message": "سېلىشتۇرۇشقا تەييار"
+  },
+  "emptyStateBody": {
+    "message": "تېكىستنى ئىككى تاختىغا چاپلاپ سېلىشتۇرۇش - ياكى Ctrl + Enter نى بېسىڭ"
+  },
+  "identicalTitle": {
+    "message": "ھۆججەتلەر ئوخشاش"
+  },
+  "identicalBody": {
+    "message": "ئىككى خىل كىرگۈزۈش ئارىسىدا ھېچقانداق پەرق تېپىلمىدى."
+  },
+  "errorLargeInput": {
+    "message": "كىرگۈزۈش ئىنتايىن چوڭ. Diff بەلكىم بىر ئاز ۋاقىت كېتىشى مۇمكىن ..."
+  },
+  "errorBothEmpty": {
+    "message": "سېلىشتۇرۇشتىن بۇرۇن مەزمۇننى ئىككى تاختىغا چاپلاڭ."
+  },
+  "errorOneEmpty": {
+    "message": "بىر تاختا قۇرۇق. ھەر ئىككى گۇرۇپپىدا مەزمۇن بىلەن تەمىنلەڭ."
+  },
+  "copied": {
+    "message": "كۆچۈرۈلدى!"
+  },
+  "copyFailed": {
+    "message": "كۆچۈرۈش مەغلۇب بولدى"
+  },
+  "cleared": {
+    "message": "تازىلاندى"
+  },
+  "swapped": {
+    "message": "Swapped"
+  },
+  "kbShortcutsTitle": {
+    "message": "كۇنۇپكا تاختىسى تېزلەتمىسى"
+  },
+  "kbCompare": {
+    "message": "سېلىشتۇرۇش"
+  },
+  "kbClear": {
+    "message": "Clear"
+  },
+  "kbSwap": {
+    "message": "ئالماشتۇرۇش تاختىسى"
+  },
+  "lineLabel": {
+    "message": "Line"
+  },
+  "addedLabel": {
+    "message": "قوشۇلدى"
+  },
+  "removedLabel": {
+    "message": "چىقىرىۋېتىلدى"
+  },
+  "changedLabel": {
+    "message": "ئۆزگەرتىلدى"
+  },
+  "unchangedLabel": {
+    "message": "ئۆزگەرتىلمىگەن"
+  },
+  "formatJSON": {
+    "message": "JSON نى فورماتلاڭ"
+  },
+  "formatJSONError": {
+    "message": "بىر ياكى ئىككى تاختىدا JSON ئىناۋەتسىز."
+  },
+  "wordDiff": {
+    "message": "Word Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff results"
+  },
+  "processingLabel": {
+    "message": "بىر تەرەپ قىلىش ..."
+  }
+}

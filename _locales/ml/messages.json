@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ഡിഫ് വ്യൂവർ",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ഡിഫ് വ്യൂവർ",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ടെക്‌സ്‌റ്റിനും കോഡിനുമുള്ള ഭാരം കുറഞ്ഞ ഓഫ്‌ലൈൻ ഡിഫ് താരതമ്യ ഉപകരണം.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ഡിഫ് വ്യൂവർ"
+  },
+  "headerSubtitle": {
+    "message": "ടെക്സ്റ്റ്, കോഡ്, JSON എന്നിവയും മറ്റും താരതമ്യം ചെയ്യുക - ഓഫ്‌ലൈൻ"
+  },
+  "labelOriginal": {
+    "message": "ഒറിജിനൽ"
+  },
+  "labelModified": {
+    "message": "പരിഷ്കരിച്ചു"
+  },
+  "placeholderOriginal": {
+    "message": "ഒറിജിനൽ ടെക്‌സ്‌റ്റോ കോഡോ ഇവിടെ ഒട്ടിക്കുക..."
+  },
+  "placeholderModified": {
+    "message": "പരിഷ്കരിച്ച വാചകമോ കോഡോ ഇവിടെ ഒട്ടിക്കുക..."
+  },
+  "btnCompare": {
+    "message": "താരതമ്യം ചെയ്യുക"
+  },
+  "btnClear": {
+    "message": "ക്ലിയർ"
+  },
+  "btnCopyLeft": {
+    "message": "ഇടത്തേക്ക് പകർത്തുക"
+  },
+  "btnCopyRight": {
+    "message": "പകർപ്പവകാശം"
+  },
+  "btnSwap": {
+    "message": "സ്വാപ്പ്"
+  },
+  "btnInlineDiff": {
+    "message": "ഇൻ ലൈൻ"
+  },
+  "btnSideBySide": {
+    "message": "സൈഡ് ബൈ സൈഡ്"
+  },
+  "statAdded": {
+    "message": "ചേർത്തു"
+  },
+  "statRemoved": {
+    "message": "നീക്കം ചെയ്തു"
+  },
+  "statChanged": {
+    "message": "മാറ്റി"
+  },
+  "statUnchanged": {
+    "message": "മാറ്റമില്ലാത്തത്"
+  },
+  "statLines": {
+    "message": "വരികൾ"
+  },
+  "emptyStateTitle": {
+    "message": "താരതമ്യം ചെയ്യാൻ തയ്യാറാണ്"
+  },
+  "emptyStateBody": {
+    "message": "രണ്ട് പാനലുകളിലും ടെക്സ്റ്റ് ഒട്ടിക്കുക, താരതമ്യം ചെയ്യുക ക്ലിക്കുചെയ്യുക - അല്ലെങ്കിൽ Ctrl+Enter അമർത്തുക"
+  },
+  "identicalTitle": {
+    "message": "ഫയലുകൾ സമാനമാണ്"
+  },
+  "identicalBody": {
+    "message": "രണ്ട് ഇൻപുട്ടുകളും തമ്മിൽ വ്യത്യാസങ്ങളൊന്നും കണ്ടെത്തിയില്ല."
+  },
+  "errorLargeInput": {
+    "message": "ഇൻപുട്ട് വളരെ വലുതാണ്. വ്യത്യാസം ഒരു നിമിഷം എടുത്തേക്കാം..."
+  },
+  "errorBothEmpty": {
+    "message": "താരതമ്യം ചെയ്യുന്നതിന് മുമ്പ് രണ്ട് പാനലുകളിലും ഉള്ളടക്കം ഒട്ടിക്കുക."
+  },
+  "errorOneEmpty": {
+    "message": "ഒരു പാനൽ ശൂന്യമാണ്. രണ്ട് പാനലുകളിലും ഉള്ളടക്കം നൽകുക."
+  },
+  "copied": {
+    "message": "പകർത്തി!"
+  },
+  "copyFailed": {
+    "message": "പകർത്താനായില്ല"
+  },
+  "cleared": {
+    "message": "മായ്ച്ചു"
+  },
+  "swapped": {
+    "message": "മാറ്റി"
+  },
+  "kbShortcutsTitle": {
+    "message": "കീബോർഡ് കുറുക്കുവഴികൾ"
+  },
+  "kbCompare": {
+    "message": "താരതമ്യം ചെയ്യുക"
+  },
+  "kbClear": {
+    "message": "ക്ലിയർ"
+  },
+  "kbSwap": {
+    "message": "പാനലുകൾ സ്വാപ്പ് ചെയ്യുക"
+  },
+  "lineLabel": {
+    "message": "ലൈൻ"
+  },
+  "addedLabel": {
+    "message": "കൂട്ടിച്ചേർത്തു"
+  },
+  "removedLabel": {
+    "message": "നീക്കം ചെയ്തു"
+  },
+  "changedLabel": {
+    "message": "മാറ്റി"
+  },
+  "unchangedLabel": {
+    "message": "മാറ്റമില്ല"
+  },
+  "formatJSON": {
+    "message": "JSON ഫോർമാറ്റ് ചെയ്യുക"
+  },
+  "formatJSONError": {
+    "message": "ഒന്നോ രണ്ടോ പാനലുകളിൽ JSON അസാധുവാണ്."
+  },
+  "wordDiff": {
+    "message": "വാക്ക് വ്യത്യാസം"
+  },
+  "resultsPanelTitle": {
+    "message": "വ്യത്യസ്ത ഫലങ്ങൾ"
+  },
+  "processingLabel": {
+    "message": "പ്രോസസ്സ് ചെയ്യുന്നു..."
+  }
+}

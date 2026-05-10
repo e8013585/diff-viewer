@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ຕົວເບິ່ງຄວາມແຕກຕ່າງ",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ຕົວເບິ່ງຄວາມແຕກຕ່າງ",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ເຄື່ອງ​ມື​ການ​ປຽບ​ທຽບ offline offline lightweight ສໍາ​ລັບ​ຂໍ້​ຄວາມ​ແລະ​ລະ​ຫັດ​.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ຕົວເບິ່ງຄວາມແຕກຕ່າງ"
+  },
+  "headerSubtitle": {
+    "message": "ປຽບທຽບຂໍ້ຄວາມ, ລະຫັດ, JSON, ແລະອື່ນໆອີກ — ອອບລາຍ"
+  },
+  "labelOriginal": {
+    "message": "ຕົ້ນສະບັບ"
+  },
+  "labelModified": {
+    "message": "ດັດແກ້"
+  },
+  "placeholderOriginal": {
+    "message": "ວາງຂໍ້ຄວາມ ຫຼືລະຫັດຕົ້ນສະບັບໃສ່ບ່ອນນີ້..."
+  },
+  "placeholderModified": {
+    "message": "ວາງຂໍ້ຄວາມ ຫຼືລະຫັດທີ່ຖືກແກ້ໄຂໃສ່ບ່ອນນີ້..."
+  },
+  "btnCompare": {
+    "message": "ປຽບທຽບ"
+  },
+  "btnClear": {
+    "message": "ຈະແຈ້ງ"
+  },
+  "btnCopyLeft": {
+    "message": "ສຳເນົາຊ້າຍ"
+  },
+  "btnCopyRight": {
+    "message": "ສຳເນົາສິດ"
+  },
+  "btnSwap": {
+    "message": "ແລກປ່ຽນ"
+  },
+  "btnInlineDiff": {
+    "message": "ໃນແຖວ"
+  },
+  "btnSideBySide": {
+    "message": "ຂ້າງຄຽງ"
+  },
+  "statAdded": {
+    "message": "ເພີ່ມແລ້ວ"
+  },
+  "statRemoved": {
+    "message": "ລຶບອອກແລ້ວ"
+  },
+  "statChanged": {
+    "message": "ປ່ຽນແປງ"
+  },
+  "statUnchanged": {
+    "message": "ບໍ່ປ່ຽນແປງ"
+  },
+  "statLines": {
+    "message": "ສາຍ"
+  },
+  "emptyStateTitle": {
+    "message": "ພ້ອມທີ່ຈະປຽບທຽບ"
+  },
+  "emptyStateBody": {
+    "message": "ວາງຂໍ້ຄວາມໃສ່ທັງສອງແຖບແລ້ວຄລິກປຽບທຽບ — ຫຼືກົດ Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "ໄຟລ໌ແມ່ນຄືກັນ"
+  },
+  "identicalBody": {
+    "message": "ບໍ່ພົບຄວາມແຕກຕ່າງລະຫວ່າງສອງວັດສະດຸປ້ອນ."
+  },
+  "errorLargeInput": {
+    "message": "ການປ້ອນຂໍ້ມູນແມ່ນໃຫຍ່ຫຼາຍ. ຄວາມແຕກຕ່າງອາດຈະໃຊ້ເວລາຄາວໜຶ່ງ..."
+  },
+  "errorBothEmpty": {
+    "message": "ກະລຸນາວາງເນື້ອໃນໃສ່ທັງສອງແຜງກ່ອນການປຽບທຽບ."
+  },
+  "errorOneEmpty": {
+    "message": "ນຶ່ງແຜງຫວ່າງເປົ່າ. ກະລຸນາໃຫ້ເນື້ອຫາຢູ່ໃນທັງສອງແຜງ."
+  },
+  "copied": {
+    "message": "ສຳເນົາແລ້ວ!"
+  },
+  "copyFailed": {
+    "message": "ສຳເນົາລົ້ມເຫລວ"
+  },
+  "cleared": {
+    "message": "ລຶບລ້າງແລ້ວ"
+  },
+  "swapped": {
+    "message": "ແລກປ່ຽນ"
+  },
+  "kbShortcutsTitle": {
+    "message": "ທາງລັດແປ້ນພິມ"
+  },
+  "kbCompare": {
+    "message": "ປຽບທຽບ"
+  },
+  "kbClear": {
+    "message": "ຈະແຈ້ງ"
+  },
+  "kbSwap": {
+    "message": "ສະຫຼັບແຜງ"
+  },
+  "lineLabel": {
+    "message": "ສາຍ"
+  },
+  "addedLabel": {
+    "message": "ເພີ່ມ"
+  },
+  "removedLabel": {
+    "message": "ເອົາອອກ"
+  },
+  "changedLabel": {
+    "message": "ປ່ຽນແປງ"
+  },
+  "unchangedLabel": {
+    "message": "ບໍ່ປ່ຽນແປງ"
+  },
+  "formatJSON": {
+    "message": "ຟໍແມັດ JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON ບໍ່ຖືກຕ້ອງຢູ່ໃນຫນຶ່ງຫຼືທັງສອງແຜງ."
+  },
+  "wordDiff": {
+    "message": "ຄວາມແຕກຕ່າງຂອງຄໍາສັບ"
+  },
+  "resultsPanelTitle": {
+    "message": "ຜົນໄດ້ຮັບທີ່ແຕກຕ່າງກັນ"
+  },
+  "processingLabel": {
+    "message": "ກຳລັງປະມວນຜົນ..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Sealladair eadar-dhealaichte",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Sealladair eadar-dhealaichte",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Inneal coimeas eadar-loidhne aotrom aotrom airson teacsa agus còd.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Sealladair eadar-dhealaichte"
+  },
+  "headerSubtitle": {
+    "message": "Dèan coimeas eadar teacsa, còd, JSON, agus barrachd - far-loidhne"
+  },
+  "labelOriginal": {
+    "message": "tùsail"
+  },
+  "labelModified": {
+    "message": "Atharraichte"
+  },
+  "placeholderOriginal": {
+    "message": "Cuir a-steach teacsa no còd tùsail an seo ..."
+  },
+  "placeholderModified": {
+    "message": "Cuir a-steach teacsa no còd atharraichte an seo ..."
+  },
+  "btnCompare": {
+    "message": "Dèan coimeas"
+  },
+  "btnClear": {
+    "message": "Soilleir"
+  },
+  "btnCopyLeft": {
+    "message": "Dèan lethbhreac air an taobh chlì"
+  },
+  "btnCopyRight": {
+    "message": "Dèan lethbhreac ceart"
+  },
+  "btnSwap": {
+    "message": "Suaip"
+  },
+  "btnInlineDiff": {
+    "message": "In-loidhne"
+  },
+  "btnSideBySide": {
+    "message": "Taobh ri taobh"
+  },
+  "statAdded": {
+    "message": "Air a chur ris"
+  },
+  "statRemoved": {
+    "message": "Air a thoirt air falbh"
+  },
+  "statChanged": {
+    "message": "Dh'atharraich"
+  },
+  "statUnchanged": {
+    "message": "Gun atharrachadh"
+  },
+  "statLines": {
+    "message": "sreathan"
+  },
+  "emptyStateTitle": {
+    "message": "Deiseil airson coimeas a dhèanamh"
+  },
+  "emptyStateBody": {
+    "message": "Cuir teacsa a-steach don dà phannal agus cliog Dèan coimeas - no brùth Ctrl + Enter"
+  },
+  "identicalTitle": {
+    "message": "Tha faidhlichean co-ionann"
+  },
+  "identicalBody": {
+    "message": "Cha deach eadar-dhealachadh sam bith a lorg eadar an dà chuir a-steach."
+  },
+  "errorLargeInput": {
+    "message": "Tha an cur a-steach glè mhòr. Is dòcha gun toir Diff mionaid..."
+  },
+  "errorBothEmpty": {
+    "message": "Feuch an cuir thu susbaint a-steach don dà phannal mus dèan thu coimeas."
+  },
+  "errorOneEmpty": {
+    "message": "Tha aon phannal falamh. Feuch an toir thu seachad susbaint anns an dà phannal."
+  },
+  "copied": {
+    "message": "Rinn lethbhreac!"
+  },
+  "copyFailed": {
+    "message": "Dh'fhàillig lethbhreac"
+  },
+  "cleared": {
+    "message": "Air fhuadach"
+  },
+  "swapped": {
+    "message": "Air iomlaid"
+  },
+  "kbShortcutsTitle": {
+    "message": "Ath-ghoiridean meur-chlàr"
+  },
+  "kbCompare": {
+    "message": "Dèan coimeas"
+  },
+  "kbClear": {
+    "message": "Soilleir"
+  },
+  "kbSwap": {
+    "message": "Dèan iomlaid air pannalan"
+  },
+  "lineLabel": {
+    "message": "Loidhne"
+  },
+  "addedLabel": {
+    "message": "air a chur ris"
+  },
+  "removedLabel": {
+    "message": "air a thoirt air falbh"
+  },
+  "changedLabel": {
+    "message": "air atharrachadh"
+  },
+  "unchangedLabel": {
+    "message": "gun atharrachadh"
+  },
+  "formatJSON": {
+    "message": "Cruth JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON mì-dhligheach ann an aon phannal no an dà chuid."
+  },
+  "wordDiff": {
+    "message": "Facal eadar-dhealaichte"
+  },
+  "resultsPanelTitle": {
+    "message": "Toraidhean eadar-dhealaichte"
+  },
+  "processingLabel": {
+    "message": "A' giullachd..."
+  }
+}

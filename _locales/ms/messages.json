@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Pemapar Berbeza",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Pemapar Berbeza",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Alat perbandingan perbezaan luar talian yang ringan untuk teks dan kod.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Pemapar Berbeza"
+  },
+  "headerSubtitle": {
+    "message": "Bandingkan teks, kod, JSON dan banyak lagi — di luar talian"
+  },
+  "labelOriginal": {
+    "message": "Asal"
+  },
+  "labelModified": {
+    "message": "Diubah suai"
+  },
+  "placeholderOriginal": {
+    "message": "Tampal teks atau kod asal di sini..."
+  },
+  "placeholderModified": {
+    "message": "Tampal teks atau kod yang diubah suai di sini..."
+  },
+  "btnCompare": {
+    "message": "Bandingkan"
+  },
+  "btnClear": {
+    "message": "Jelas"
+  },
+  "btnCopyLeft": {
+    "message": "Salin Kiri"
+  },
+  "btnCopyRight": {
+    "message": "Salin Kanan"
+  },
+  "btnSwap": {
+    "message": "Tukar"
+  },
+  "btnInlineDiff": {
+    "message": "Sebaris"
+  },
+  "btnSideBySide": {
+    "message": "Bersebelahan"
+  },
+  "statAdded": {
+    "message": "Ditambah"
+  },
+  "statRemoved": {
+    "message": "Dialih keluar"
+  },
+  "statChanged": {
+    "message": "Berubah"
+  },
+  "statUnchanged": {
+    "message": "Tidak berubah"
+  },
+  "statLines": {
+    "message": "garisan"
+  },
+  "emptyStateTitle": {
+    "message": "Sedia untuk Bandingkan"
+  },
+  "emptyStateBody": {
+    "message": "Tampal teks ke dalam kedua-dua panel dan klik Bandingkan — atau tekan Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Fail adalah Sama"
+  },
+  "identicalBody": {
+    "message": "Tiada perbezaan ditemui antara kedua-dua input."
+  },
+  "errorLargeInput": {
+    "message": "Input sangat besar. Perbezaan mungkin mengambil sedikit masa..."
+  },
+  "errorBothEmpty": {
+    "message": "Sila tampal kandungan ke dalam kedua-dua panel sebelum membandingkan."
+  },
+  "errorOneEmpty": {
+    "message": "Satu panel kosong. Sila berikan kandungan dalam kedua-dua panel."
+  },
+  "copied": {
+    "message": "disalin!"
+  },
+  "copyFailed": {
+    "message": "Salinan gagal"
+  },
+  "cleared": {
+    "message": "Dikosongkan"
+  },
+  "swapped": {
+    "message": "Ditukar"
+  },
+  "kbShortcutsTitle": {
+    "message": "Pintasan Papan Kekunci"
+  },
+  "kbCompare": {
+    "message": "Bandingkan"
+  },
+  "kbClear": {
+    "message": "Jelas"
+  },
+  "kbSwap": {
+    "message": "Tukar panel"
+  },
+  "lineLabel": {
+    "message": "Talian"
+  },
+  "addedLabel": {
+    "message": "tambah"
+  },
+  "removedLabel": {
+    "message": "dikeluarkan"
+  },
+  "changedLabel": {
+    "message": "berubah"
+  },
+  "unchangedLabel": {
+    "message": "tidak berubah"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON tidak sah dalam satu atau kedua-dua panel."
+  },
+  "wordDiff": {
+    "message": "Perbezaan Perkataan"
+  },
+  "resultsPanelTitle": {
+    "message": "Keputusan Berbeza"
+  },
+  "processingLabel": {
+    "message": "Memproses..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Amharcóir Difriúil",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Amharcóir Difriúil",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Uirlis éadrom comparáide difr as líne le haghaidh téacs agus cód.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Amharcóir Difriúil"
+  },
+  "headerSubtitle": {
+    "message": "Déan comparáid idir téacs, cód, JSON, agus tuilleadh - as líne"
+  },
+  "labelOriginal": {
+    "message": "Bunaidh"
+  },
+  "labelModified": {
+    "message": "Athraithe"
+  },
+  "placeholderOriginal": {
+    "message": "Greamaigh téacs nó cód bunaidh anseo..."
+  },
+  "placeholderModified": {
+    "message": "Greamaigh téacs nó cód modhnaithe anseo..."
+  },
+  "btnCompare": {
+    "message": "Déan comparáid idir"
+  },
+  "btnClear": {
+    "message": "Glan"
+  },
+  "btnCopyLeft": {
+    "message": "Cóipeáil ar Chlé"
+  },
+  "btnCopyRight": {
+    "message": "Cóipeáil Ceart"
+  },
+  "btnSwap": {
+    "message": "Babhtáil"
+  },
+  "btnInlineDiff": {
+    "message": "Inlíne"
+  },
+  "btnSideBySide": {
+    "message": "Taobh le Taobh"
+  },
+  "statAdded": {
+    "message": "Curtha leis"
+  },
+  "statRemoved": {
+    "message": "Bainte"
+  },
+  "statChanged": {
+    "message": "Athraithe"
+  },
+  "statUnchanged": {
+    "message": "Gan athrú"
+  },
+  "statLines": {
+    "message": "línte"
+  },
+  "emptyStateTitle": {
+    "message": "Réidh le Comparáid a dhéanamh"
+  },
+  "emptyStateBody": {
+    "message": "Greamaigh téacs isteach sa dá phainéal agus cliceáil Compare - nó brúigh Ctrl+Iontráil"
+  },
+  "identicalTitle": {
+    "message": "Comhaid atá comhionann"
+  },
+  "identicalBody": {
+    "message": "Ní bhfuarthas aon difríocht idir an dá ionchur."
+  },
+  "errorLargeInput": {
+    "message": "Tá ionchur an-mhór. Seans go dtógfaidh Diff nóiméad..."
+  },
+  "errorBothEmpty": {
+    "message": "Le do thoil greamaigh an t-ábhar isteach sa dá phainéal roimh chomparáid a dhéanamh."
+  },
+  "errorOneEmpty": {
+    "message": "Tá painéal amháin folamh. Tabhair ábhar sa dá phainéal le do thoil."
+  },
+  "copied": {
+    "message": "Cóipeáladh!"
+  },
+  "copyFailed": {
+    "message": "Theip ar an gcóipeáil"
+  },
+  "cleared": {
+    "message": "Glanta"
+  },
+  "swapped": {
+    "message": "Mhalartaigh"
+  },
+  "kbShortcutsTitle": {
+    "message": "Aicearraí méarchláir"
+  },
+  "kbCompare": {
+    "message": "Déan comparáid idir"
+  },
+  "kbClear": {
+    "message": "Glan"
+  },
+  "kbSwap": {
+    "message": "Painéil babhtála"
+  },
+  "lineLabel": {
+    "message": "Líne"
+  },
+  "addedLabel": {
+    "message": "curtha leis"
+  },
+  "removedLabel": {
+    "message": "bhaintear"
+  },
+  "changedLabel": {
+    "message": "athraigh"
+  },
+  "unchangedLabel": {
+    "message": "gan athrú"
+  },
+  "formatJSON": {
+    "message": "Formáid JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON neamhbhailí i gceann amháin nó sa dá phainéal."
+  },
+  "wordDiff": {
+    "message": "Focal Difríocht"
+  },
+  "resultsPanelTitle": {
+    "message": "Torthaí Difriúla"
+  },
+  "processingLabel": {
+    "message": "Próiseáil..."
+  }
+}

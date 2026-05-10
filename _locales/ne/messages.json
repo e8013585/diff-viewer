@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "भिन्न दर्शक",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "भिन्न दर्शक",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "पाठ र कोडको लागि हल्का अफलाइन भिन्न तुलना उपकरण।",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "भिन्न दर्शक"
+  },
+  "headerSubtitle": {
+    "message": "पाठ, कोड, JSON, र थप तुलना गर्नुहोस् — अफलाइन"
+  },
+  "labelOriginal": {
+    "message": "मौलिक"
+  },
+  "labelModified": {
+    "message": "परिमार्जित"
+  },
+  "placeholderOriginal": {
+    "message": "यहाँ मूल पाठ वा कोड टाँस्नुहोस्..."
+  },
+  "placeholderModified": {
+    "message": "परिमार्जित पाठ वा कोड यहाँ टाँस्नुहोस्..."
+  },
+  "btnCompare": {
+    "message": "तुलना गर्नुहोस्"
+  },
+  "btnClear": {
+    "message": "खाली गर्नुहोस्"
+  },
+  "btnCopyLeft": {
+    "message": "बायाँ प्रतिलिपि गर्नुहोस्"
+  },
+  "btnCopyRight": {
+    "message": "प्रतिलिपि अधिकार"
+  },
+  "btnSwap": {
+    "message": "स्वैप"
+  },
+  "btnInlineDiff": {
+    "message": "इनलाइन"
+  },
+  "btnSideBySide": {
+    "message": "छेउछाउ"
+  },
+  "statAdded": {
+    "message": "थपियो"
+  },
+  "statRemoved": {
+    "message": "हटाइयो"
+  },
+  "statChanged": {
+    "message": "परिवर्तन भयो"
+  },
+  "statUnchanged": {
+    "message": "अपरिवर्तित"
+  },
+  "statLines": {
+    "message": "रेखाहरू"
+  },
+  "emptyStateTitle": {
+    "message": "तुलना गर्न तयार छ"
+  },
+  "emptyStateBody": {
+    "message": "दुबै प्यानलहरूमा पाठ टाँस्नुहोस् र तुलना क्लिक गर्नुहोस् — वा Ctrl+Enter थिच्नुहोस्"
+  },
+  "identicalTitle": {
+    "message": "फाइलहरू समान छन्"
+  },
+  "identicalBody": {
+    "message": "दुई इनपुटहरू बीच कुनै भिन्नता फेला परेन।"
+  },
+  "errorLargeInput": {
+    "message": "इनपुट धेरै ठूलो छ। भिन्नताले केही समय लिन सक्छ..."
+  },
+  "errorBothEmpty": {
+    "message": "कृपया तुलना गर्नु अघि दुवै प्यानलहरूमा सामग्री टाँस्नुहोस्।"
+  },
+  "errorOneEmpty": {
+    "message": "एउटा प्यानल खाली छ। कृपया दुवै प्यानलहरूमा सामग्री प्रदान गर्नुहोस्।"
+  },
+  "copied": {
+    "message": "प्रतिलिपि गरियो!"
+  },
+  "copyFailed": {
+    "message": "प्रतिलिपि गर्न सकिएन"
+  },
+  "cleared": {
+    "message": "खाली गरियो"
+  },
+  "swapped": {
+    "message": "स्वैप गरियो"
+  },
+  "kbShortcutsTitle": {
+    "message": "किबोर्ड सर्टकटहरू"
+  },
+  "kbCompare": {
+    "message": "तुलना गर्नुहोस्"
+  },
+  "kbClear": {
+    "message": "खाली गर्नुहोस्"
+  },
+  "kbSwap": {
+    "message": "प्यानलहरू बदल्नुहोस्"
+  },
+  "lineLabel": {
+    "message": "रेखा"
+  },
+  "addedLabel": {
+    "message": "थपियो"
+  },
+  "removedLabel": {
+    "message": "हटाइयो"
+  },
+  "changedLabel": {
+    "message": "परिवर्तन भयो"
+  },
+  "unchangedLabel": {
+    "message": "अपरिवर्तित"
+  },
+  "formatJSON": {
+    "message": "JSON ढाँचा"
+  },
+  "formatJSONError": {
+    "message": "एक वा दुवै प्यानलमा अमान्य JSON।"
+  },
+  "wordDiff": {
+    "message": "शब्द भिन्नता"
+  },
+  "resultsPanelTitle": {
+    "message": "फरक परिणामहरू"
+  },
+  "processingLabel": {
+    "message": "प्रशोधन गर्दै..."
+  }
+}

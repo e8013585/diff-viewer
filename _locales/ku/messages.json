@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Amûra berhevdana ciyawaziya negirêdayî ya sivik ji bo nivîs û kodê.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Nivîsar, kod, JSON, û hêj bêtir berhev bikin - negirêdayî"
+  },
+  "labelOriginal": {
+    "message": "Eslî"
+  },
+  "labelModified": {
+    "message": "Modified"
+  },
+  "placeholderOriginal": {
+    "message": "Nivîsar an koda orîjînal li vir bixin..."
+  },
+  "placeholderModified": {
+    "message": "Nivîsar an koda guhertî li vir bixin..."
+  },
+  "btnCompare": {
+    "message": "Mûqayesekirin"
+  },
+  "btnClear": {
+    "message": "Zelal"
+  },
+  "btnCopyLeft": {
+    "message": "Çepê kopî bikin"
+  },
+  "btnCopyRight": {
+    "message": "Kopî Rast"
+  },
+  "btnSwap": {
+    "message": "Swap"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Mil bi mil"
+  },
+  "statAdded": {
+    "message": "Zêde kirin"
+  },
+  "statRemoved": {
+    "message": "Rakirin"
+  },
+  "statChanged": {
+    "message": "Guhertin"
+  },
+  "statUnchanged": {
+    "message": "Neguherî"
+  },
+  "statLines": {
+    "message": "xetên"
+  },
+  "emptyStateTitle": {
+    "message": "Ji bo Berawirdkirinê amade ne"
+  },
+  "emptyStateBody": {
+    "message": "Nivîsarê li her du panelan bixin û Compare bikirtînin - an jî Ctrl+Enter bikirtînin"
+  },
+  "identicalTitle": {
+    "message": "Pelên wekî hev in"
+  },
+  "identicalBody": {
+    "message": "Di navbera her du têketinê de cûdahî nehatin dîtin."
+  },
+  "errorLargeInput": {
+    "message": "Input pir mezin e. Cûda dibe ku demek dirêj bike..."
+  },
+  "errorBothEmpty": {
+    "message": "Ji kerema xwe berî berhevdanê naverokê li herdu panelan bixin."
+  },
+  "errorOneEmpty": {
+    "message": "Panelek vala ye. Ji kerema xwe di her du panelan de naverokê pêşkêş bikin."
+  },
+  "copied": {
+    "message": "Kopî kirin!"
+  },
+  "copyFailed": {
+    "message": "Kopî têk çû"
+  },
+  "cleared": {
+    "message": "Paqij kirin"
+  },
+  "swapped": {
+    "message": "guherandin"
+  },
+  "kbShortcutsTitle": {
+    "message": "Kurteyên Klavyeyê"
+  },
+  "kbCompare": {
+    "message": "Mûqayesekirin"
+  },
+  "kbClear": {
+    "message": "Zelal"
+  },
+  "kbSwap": {
+    "message": "Swap panelan"
+  },
+  "lineLabel": {
+    "message": "Xet"
+  },
+  "addedLabel": {
+    "message": "zêde kirin"
+  },
+  "removedLabel": {
+    "message": "rakirin"
+  },
+  "changedLabel": {
+    "message": "guhertin"
+  },
+  "unchangedLabel": {
+    "message": "neguherî"
+  },
+  "formatJSON": {
+    "message": "JSON format bikin"
+  },
+  "formatJSONError": {
+    "message": "JSON nederbasdar di yek an herdu panelan de."
+  },
+  "wordDiff": {
+    "message": "Peyv Cûdahî"
+  },
+  "resultsPanelTitle": {
+    "message": "Encamên Cûda"
+  },
+  "processingLabel": {
+    "message": "Xebitandinî..."
+  }
+}

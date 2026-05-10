@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Թեթև անցանց տարբերությունների համեմատության գործիք տեքստի և կոդի համար:",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Համեմատեք տեքստը, կոդը, JSON-ը և ավելին՝ անցանց"
+  },
+  "labelOriginal": {
+    "message": "Օրիգինալ"
+  },
+  "labelModified": {
+    "message": "Փոփոխված"
+  },
+  "placeholderOriginal": {
+    "message": "Տեղադրեք բնօրինակ տեքստը կամ կոդը այստեղ..."
+  },
+  "placeholderModified": {
+    "message": "Տեղադրեք փոփոխված տեքստը կամ կոդը այստեղ..."
+  },
+  "btnCompare": {
+    "message": "Համեմատեք"
+  },
+  "btnClear": {
+    "message": "Պարզ"
+  },
+  "btnCopyLeft": {
+    "message": "Պատճենել ձախ"
+  },
+  "btnCopyRight": {
+    "message": "Պատճենել իրավունք"
+  },
+  "btnSwap": {
+    "message": "Փոխանակում"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Կողք կողքի"
+  },
+  "statAdded": {
+    "message": "Ավելացված է"
+  },
+  "statRemoved": {
+    "message": "Հեռացված է"
+  },
+  "statChanged": {
+    "message": "Փոխվել է"
+  },
+  "statUnchanged": {
+    "message": "Անփոփոխ"
+  },
+  "statLines": {
+    "message": "տողեր"
+  },
+  "emptyStateTitle": {
+    "message": "Պատրաստ է Համեմատելու"
+  },
+  "emptyStateBody": {
+    "message": "Տեղադրեք տեքստը երկու վահանակների մեջ և սեղմեք Համեմատել կամ սեղմեք Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Ֆայլերը նույնական են"
+  },
+  "identicalBody": {
+    "message": "Երկու մուտքերի միջև տարբերություններ չեն հայտնաբերվել:"
+  },
+  "errorLargeInput": {
+    "message": "Ներածումը շատ մեծ է: Տարբերությունը կարող է մի պահ տևել..."
+  },
+  "errorBothEmpty": {
+    "message": "Համեմատելուց առաջ տեղադրեք բովանդակությունը երկու վահանակներում:"
+  },
+  "errorOneEmpty": {
+    "message": "Մեկ վահանակը դատարկ է: Խնդրում ենք տրամադրել բովանդակություն երկու վահանակներում:"
+  },
+  "copied": {
+    "message": "Պատճենվել է"
+  },
+  "copyFailed": {
+    "message": "Չհաջողվեց պատճենել"
+  },
+  "cleared": {
+    "message": "Մաքրված է"
+  },
+  "swapped": {
+    "message": "Փոխանակված"
+  },
+  "kbShortcutsTitle": {
+    "message": "Ստեղնաշարի դյուրանցումներ"
+  },
+  "kbCompare": {
+    "message": "Համեմատեք"
+  },
+  "kbClear": {
+    "message": "Պարզ"
+  },
+  "kbSwap": {
+    "message": "Փոխանակեք վահանակներ"
+  },
+  "lineLabel": {
+    "message": "Գիծ"
+  },
+  "addedLabel": {
+    "message": "ավելացրել է"
+  },
+  "removedLabel": {
+    "message": "հեռացվել է"
+  },
+  "changedLabel": {
+    "message": "փոխվել է"
+  },
+  "unchangedLabel": {
+    "message": "անփոփոխ"
+  },
+  "formatJSON": {
+    "message": "Ձևաչափեք JSON"
+  },
+  "formatJSONError": {
+    "message": "Անվավեր JSON մեկ կամ երկու վահանակներում:"
+  },
+  "wordDiff": {
+    "message": "Բառի տարբերություն"
+  },
+  "resultsPanelTitle": {
+    "message": "Տարբեր արդյունքներ"
+  },
+  "processingLabel": {
+    "message": "Մշակվում է..."
+  }
+}

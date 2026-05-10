@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ડિફ વ્યૂઅર",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ડિફ વ્યૂઅર",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ટેક્સ્ટ અને કોડ માટે લાઇટવેઇટ ઑફલાઇન ડિફ સરખામણી સાધન.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ડિફ વ્યૂઅર"
+  },
+  "headerSubtitle": {
+    "message": "ટેક્સ્ટ, કોડ, JSON અને વધુની સરખામણી કરો — ઑફલાઇન"
+  },
+  "labelOriginal": {
+    "message": "મૂળ"
+  },
+  "labelModified": {
+    "message": "સંશોધિત"
+  },
+  "placeholderOriginal": {
+    "message": "મૂળ ટેક્સ્ટ અથવા કોડ અહીં પેસ્ટ કરો..."
+  },
+  "placeholderModified": {
+    "message": "સંશોધિત ટેક્સ્ટ અથવા કોડ અહીં પેસ્ટ કરો..."
+  },
+  "btnCompare": {
+    "message": "સરખામણી કરો"
+  },
+  "btnClear": {
+    "message": "સાફ કરો"
+  },
+  "btnCopyLeft": {
+    "message": "ડાબે કૉપિ કરો"
+  },
+  "btnCopyRight": {
+    "message": "કૉપિ રાઇટ"
+  },
+  "btnSwap": {
+    "message": "સ્વેપ"
+  },
+  "btnInlineDiff": {
+    "message": "ઇનલાઇન"
+  },
+  "btnSideBySide": {
+    "message": "સાઇડ બાય સાઇડ"
+  },
+  "statAdded": {
+    "message": "ઉમેર્યું"
+  },
+  "statRemoved": {
+    "message": "દૂર કર્યું"
+  },
+  "statChanged": {
+    "message": "બદલાયેલ"
+  },
+  "statUnchanged": {
+    "message": "યથાવત"
+  },
+  "statLines": {
+    "message": "રેખાઓ"
+  },
+  "emptyStateTitle": {
+    "message": "સરખામણી કરવા માટે તૈયાર"
+  },
+  "emptyStateBody": {
+    "message": "બંને પેનલમાં ટેક્સ્ટ પેસ્ટ કરો અને તુલના કરો ક્લિક કરો — અથવા Ctrl+Enter દબાવો"
+  },
+  "identicalTitle": {
+    "message": "ફાઇલો સમાન છે"
+  },
+  "identicalBody": {
+    "message": "બે ઇનપુટ વચ્ચે કોઈ તફાવત જોવા મળ્યો નથી."
+  },
+  "errorLargeInput": {
+    "message": "ઇનપુટ ખૂબ મોટું છે. તફાવતમાં થોડો સમય લાગી શકે છે..."
+  },
+  "errorBothEmpty": {
+    "message": "કૃપા કરીને સરખામણી કરતા પહેલા બંને પેનલમાં સામગ્રી પેસ્ટ કરો."
+  },
+  "errorOneEmpty": {
+    "message": "એક પેનલ ખાલી છે. કૃપા કરીને બંને પેનલમાં સામગ્રી પ્રદાન કરો."
+  },
+  "copied": {
+    "message": "નકલ કરી!"
+  },
+  "copyFailed": {
+    "message": "નકલ નિષ્ફળ"
+  },
+  "cleared": {
+    "message": "સાફ કર્યું"
+  },
+  "swapped": {
+    "message": "અદલાબદલી"
+  },
+  "kbShortcutsTitle": {
+    "message": "કીબોર્ડ શૉર્ટકટ્સ"
+  },
+  "kbCompare": {
+    "message": "સરખામણી કરો"
+  },
+  "kbClear": {
+    "message": "સાફ કરો"
+  },
+  "kbSwap": {
+    "message": "સ્વેપ પેનલ્સ"
+  },
+  "lineLabel": {
+    "message": "રેખા"
+  },
+  "addedLabel": {
+    "message": "ઉમેર્યું"
+  },
+  "removedLabel": {
+    "message": "દૂર"
+  },
+  "changedLabel": {
+    "message": "બદલાયેલ"
+  },
+  "unchangedLabel": {
+    "message": "અપરિવર્તિત"
+  },
+  "formatJSON": {
+    "message": "JSON ફોર્મેટ કરો"
+  },
+  "formatJSONError": {
+    "message": "એક અથવા બંને પેનલમાં અમાન્ય JSON."
+  },
+  "wordDiff": {
+    "message": "શબ્દ તફાવત"
+  },
+  "resultsPanelTitle": {
+    "message": "વિવિધ પરિણામો"
+  },
+  "processingLabel": {
+    "message": "પ્રક્રિયા કરી રહ્યું છે..."
+  }
+}

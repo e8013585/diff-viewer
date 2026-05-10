@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "डिफ व्ह्यूअर",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "डिफ व्ह्यूअर",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "मजकूर आनी कोड खातीर हलकें ऑफलायन डिफ तुळा साधन.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "डिफ व्ह्यूअर"
+  },
+  "headerSubtitle": {
+    "message": "मजकूर, कोड, JSON, आनी हेर तुळा करात — ऑफलायन"
+  },
+  "labelOriginal": {
+    "message": "मूळ"
+  },
+  "labelModified": {
+    "message": "सुदारीत केल्लें"
+  },
+  "placeholderOriginal": {
+    "message": "मूळ मजकूर वा कोड हांगा पेस्ट करात..."
+  },
+  "placeholderModified": {
+    "message": "सुदारीत मजकूर वा कोड हांगा पेस्ट करात..."
+  },
+  "btnCompare": {
+    "message": "तुळा"
+  },
+  "btnClear": {
+    "message": "नितळ"
+  },
+  "btnCopyLeft": {
+    "message": "प्रत उजवे वटेन"
+  },
+  "btnCopyRight": {
+    "message": "प्रत उजवें करचें"
+  },
+  "btnSwap": {
+    "message": "सान्न मारप"
+  },
+  "btnInlineDiff": {
+    "message": "इनलायनांत"
+  },
+  "btnSideBySide": {
+    "message": "बाजू बाजून"
+  },
+  "statAdded": {
+    "message": "जोडले"
+  },
+  "statRemoved": {
+    "message": "काडून उडयले"
+  },
+  "statChanged": {
+    "message": "बदलले"
+  },
+  "statUnchanged": {
+    "message": "अपरिवर्तित"
+  },
+  "statLines": {
+    "message": "ओळीं आसतात"
+  },
+  "emptyStateTitle": {
+    "message": "तुळा करपाक तयार"
+  },
+  "emptyStateBody": {
+    "message": "दोनूय पॅनलांत मजकूर पेस्ट करात आनी तुळा करात क्लिक करात — वा Ctrl+Enter दामयात"
+  },
+  "identicalTitle": {
+    "message": "फायली सारकींच आसतात"
+  },
+  "identicalBody": {
+    "message": "दोनूय इनपुटांत फरक दिसूंक ना."
+  },
+  "errorLargeInput": {
+    "message": "इनपुट खूब व्हड आसता. फरक एक खीण लागूं येता..."
+  },
+  "errorBothEmpty": {
+    "message": "उपकार करून तुळा करचे पयलीं दोनूय पॅनलांत सामुग्री पेस्ट करात."
+  },
+  "errorOneEmpty": {
+    "message": "एक पॅनल रितें आसा. उपकार करून दोनूय पॅनलांत सामुग्री दिवची."
+  },
+  "copied": {
+    "message": "नकल केल्ली!"
+  },
+  "copyFailed": {
+    "message": "प्रत अपयशी थारली"
+  },
+  "cleared": {
+    "message": "निवळ केलें"
+  },
+  "swapped": {
+    "message": "अदलाबदल केलें"
+  },
+  "kbShortcutsTitle": {
+    "message": "कीबोर्ड शॉर्टकट"
+  },
+  "kbCompare": {
+    "message": "तुळा"
+  },
+  "kbClear": {
+    "message": "नितळ"
+  },
+  "kbSwap": {
+    "message": "पॅनल अदलाबदल करप"
+  },
+  "lineLabel": {
+    "message": "ओळ"
+  },
+  "addedLabel": {
+    "message": "जोडलें"
+  },
+  "removedLabel": {
+    "message": "काडून उडयले"
+  },
+  "changedLabel": {
+    "message": "बदलले"
+  },
+  "unchangedLabel": {
+    "message": "अदलाबदल जावंक ना"
+  },
+  "formatJSON": {
+    "message": "JSON स्वरूपण करचें"
+  },
+  "formatJSONError": {
+    "message": "एका वा दोनूय पॅनलांत अवैध JSON."
+  },
+  "wordDiff": {
+    "message": "शब्द फरक"
+  },
+  "resultsPanelTitle": {
+    "message": "डिफ रिजल्ट"
+  },
+  "processingLabel": {
+    "message": "प्रक्रिया करप..."
+  }
+}

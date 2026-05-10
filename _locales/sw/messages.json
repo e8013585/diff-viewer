@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Kitazamaji Tofauti",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Kitazamaji Tofauti",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Zana nyepesi ya kulinganisha tofauti za nje ya mtandao kwa maandishi na msimbo.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Kitazamaji Tofauti"
+  },
+  "headerSubtitle": {
+    "message": "Linganisha maandishi, msimbo, JSON na zaidi - nje ya mtandao"
+  },
+  "labelOriginal": {
+    "message": "Asili"
+  },
+  "labelModified": {
+    "message": "Imebadilishwa"
+  },
+  "placeholderOriginal": {
+    "message": "Bandika maandishi asilia au msimbo hapa..."
+  },
+  "placeholderModified": {
+    "message": "Bandika maandishi au msimbo uliorekebishwa hapa..."
+  },
+  "btnCompare": {
+    "message": "Linganisha"
+  },
+  "btnClear": {
+    "message": "Wazi"
+  },
+  "btnCopyLeft": {
+    "message": "Nakili Kushoto"
+  },
+  "btnCopyRight": {
+    "message": "Nakili Kulia"
+  },
+  "btnSwap": {
+    "message": "Badili"
+  },
+  "btnInlineDiff": {
+    "message": "Ndani ya mstari"
+  },
+  "btnSideBySide": {
+    "message": "Upande kwa Upande"
+  },
+  "statAdded": {
+    "message": "Imeongezwa"
+  },
+  "statRemoved": {
+    "message": "Imeondolewa"
+  },
+  "statChanged": {
+    "message": "Imebadilishwa"
+  },
+  "statUnchanged": {
+    "message": "Haijabadilika"
+  },
+  "statLines": {
+    "message": "mistari"
+  },
+  "emptyStateTitle": {
+    "message": "Tayari Kulinganisha"
+  },
+  "emptyStateBody": {
+    "message": "Bandika maandishi kwenye paneli zote mbili na ubofye Linganisha - au bonyeza Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Faili zinafanana"
+  },
+  "identicalBody": {
+    "message": "Hakuna tofauti zilizopatikana kati ya pembejeo hizo mbili."
+  },
+  "errorLargeInput": {
+    "message": "Ingizo ni kubwa sana. Tofauti inaweza kuchukua muda..."
+  },
+  "errorBothEmpty": {
+    "message": "Tafadhali bandika maudhui kwenye vidirisha vyote viwili kabla ya kulinganisha."
+  },
+  "errorOneEmpty": {
+    "message": "Paneli moja haina kitu. Tafadhali toa maudhui katika vidirisha vyote viwili."
+  },
+  "copied": {
+    "message": "Imenakiliwa!"
+  },
+  "copyFailed": {
+    "message": "Imeshindwa kunakili"
+  },
+  "cleared": {
+    "message": "Imefutwa"
+  },
+  "swapped": {
+    "message": "Imebadilishwa"
+  },
+  "kbShortcutsTitle": {
+    "message": "Njia za mkato za Kibodi"
+  },
+  "kbCompare": {
+    "message": "Linganisha"
+  },
+  "kbClear": {
+    "message": "Wazi"
+  },
+  "kbSwap": {
+    "message": "Badilisha paneli"
+  },
+  "lineLabel": {
+    "message": "Mstari"
+  },
+  "addedLabel": {
+    "message": "aliongeza"
+  },
+  "removedLabel": {
+    "message": "kuondolewa"
+  },
+  "changedLabel": {
+    "message": "iliyopita"
+  },
+  "unchangedLabel": {
+    "message": "bila kubadilika"
+  },
+  "formatJSON": {
+    "message": "Umbiza JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON batili katika paneli moja au zote mbili."
+  },
+  "wordDiff": {
+    "message": "Tofauti ya Neno"
+  },
+  "resultsPanelTitle": {
+    "message": "Matokeo Tofauti"
+  },
+  "processingLabel": {
+    "message": "Inachakata..."
+  }
+}

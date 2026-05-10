@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Намоишгари фарқият",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Намоишгари фарқият",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Асбоби муқоисаи фарқияти офлайнӣ барои матн ва код.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Намоишгари фарқият"
+  },
+  "headerSubtitle": {
+    "message": "Матн, код, JSON ва ғайраро муқоиса кунед - офлайн"
+  },
+  "labelOriginal": {
+    "message": "Асли"
+  },
+  "labelModified": {
+    "message": "Тағйир дода шудааст"
+  },
+  "placeholderOriginal": {
+    "message": "Матни аслӣ ё кодро дар ин ҷо гузоред..."
+  },
+  "placeholderModified": {
+    "message": "Матн ё рамзи тағирёфтаро дар ин ҷо гузоред..."
+  },
+  "btnCompare": {
+    "message": "Муқоиса кунед"
+  },
+  "btnClear": {
+    "message": "Тоза"
+  },
+  "btnCopyLeft": {
+    "message": "Ба чап нусхабардорӣ кунед"
+  },
+  "btnCopyRight": {
+    "message": "Ба рост нусхабардорӣ кунед"
+  },
+  "btnSwap": {
+    "message": "Иваз кардан"
+  },
+  "btnInlineDiff": {
+    "message": "Дар мувофиқат"
+  },
+  "btnSideBySide": {
+    "message": "Паҳлӯ ба паҳлӯ"
+  },
+  "statAdded": {
+    "message": "Илова карда шуд"
+  },
+  "statRemoved": {
+    "message": "Хориҷ карда шуд"
+  },
+  "statChanged": {
+    "message": "Тағйир дода шуд"
+  },
+  "statUnchanged": {
+    "message": "Бетағйир"
+  },
+  "statLines": {
+    "message": "хатҳо"
+  },
+  "emptyStateTitle": {
+    "message": "Омода барои муқоиса"
+  },
+  "emptyStateBody": {
+    "message": "Матнро ба ҳарду панел гузоред ва Муқоиса -ро пахш кунед ё Ctrl+Enter -ро пахш кунед"
+  },
+  "identicalTitle": {
+    "message": "Файлҳо якхелаанд"
+  },
+  "identicalBody": {
+    "message": "Дар байни ду вуруд ягон фарқият пайдо нашуд."
+  },
+  "errorLargeInput": {
+    "message": "Воридот хеле калон аст. Тафовут метавонад як лаҳза гирад ..."
+  },
+  "errorBothEmpty": {
+    "message": "Лутфан пеш аз муқоиса мундариҷаро ба ҳарду панел часбонед."
+  },
+  "errorOneEmpty": {
+    "message": "Як панел холӣ аст. Лутфан мундариҷаро дар ҳарду панел пешниҳод кунед."
+  },
+  "copied": {
+    "message": "Нусхабардорӣ!"
+  },
+  "copyFailed": {
+    "message": "Нусхабардорӣ муваффақ нашуд"
+  },
+  "cleared": {
+    "message": "Тоза карда шуд"
+  },
+  "swapped": {
+    "message": "Иваз карда шуд"
+  },
+  "kbShortcutsTitle": {
+    "message": "Миёнабурҳои клавиатура"
+  },
+  "kbCompare": {
+    "message": "Муқоиса кунед"
+  },
+  "kbClear": {
+    "message": "Тоза"
+  },
+  "kbSwap": {
+    "message": "Иваз кардани панелҳо"
+  },
+  "lineLabel": {
+    "message": "Хат"
+  },
+  "addedLabel": {
+    "message": "илова кард"
+  },
+  "removedLabel": {
+    "message": "хориҷ карда шудааст"
+  },
+  "changedLabel": {
+    "message": "тагьир ёфт"
+  },
+  "unchangedLabel": {
+    "message": "бетағйир"
+  },
+  "formatJSON": {
+    "message": "Формат JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON нодуруст дар як ё ҳар ду панел."
+  },
+  "wordDiff": {
+    "message": "Фарқияти калима"
+  },
+  "resultsPanelTitle": {
+    "message": "Натиҷаҳои фарқият"
+  },
+  "processingLabel": {
+    "message": "Коркард..."
+  }
+}

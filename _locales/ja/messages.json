@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "差分ビューア",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "差分ビューア",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "テキストとコードのための軽量のオフライン差分比較ツール。",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "差分ビューア"
+  },
+  "headerSubtitle": {
+    "message": "テキスト、コード、JSON などをオフラインで比較します"
+  },
+  "labelOriginal": {
+    "message": "オリジナル"
+  },
+  "labelModified": {
+    "message": "修正済み"
+  },
+  "placeholderOriginal": {
+    "message": "元のテキストまたはコードをここに貼り付けます..."
+  },
+  "placeholderModified": {
+    "message": "変更したテキストまたはコードをここに貼り付けます..."
+  },
+  "btnCompare": {
+    "message": "比較する"
+  },
+  "btnClear": {
+    "message": "クリア"
+  },
+  "btnCopyLeft": {
+    "message": "左にコピー"
+  },
+  "btnCopyRight": {
+    "message": "著作権"
+  },
+  "btnSwap": {
+    "message": "スワップ"
+  },
+  "btnInlineDiff": {
+    "message": "列をなして"
+  },
+  "btnSideBySide": {
+    "message": "サイドバイサイド"
+  },
+  "statAdded": {
+    "message": "追加した"
+  },
+  "statRemoved": {
+    "message": "削除されました"
+  },
+  "statChanged": {
+    "message": "変更されました"
+  },
+  "statUnchanged": {
+    "message": "変わらない"
+  },
+  "statLines": {
+    "message": "行"
+  },
+  "emptyStateTitle": {
+    "message": "比較する準備ができました"
+  },
+  "emptyStateBody": {
+    "message": "テキストを両方のパネルに貼り付けて「比較」をクリックするか、Ctrl+Enter を押します。"
+  },
+  "identicalTitle": {
+    "message": "ファイルは同一です"
+  },
+  "identicalBody": {
+    "message": "2 つの入力間に差異は見つかりませんでした。"
+  },
+  "errorLargeInput": {
+    "message": "入力は非常に大きいです。差分には少し時間がかかる場合があります..."
+  },
+  "errorBothEmpty": {
+    "message": "比較する前に、コンテンツを両方のパネルに貼り付けてください。"
+  },
+  "errorOneEmpty": {
+    "message": "パネルが 1 つ空いています。両方のパネルにコンテンツを入力してください。"
+  },
+  "copied": {
+    "message": "コピーしました！"
+  },
+  "copyFailed": {
+    "message": "コピーに失敗しました"
+  },
+  "cleared": {
+    "message": "クリア済み"
+  },
+  "swapped": {
+    "message": "交換されました"
+  },
+  "kbShortcutsTitle": {
+    "message": "キーボードショートカット"
+  },
+  "kbCompare": {
+    "message": "比較する"
+  },
+  "kbClear": {
+    "message": "クリア"
+  },
+  "kbSwap": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "lineLabel": {
+    "message": "ライン"
+  },
+  "addedLabel": {
+    "message": "追加した"
+  },
+  "removedLabel": {
+    "message": "削除されました"
+  },
+  "changedLabel": {
+    "message": "変わった"
+  },
+  "unchangedLabel": {
+    "message": "変わらない"
+  },
+  "formatJSON": {
+    "message": "JSON形式"
+  },
+  "formatJSONError": {
+    "message": "一方または両方のパネルに無効な JSON があります。"
+  },
+  "wordDiff": {
+    "message": "単語の差分"
+  },
+  "resultsPanelTitle": {
+    "message": "差分結果"
+  },
+  "processingLabel": {
+    "message": "処理..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Difrɛn pɔsin we de wach",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Difrɛn pɔsin we de wach",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Laytwɛt ɔflayn difrɛn kɔmpiashɔn tul fɔ tɛks ɛn kɔd.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Difrɛn pɔsin we de wach"
+  },
+  "headerSubtitle": {
+    "message": "Kɔmpia tɛks, kɔd, JSON, ɛn mɔ — ɔflayn"
+  },
+  "labelOriginal": {
+    "message": "Fɔstɛm"
+  },
+  "labelModified": {
+    "message": "Dɛn dɔn chenj am"
+  },
+  "placeholderOriginal": {
+    "message": "Paste orijinal tɛks ɔ kɔd ya..."
+  },
+  "placeholderModified": {
+    "message": "Paste modifyed teks ɔ kɔd ya..."
+  },
+  "btnCompare": {
+    "message": "Kɔmpia"
+  },
+  "btnClear": {
+    "message": "Klia"
+  },
+  "btnCopyLeft": {
+    "message": "Kɔpi na di Lɛft"
+  },
+  "btnCopyRight": {
+    "message": "Kɔpi Rayt"
+  },
+  "btnSwap": {
+    "message": "Chenj"
+  },
+  "btnInlineDiff": {
+    "message": "Insay di layn"
+  },
+  "btnSideBySide": {
+    "message": "Sayd bay Sayd"
+  },
+  "statAdded": {
+    "message": "Dɛn dɔn ad am"
+  },
+  "statRemoved": {
+    "message": "Dɛn dɔn pul am"
+  },
+  "statChanged": {
+    "message": "Dɛn chenj am"
+  },
+  "statUnchanged": {
+    "message": "Nɔ chenj"
+  },
+  "statLines": {
+    "message": "layn dɛn"
+  },
+  "emptyStateTitle": {
+    "message": "Rɛdi fɔ Kɔmpia"
+  },
+  "emptyStateBody": {
+    "message": "Paste tɛks insay ɔl tu di panɛl dɛn ɛn klik Kɔmpia — ɔ pres Ctrl+Ɛnta"
+  },
+  "identicalTitle": {
+    "message": "Fayl dɛn na Identical"
+  },
+  "identicalBody": {
+    "message": "No difrɛns nɔ bin de bitwin di tu input dɛn."
+  },
+  "errorLargeInput": {
+    "message": "Input na tin we rili big. Diff kin tek wan moment..."
+  },
+  "errorBothEmpty": {
+    "message": "Duya pas di tin dɛn we de insay ɔl tu di panɛl dɛn bifo yu kɔmpia am."
+  },
+  "errorOneEmpty": {
+    "message": "Wan panɛl ɛmti. Duya gi di tin dɛn we de insay ɔl tu di panɛl dɛn."
+  },
+  "copied": {
+    "message": "Dɛn dɔn kɔpi am!"
+  },
+  "copyFailed": {
+    "message": "Kɔpi nɔ bin wok"
+  },
+  "cleared": {
+    "message": "Dɛn dɔn klin am"
+  },
+  "swapped": {
+    "message": "Dɛn dɔn chenj am"
+  },
+  "kbShortcutsTitle": {
+    "message": "Kibɔd Sɔtkat dɛn"
+  },
+  "kbCompare": {
+    "message": "Kɔmpia"
+  },
+  "kbClear": {
+    "message": "Klia"
+  },
+  "kbSwap": {
+    "message": "Swap panɛl dɛn"
+  },
+  "lineLabel": {
+    "message": "Layn"
+  },
+  "addedLabel": {
+    "message": "ad"
+  },
+  "removedLabel": {
+    "message": "dɛn dɔn pul am"
+  },
+  "changedLabel": {
+    "message": "chenj"
+  },
+  "unchangedLabel": {
+    "message": "nɔ chenj"
+  },
+  "formatJSON": {
+    "message": "Fɔmat JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON we nɔ rayt na wan ɔ ɔl tu di panɛl dɛn."
+  },
+  "wordDiff": {
+    "message": "Wɔd Difrɛns"
+  },
+  "resultsPanelTitle": {
+    "message": "Difrɛn Rizult dɛn"
+  },
+  "processingLabel": {
+    "message": "Di we aw dɛn de prosɛs..."
+  }
+}

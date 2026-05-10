@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Għodda ħafifa offline għat-tqabbil tad-differenzi għat-test u l-kodiċi.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Qabbel it-test, il-kodiċi, il-JSON, u aktar — offline"
+  },
+  "labelOriginal": {
+    "message": "Oriġinali"
+  },
+  "labelModified": {
+    "message": "Modifikat"
+  },
+  "placeholderOriginal": {
+    "message": "Pasta test jew kodiċi oriġinali hawn..."
+  },
+  "placeholderModified": {
+    "message": "Ipejstja test jew kodiċi modifikat hawn..."
+  },
+  "btnCompare": {
+    "message": "Qabbel"
+  },
+  "btnClear": {
+    "message": "Ċara"
+  },
+  "btnCopyLeft": {
+    "message": "Kopja Xellug"
+  },
+  "btnCopyRight": {
+    "message": "Dritt tal-Kopja"
+  },
+  "btnSwap": {
+    "message": "Skambju"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Ġenb ma’ Ġenb"
+  },
+  "statAdded": {
+    "message": "Miżjud"
+  },
+  "statRemoved": {
+    "message": "Imneħħija"
+  },
+  "statChanged": {
+    "message": "Mibdul"
+  },
+  "statUnchanged": {
+    "message": "Mhux mibdul"
+  },
+  "statLines": {
+    "message": "linji"
+  },
+  "emptyStateTitle": {
+    "message": "Lest biex Qabbel"
+  },
+  "emptyStateBody": {
+    "message": "Past it-test fiż-żewġ pannelli u kklikkja Qabbel — jew agħfas Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Fajls huma identiċi"
+  },
+  "identicalBody": {
+    "message": "Ma nstabet l-ebda differenza bejn iż-żewġ inputs."
+  },
+  "errorLargeInput": {
+    "message": "L-input huwa kbir ħafna. Diff jista' jieħu mument..."
+  },
+  "errorBothEmpty": {
+    "message": "Jekk jogħġbok waħħal il-kontenut fiż-żewġ pannelli qabel ma tqabbel."
+  },
+  "errorOneEmpty": {
+    "message": "Panel wieħed huwa vojt. Jekk jogħġbok ipprovdi l-kontenut fiż-żewġ pannelli."
+  },
+  "copied": {
+    "message": "Ikkopjati!"
+  },
+  "copyFailed": {
+    "message": "Il-kopja falliet"
+  },
+  "cleared": {
+    "message": "Kklerjat"
+  },
+  "swapped": {
+    "message": "Mibdula"
+  },
+  "kbShortcutsTitle": {
+    "message": "Shortcuts tat-Tastiera"
+  },
+  "kbCompare": {
+    "message": "Qabbel"
+  },
+  "kbClear": {
+    "message": "Ċara"
+  },
+  "kbSwap": {
+    "message": "Skambju ta' pannelli"
+  },
+  "lineLabel": {
+    "message": "Linja"
+  },
+  "addedLabel": {
+    "message": "miżjud"
+  },
+  "removedLabel": {
+    "message": "imneħħija"
+  },
+  "changedLabel": {
+    "message": "mibdula"
+  },
+  "unchangedLabel": {
+    "message": "mhux mibdula"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON invalidu f'pannell wieħed jew fiż-żewġ pannelli."
+  },
+  "wordDiff": {
+    "message": "Kelma Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Riżultati Diff"
+  },
+  "processingLabel": {
+    "message": "Ipproċessar..."
+  }
+}

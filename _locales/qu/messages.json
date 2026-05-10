@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Qhawaq",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Qhawaq",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Llampu mana tinkisqa diff tupachiy yanapakuy qillqapaq chaymanta código kaqpaq.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Qhawaq"
+  },
+  "headerSubtitle": {
+    "message": "Qillqa, codigo, JSON, chaymanta aswan tupachiy — mana tinkisqa"
+  },
+  "labelOriginal": {
+    "message": "Kikin"
+  },
+  "labelModified": {
+    "message": "Modificasqa"
+  },
+  "placeholderOriginal": {
+    "message": "Kaypi original texto otaq código nisqa k'askachiy..."
+  },
+  "placeholderModified": {
+    "message": "Kaypi tikrasqa qillqasqata utaq código nisqatapas k'askachiy..."
+  },
+  "btnCompare": {
+    "message": "Tupachiy"
+  },
+  "btnClear": {
+    "message": "Pichay"
+  },
+  "btnCopyLeft": {
+    "message": "Copia Lloq'eman"
+  },
+  "btnCopyRight": {
+    "message": "Copia Paña"
+  },
+  "btnSwap": {
+    "message": "Yankikuy"
+  },
+  "btnInlineDiff": {
+    "message": "Inline nisqapi"
+  },
+  "btnSideBySide": {
+    "message": "Lado a Lado"
+  },
+  "statAdded": {
+    "message": "Yapachisqa"
+  },
+  "statRemoved": {
+    "message": "Qhatusqa"
+  },
+  "statChanged": {
+    "message": "Cambiado"
+  },
+  "statUnchanged": {
+    "message": "Mana tikrasqa"
+  },
+  "statLines": {
+    "message": "chirukuna"
+  },
+  "emptyStateTitle": {
+    "message": "Listo Compararpaq"
+  },
+  "emptyStateBody": {
+    "message": "Iskaynin panelkunaman qillqata k'askay hinaspa Tupachiy ñit'iy — utaq Ctrl+Enter ñit'iy"
+  },
+  "identicalTitle": {
+    "message": "Archivokunaqa Identicalmi"
+  },
+  "identicalBody": {
+    "message": "Chay iskaynin yaykuykunapiqa manam ima chikanchakuypas tarikurqachu."
+  },
+  "errorLargeInput": {
+    "message": "Yaykuchiyqa ancha hatunmi. Diff huk ratuta hap'inman..."
+  },
+  "errorBothEmpty": {
+    "message": "Ama hina kaspa, manaraq tupachichkaspa iskaynin panelkunaman contenidota k'askachiy."
+  },
+  "errorOneEmpty": {
+    "message": "Huk panelqa ch’usaqmi. Ama hina kaspa, iskaynin panelkunapi contenidota quy."
+  },
+  "copied": {
+    "message": "¡Copiasqa!"
+  },
+  "copyFailed": {
+    "message": "Copia mana atisqachu"
+  },
+  "cleared": {
+    "message": "Ch’uyanchasqa"
+  },
+  "swapped": {
+    "message": "Intercambiado"
+  },
+  "kbShortcutsTitle": {
+    "message": "Tecladomanta pisi rimaykuna"
+  },
+  "kbCompare": {
+    "message": "Tupachiy"
+  },
+  "kbClear": {
+    "message": "Pichay"
+  },
+  "kbSwap": {
+    "message": "Paneles nisqakunata cambiay"
+  },
+  "lineLabel": {
+    "message": "Siqi"
+  },
+  "addedLabel": {
+    "message": "yapasqa"
+  },
+  "removedLabel": {
+    "message": "hurqusqa"
+  },
+  "changedLabel": {
+    "message": "cambiasqa"
+  },
+  "unchangedLabel": {
+    "message": "mana tikrasqa"
+  },
+  "formatJSON": {
+    "message": "JSON nisqa formato"
+  },
+  "formatJSONError": {
+    "message": "Huk utaq iskaynin panelkunapi mana allin JSON."
+  },
+  "wordDiff": {
+    "message": "Palabra Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Resultados nisqa"
+  },
+  "processingLabel": {
+    "message": "Procesamiento..."
+  }
+}

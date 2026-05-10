@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Létt tól til samanburðar án nettengingar fyrir texta og kóða.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Berðu saman texta, kóða, JSON og fleira - án nettengingar"
+  },
+  "labelOriginal": {
+    "message": "Upprunalegt"
+  },
+  "labelModified": {
+    "message": "Breytt"
+  },
+  "placeholderOriginal": {
+    "message": "Límdu upprunalegan texta eða kóða hér..."
+  },
+  "placeholderModified": {
+    "message": "Límdu breyttan texta eða kóða hér..."
+  },
+  "btnCompare": {
+    "message": "Bera saman"
+  },
+  "btnClear": {
+    "message": "Hreinsa"
+  },
+  "btnCopyLeft": {
+    "message": "Afrit til vinstri"
+  },
+  "btnCopyRight": {
+    "message": "Afrita Hægri"
+  },
+  "btnSwap": {
+    "message": "Skipta"
+  },
+  "btnInlineDiff": {
+    "message": "Innbyggður"
+  },
+  "btnSideBySide": {
+    "message": "Hlið við hlið"
+  },
+  "statAdded": {
+    "message": "Bætt við"
+  },
+  "statRemoved": {
+    "message": "Fjarlægt"
+  },
+  "statChanged": {
+    "message": "Breytt"
+  },
+  "statUnchanged": {
+    "message": "Óbreytt"
+  },
+  "statLines": {
+    "message": "línur"
+  },
+  "emptyStateTitle": {
+    "message": "Tilbúið til samanburðar"
+  },
+  "emptyStateBody": {
+    "message": "Límdu texta inn í bæði spjaldið og smelltu á Bera saman — eða ýttu á Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Skrár eru eins"
+  },
+  "identicalBody": {
+    "message": "Enginn munur fannst á þessum tveimur aðföngum."
+  },
+  "errorLargeInput": {
+    "message": "Inntak er mjög stórt. Diff gæti tekið smá stund..."
+  },
+  "errorBothEmpty": {
+    "message": "Vinsamlega límdu efni á báðar spjaldirnar áður en þú berð saman."
+  },
+  "errorOneEmpty": {
+    "message": "Eitt spjaldið er tómt. Vinsamlegast gefðu upp efni á báðum spjöldum."
+  },
+  "copied": {
+    "message": "Afritað!"
+  },
+  "copyFailed": {
+    "message": "Afritun mistókst"
+  },
+  "cleared": {
+    "message": "Hreinsað"
+  },
+  "swapped": {
+    "message": "Skipt um"
+  },
+  "kbShortcutsTitle": {
+    "message": "Flýtivísar"
+  },
+  "kbCompare": {
+    "message": "Bera saman"
+  },
+  "kbClear": {
+    "message": "Hreinsa"
+  },
+  "kbSwap": {
+    "message": "Skiptu um spjöld"
+  },
+  "lineLabel": {
+    "message": "Lína"
+  },
+  "addedLabel": {
+    "message": "bætt við"
+  },
+  "removedLabel": {
+    "message": "fjarlægð"
+  },
+  "changedLabel": {
+    "message": "breytt"
+  },
+  "unchangedLabel": {
+    "message": "óbreytt"
+  },
+  "formatJSON": {
+    "message": "Snið JSON"
+  },
+  "formatJSONError": {
+    "message": "Ógilt JSON í einu eða báðum spjaldinu."
+  },
+  "wordDiff": {
+    "message": "Orðamunur"
+  },
+  "resultsPanelTitle": {
+    "message": "Mismunandi úrslit"
+  },
+  "processingLabel": {
+    "message": "Vinnur..."
+  }
+}
