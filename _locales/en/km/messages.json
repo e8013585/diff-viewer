@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "កម្មវិធីមើលភាពខុសគ្នា",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "កម្មវិធីមើលភាពខុសគ្នា",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ឧបករណ៍ប្រៀបធៀបភាពខុសគ្នាក្រៅបណ្តាញទម្ងន់ស្រាលសម្រាប់អត្ថបទ និងកូដ។",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "កម្មវិធីមើលភាពខុសគ្នា"
+  },
+  "headerSubtitle": {
+    "message": "ប្រៀបធៀបអត្ថបទ កូដ JSON និងច្រើនទៀត — ក្រៅបណ្តាញ"
+  },
+  "labelOriginal": {
+    "message": "ដើម"
+  },
+  "labelModified": {
+    "message": "កែប្រែ"
+  },
+  "placeholderOriginal": {
+    "message": "បិទភ្ជាប់អត្ថបទដើម ឬកូដនៅទីនេះ..."
+  },
+  "placeholderModified": {
+    "message": "បិទភ្ជាប់អត្ថបទ ឬកូដដែលបានកែប្រែនៅទីនេះ..."
+  },
+  "btnCompare": {
+    "message": "ប្រៀបធៀប"
+  },
+  "btnClear": {
+    "message": "ច្បាស់"
+  },
+  "btnCopyLeft": {
+    "message": "ចម្លងខាងឆ្វេង"
+  },
+  "btnCopyRight": {
+    "message": "ចម្លងសិទ្ធិ"
+  },
+  "btnSwap": {
+    "message": "ប្តូរ"
+  },
+  "btnInlineDiff": {
+    "message": "ក្នុងជួរ"
+  },
+  "btnSideBySide": {
+    "message": "ចំហៀង"
+  },
+  "statAdded": {
+    "message": "បន្ថែម"
+  },
+  "statRemoved": {
+    "message": "បានដកចេញ"
+  },
+  "statChanged": {
+    "message": "បានផ្លាស់ប្តូរ"
+  },
+  "statUnchanged": {
+    "message": "មិនផ្លាស់ប្តូរ"
+  },
+  "statLines": {
+    "message": "បន្ទាត់"
+  },
+  "emptyStateTitle": {
+    "message": "រួចរាល់ដើម្បីប្រៀបធៀប"
+  },
+  "emptyStateBody": {
+    "message": "បិទភ្ជាប់អត្ថបទទៅក្នុងបន្ទះទាំងពីរ ហើយចុច ប្រៀបធៀប — ឬចុច Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "ឯកសារគឺដូចគ្នាបេះបិទ"
+  },
+  "identicalBody": {
+    "message": "មិនមានភាពខុសគ្នាត្រូវបានរកឃើញរវាងធាតុបញ្ចូលទាំងពីរទេ។"
+  },
+  "errorLargeInput": {
+    "message": "ការបញ្ចូលមានទំហំធំណាស់។ ភាពខុសគ្នាអាចចំណាយពេលបន្តិច..."
+  },
+  "errorBothEmpty": {
+    "message": "សូមបិទភ្ជាប់ខ្លឹមសារទៅក្នុងបន្ទះទាំងពីរមុនពេលប្រៀបធៀប។"
+  },
+  "errorOneEmpty": {
+    "message": "បន្ទះមួយគឺទទេ។ សូមផ្តល់ខ្លឹមសារនៅក្នុងបន្ទះទាំងពីរ។"
+  },
+  "copied": {
+    "message": "ចម្លង!"
+  },
+  "copyFailed": {
+    "message": "ការចម្លងបានបរាជ័យ"
+  },
+  "cleared": {
+    "message": "ជម្រះ"
+  },
+  "swapped": {
+    "message": "បានប្តូរ"
+  },
+  "kbShortcutsTitle": {
+    "message": "ផ្លូវកាត់ក្តារចុច"
+  },
+  "kbCompare": {
+    "message": "ប្រៀបធៀប"
+  },
+  "kbClear": {
+    "message": "ច្បាស់"
+  },
+  "kbSwap": {
+    "message": "ប្តូរបន្ទះ"
+  },
+  "lineLabel": {
+    "message": "បន្ទាត់"
+  },
+  "addedLabel": {
+    "message": "បន្ថែម"
+  },
+  "removedLabel": {
+    "message": "ដកចេញ"
+  },
+  "changedLabel": {
+    "message": "បានផ្លាស់ប្តូរ"
+  },
+  "unchangedLabel": {
+    "message": "មិនផ្លាស់ប្តូរ"
+  },
+  "formatJSON": {
+    "message": "ធ្វើទ្រង់ទ្រាយ JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON មិនត្រឹមត្រូវនៅក្នុងបន្ទះមួយ ឬទាំងពីរ។"
+  },
+  "wordDiff": {
+    "message": "ភាពខុសគ្នានៃពាក្យ"
+  },
+  "resultsPanelTitle": {
+    "message": "លទ្ធផលខុសគ្នា"
+  },
+  "processingLabel": {
+    "message": "កំពុងដំណើរការ..."
+  }
+}

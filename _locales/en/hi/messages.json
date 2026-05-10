@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "अंतर दर्शक",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "अंतर दर्शक",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "टेक्स्ट और कोड के लिए हल्के ऑफ़लाइन अंतर तुलना उपकरण।",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "अंतर दर्शक"
+  },
+  "headerSubtitle": {
+    "message": "टेक्स्ट, कोड, JSON और बहुत कुछ की तुलना करें - ऑफ़लाइन"
+  },
+  "labelOriginal": {
+    "message": "मूल"
+  },
+  "labelModified": {
+    "message": "संशोधित"
+  },
+  "placeholderOriginal": {
+    "message": "मूल पाठ या कोड यहां चिपकाएँ..."
+  },
+  "placeholderModified": {
+    "message": "संशोधित पाठ या कोड यहां चिपकाएँ..."
+  },
+  "btnCompare": {
+    "message": "तुलना करना"
+  },
+  "btnClear": {
+    "message": "स्पष्ट"
+  },
+  "btnCopyLeft": {
+    "message": "बाईं ओर कॉपी करें"
+  },
+  "btnCopyRight": {
+    "message": "कॉपी राइट"
+  },
+  "btnSwap": {
+    "message": "बदलना"
+  },
+  "btnInlineDiff": {
+    "message": "इन - लाइन"
+  },
+  "btnSideBySide": {
+    "message": "अगल बगल"
+  },
+  "statAdded": {
+    "message": "जोड़ा"
+  },
+  "statRemoved": {
+    "message": "निकाला गया"
+  },
+  "statChanged": {
+    "message": "बदल गया"
+  },
+  "statUnchanged": {
+    "message": "स्थिर"
+  },
+  "statLines": {
+    "message": "पंक्तियां"
+  },
+  "emptyStateTitle": {
+    "message": "तुलना करने के लिए तैयार"
+  },
+  "emptyStateBody": {
+    "message": "टेक्स्ट को दोनों पैनलों में चिपकाएँ और तुलना करें पर क्लिक करें - या Ctrl+Enter दबाएँ"
+  },
+  "identicalTitle": {
+    "message": "फ़ाइलें समान हैं"
+  },
+  "identicalBody": {
+    "message": "दोनों इनपुट के बीच कोई अंतर नहीं पाया गया।"
+  },
+  "errorLargeInput": {
+    "message": "इनपुट बहुत बड़ा है. अंतर में एक क्षण लग सकता है..."
+  },
+  "errorBothEmpty": {
+    "message": "तुलना करने से पहले कृपया सामग्री को दोनों पैनलों में चिपकाएँ।"
+  },
+  "errorOneEmpty": {
+    "message": "एक पैनल खाली है. कृपया दोनों पैनलों में सामग्री प्रदान करें।"
+  },
+  "copied": {
+    "message": "नकल की गई!"
+  },
+  "copyFailed": {
+    "message": "प्रतिलिपि विफल"
+  },
+  "cleared": {
+    "message": "साफ़ किया गया"
+  },
+  "swapped": {
+    "message": "बदली"
+  },
+  "kbShortcutsTitle": {
+    "message": "कुंजीपटल अल्प मार्ग"
+  },
+  "kbCompare": {
+    "message": "तुलना करना"
+  },
+  "kbClear": {
+    "message": "स्पष्ट"
+  },
+  "kbSwap": {
+    "message": "पैनल स्वैप करें"
+  },
+  "lineLabel": {
+    "message": "रेखा"
+  },
+  "addedLabel": {
+    "message": "जोड़ा"
+  },
+  "removedLabel": {
+    "message": "निकाला गया"
+  },
+  "changedLabel": {
+    "message": "बदल गया"
+  },
+  "unchangedLabel": {
+    "message": "अपरिवर्तित"
+  },
+  "formatJSON": {
+    "message": "JSON प्रारूपित करें"
+  },
+  "formatJSONError": {
+    "message": "एक या दोनों पैनल में अमान्य JSON."
+  },
+  "wordDiff": {
+    "message": "शब्द अंतर"
+  },
+  "resultsPanelTitle": {
+    "message": "अंतर परिणाम"
+  },
+  "processingLabel": {
+    "message": "प्रसंस्करण..."
+  }
+}

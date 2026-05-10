@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "差異檢視器",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "差異檢視器",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "用於文字和程式碼的輕量級離線差異比較工具。",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "差異檢視器"
+  },
+  "headerSubtitle": {
+    "message": "離線比較文字、程式碼、JSON 等"
+  },
+  "labelOriginal": {
+    "message": "原來的"
+  },
+  "labelModified": {
+    "message": "修改的"
+  },
+  "placeholderOriginal": {
+    "message": "將原始文字或程式碼貼到此處..."
+  },
+  "placeholderModified": {
+    "message": "將修改後的文字或程式碼貼到此處..."
+  },
+  "btnCompare": {
+    "message": "比較"
+  },
+  "btnClear": {
+    "message": "清除"
+  },
+  "btnCopyLeft": {
+    "message": "向左複製"
+  },
+  "btnCopyRight": {
+    "message": "版權所有"
+  },
+  "btnSwap": {
+    "message": "交換"
+  },
+  "btnInlineDiff": {
+    "message": "排隊"
+  },
+  "btnSideBySide": {
+    "message": "並排"
+  },
+  "statAdded": {
+    "message": "額外"
+  },
+  "statRemoved": {
+    "message": "已刪除"
+  },
+  "statChanged": {
+    "message": "改變了"
+  },
+  "statUnchanged": {
+    "message": "不變"
+  },
+  "statLines": {
+    "message": "線"
+  },
+  "emptyStateTitle": {
+    "message": "準備比較"
+  },
+  "emptyStateBody": {
+    "message": "將文字貼到兩個面板中，然後按一下比較 — 或按 Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "文件相同"
+  },
+  "identicalBody": {
+    "message": "兩個輸入之間沒有發現差異。"
+  },
+  "errorLargeInput": {
+    "message": "輸入量非常大。差異可能需要一些時間..."
+  },
+  "errorBothEmpty": {
+    "message": "在比較之前，請將內容貼到兩個面板中。"
+  },
+  "errorOneEmpty": {
+    "message": "一個面板是空的。請提供兩個面板中的內容。"
+  },
+  "copied": {
+    "message": "複製了！"
+  },
+  "copyFailed": {
+    "message": "複製失敗"
+  },
+  "cleared": {
+    "message": "已清除"
+  },
+  "swapped": {
+    "message": "交換了"
+  },
+  "kbShortcutsTitle": {
+    "message": "鍵盤快速鍵"
+  },
+  "kbCompare": {
+    "message": "比較"
+  },
+  "kbClear": {
+    "message": "清除"
+  },
+  "kbSwap": {
+    "message": "交換面板"
+  },
+  "lineLabel": {
+    "message": "線"
+  },
+  "addedLabel": {
+    "message": "額外"
+  },
+  "removedLabel": {
+    "message": "已刪除"
+  },
+  "changedLabel": {
+    "message": "改變了"
+  },
+  "unchangedLabel": {
+    "message": "不變"
+  },
+  "formatJSON": {
+    "message": "格式化 JSON"
+  },
+  "formatJSONError": {
+    "message": "一個或兩個面板中的 JSON 無效。"
+  },
+  "wordDiff": {
+    "message": "詞差​​異"
+  },
+  "resultsPanelTitle": {
+    "message": "差異結果"
+  },
+  "processingLabel": {
+    "message": "加工..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Текст жана код үчүн жеңил оффлайн айырмаларды салыштыруу куралы.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Текстти, кодду, JSON жана башкаларды салыштырыңыз — оффлайн"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Өзгөртүлгөн"
+  },
+  "placeholderOriginal": {
+    "message": "Түпнуска текстти же кодду бул жерге чаптаңыз..."
+  },
+  "placeholderModified": {
+    "message": "Өзгөртүлгөн текстти же кодду бул жерге чаптаңыз..."
+  },
+  "btnCompare": {
+    "message": "Салыштыруу"
+  },
+  "btnClear": {
+    "message": "Таза"
+  },
+  "btnCopyLeft": {
+    "message": "Солго көчүрүү"
+  },
+  "btnCopyRight": {
+    "message": "Оңго көчүрүү"
+  },
+  "btnSwap": {
+    "message": "Алмашуу"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Жанаша"
+  },
+  "statAdded": {
+    "message": "Кошулган"
+  },
+  "statRemoved": {
+    "message": "Өчүрүлдү"
+  },
+  "statChanged": {
+    "message": "Өзгөрүлдү"
+  },
+  "statUnchanged": {
+    "message": "Өзгөрүлбөгөн"
+  },
+  "statLines": {
+    "message": "сызыктар"
+  },
+  "emptyStateTitle": {
+    "message": "Салыштырууга даяр"
+  },
+  "emptyStateBody": {
+    "message": "Текстти эки панелге тең чаптап, Салыштыруу - же Ctrl+Enter баскычтарын басыңыз"
+  },
+  "identicalTitle": {
+    "message": "Файлдар окшош"
+  },
+  "identicalBody": {
+    "message": "Эки киргизүүнүн ортосунда эч кандай айырма табылган жок."
+  },
+  "errorLargeInput": {
+    "message": "Киргизүү абдан чоң. Айырма бир аз убакыт талап кылынышы мүмкүн..."
+  },
+  "errorBothEmpty": {
+    "message": "Салыштыруудан мурун мазмунду эки панелге чаптаңыз."
+  },
+  "errorOneEmpty": {
+    "message": "Бир панель бош. Сураныч, эки панелге тең мазмунду бериңиз."
+  },
+  "copied": {
+    "message": "Көчүрүлдү!"
+  },
+  "copyFailed": {
+    "message": "Көчүрүлгөн жок"
+  },
+  "cleared": {
+    "message": "Тазаланды"
+  },
+  "swapped": {
+    "message": "Алмашты"
+  },
+  "kbShortcutsTitle": {
+    "message": "Ыкчам баскычтар"
+  },
+  "kbCompare": {
+    "message": "Салыштыруу"
+  },
+  "kbClear": {
+    "message": "Таза"
+  },
+  "kbSwap": {
+    "message": "Панелдерди алмаштыруу"
+  },
+  "lineLabel": {
+    "message": "Line"
+  },
+  "addedLabel": {
+    "message": "кошулду"
+  },
+  "removedLabel": {
+    "message": "алынып салынды"
+  },
+  "changedLabel": {
+    "message": "өзгөрдү"
+  },
+  "unchangedLabel": {
+    "message": "өзгөрүүсүз"
+  },
+  "formatJSON": {
+    "message": "JSON форматы"
+  },
+  "formatJSONError": {
+    "message": "Бир же эки панелде жараксыз JSON."
+  },
+  "wordDiff": {
+    "message": "Word Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Results"
+  },
+  "processingLabel": {
+    "message": "Иштелүүдө..."
+  }
+}

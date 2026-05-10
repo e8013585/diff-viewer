@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Chiyero chisina kuremerwa kunze kweindaneti diff yekuenzanisa yemavara uye kodhi.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Enzanisa mavara, kodhi, JSON, nezvimwe - pasina Indaneti"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Modified"
+  },
+  "placeholderOriginal": {
+    "message": "Nama mavara ekutanga kana kodhi pano..."
+  },
+  "placeholderModified": {
+    "message": "Nama mavara akagadziridzwa kana kodhi pano..."
+  },
+  "btnCompare": {
+    "message": "Enzanisa"
+  },
+  "btnClear": {
+    "message": "Pachena"
+  },
+  "btnCopyLeft": {
+    "message": "Kopa Kuruboshwe"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Swap"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side"
+  },
+  "statAdded": {
+    "message": "Added"
+  },
+  "statRemoved": {
+    "message": "Yakabviswa"
+  },
+  "statChanged": {
+    "message": "Changed"
+  },
+  "statUnchanged": {
+    "message": "Hazvina kuchinjwa"
+  },
+  "statLines": {
+    "message": "mitsetse"
+  },
+  "emptyStateTitle": {
+    "message": "Wakagadzirira Kuenzanisa"
+  },
+  "emptyStateBody": {
+    "message": "Namira mameseji mumapaneli ese uye tinya Enzanisa - kana kudzvanya Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Mafaira akafanana"
+  },
+  "identicalBody": {
+    "message": "Hapana misiyano yakawanikwa pakati pezvipikiso zviviri izvi."
+  },
+  "errorLargeInput": {
+    "message": "Input yakakura kwazvo. Diff inogona kutora chinguva..."
+  },
+  "errorBothEmpty": {
+    "message": "Ndokumbira unamatire zvirimo mumapanera ese usati waenzanisa."
+  },
+  "errorOneEmpty": {
+    "message": "One panel haina chinhu. Ndokumbira upe zvirimo mumapaneli ese ari maviri."
+  },
+  "copied": {
+    "message": "Kopirwa!"
+  },
+  "copyFailed": {
+    "message": "Kopi yakundikana"
+  },
+  "cleared": {
+    "message": "Yakacheneswa"
+  },
+  "swapped": {
+    "message": "Swapped"
+  },
+  "kbShortcutsTitle": {
+    "message": "Keyboard Shortcuts"
+  },
+  "kbCompare": {
+    "message": "Enzanisa"
+  },
+  "kbClear": {
+    "message": "Pachena"
+  },
+  "kbSwap": {
+    "message": "Chinjana mapaneru"
+  },
+  "lineLabel": {
+    "message": "Line"
+  },
+  "addedLabel": {
+    "message": "akawedzera"
+  },
+  "removedLabel": {
+    "message": "kubviswa"
+  },
+  "changedLabel": {
+    "message": "zvachinja"
+  },
+  "unchangedLabel": {
+    "message": "isina kushanduka"
+  },
+  "formatJSON": {
+    "message": "Fomati JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON haisiriyo mune imwe kana maviri mapaneru."
+  },
+  "wordDiff": {
+    "message": "Shoko Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Results"
+  },
+  "processingLabel": {
+    "message": "Kugadzira..."
+  }
+}

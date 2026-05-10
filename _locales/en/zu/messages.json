@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "I-Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "I-Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Ithuluzi lokuqhathanisa elilula elingaxhunyiwe ku-inthanethi lombhalo nekhodi.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "I-Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Qhathanisa umbhalo, ikhodi, i-JSON, nokuningi — okungaxhunyiwe ku-inthanethi"
+  },
+  "labelOriginal": {
+    "message": "Okwangempela"
+  },
+  "labelModified": {
+    "message": "Kulungisiwe"
+  },
+  "placeholderOriginal": {
+    "message": "Namathisela umbhalo wangempela noma ikhodi lapha..."
+  },
+  "placeholderModified": {
+    "message": "Namathisela umbhalo oshintshiwe noma ikhodi lapha..."
+  },
+  "btnCompare": {
+    "message": "Qhathanisa"
+  },
+  "btnClear": {
+    "message": "Kucace"
+  },
+  "btnCopyLeft": {
+    "message": "Kopisha Kwesobunxele"
+  },
+  "btnCopyRight": {
+    "message": "Kopisha Kwesokudla"
+  },
+  "btnSwap": {
+    "message": "Shintsha"
+  },
+  "btnInlineDiff": {
+    "message": "Emugqeni"
+  },
+  "btnSideBySide": {
+    "message": "Icala ngecala"
+  },
+  "statAdded": {
+    "message": "Kwengeziwe"
+  },
+  "statRemoved": {
+    "message": "Kususiwe"
+  },
+  "statChanged": {
+    "message": "Kushintshiwe"
+  },
+  "statUnchanged": {
+    "message": "Akushintshile"
+  },
+  "statLines": {
+    "message": "imigqa"
+  },
+  "emptyStateTitle": {
+    "message": "Ilungele Ukuqhathanisa"
+  },
+  "emptyStateBody": {
+    "message": "Namathisela umbhalo kuwo womabili amaphaneli bese uchofoza okuthi Qhathanisa — noma cindezela u-Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Amafayela Ayafana"
+  },
+  "identicalBody": {
+    "message": "Awukho umehluko otholakele phakathi kokufakwayo okubili."
+  },
+  "errorLargeInput": {
+    "message": "Okokufaka kukhulu kakhulu. I-Diff ingathatha isikhashana..."
+  },
+  "errorBothEmpty": {
+    "message": "Sicela unamathisele okuqukethwe kuwo womabili amaphaneli ngaphambi kokuqhathanisa."
+  },
+  "errorOneEmpty": {
+    "message": "Iphaneli eyodwa ayinalutho. Sicela unikeze okuqukethwe kuwo womabili amaphaneli."
+  },
+  "copied": {
+    "message": "Kukopishiwe!"
+  },
+  "copyFailed": {
+    "message": "Ukukopisha kwehlulekile"
+  },
+  "cleared": {
+    "message": "Suliwe"
+  },
+  "swapped": {
+    "message": "Kushintshiwe"
+  },
+  "kbShortcutsTitle": {
+    "message": "Izinqamuleli zekhibhodi"
+  },
+  "kbCompare": {
+    "message": "Qhathanisa"
+  },
+  "kbClear": {
+    "message": "Kucace"
+  },
+  "kbSwap": {
+    "message": "Shintsha amaphaneli"
+  },
+  "lineLabel": {
+    "message": "Umugqa"
+  },
+  "addedLabel": {
+    "message": "kwengezwe"
+  },
+  "removedLabel": {
+    "message": "isusiwe"
+  },
+  "changedLabel": {
+    "message": "ishintshile"
+  },
+  "unchangedLabel": {
+    "message": "engaguquki"
+  },
+  "formatJSON": {
+    "message": "Fometha i-JSON"
+  },
+  "formatJSONError": {
+    "message": "I-JSON engavumelekile kuphaneli elilodwa noma womabili."
+  },
+  "wordDiff": {
+    "message": "I-Word Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Imiphumela Ehlukene"
+  },
+  "processingLabel": {
+    "message": "Iyacubungula..."
+  }
+}

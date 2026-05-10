@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "د توپیر لیدونکی",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "د توپیر لیدونکی",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "د متن او کوډ لپاره د سپک وزن آف لائن توپیر پرتله کولو وسیله.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "د توپیر لیدونکی"
+  },
+  "headerSubtitle": {
+    "message": "متن، کوډ، JSON، او نور پرتله کړئ - آفلاین"
+  },
+  "labelOriginal": {
+    "message": "اصلي"
+  },
+  "labelModified": {
+    "message": "تعدیل شوی"
+  },
+  "placeholderOriginal": {
+    "message": "دلته اصلي متن یا کوډ پیسټ کړئ ..."
+  },
+  "placeholderModified": {
+    "message": "دلته بدل شوی متن یا کوډ پیسټ کړئ..."
+  },
+  "btnCompare": {
+    "message": "پرتله کول"
+  },
+  "btnClear": {
+    "message": "روښانه"
+  },
+  "btnCopyLeft": {
+    "message": "کاپي کیڼ"
+  },
+  "btnCopyRight": {
+    "message": "د کاپي حق"
+  },
+  "btnSwap": {
+    "message": "تبادله"
+  },
+  "btnInlineDiff": {
+    "message": "انلاین"
+  },
+  "btnSideBySide": {
+    "message": "څنګ په څنګ"
+  },
+  "statAdded": {
+    "message": "زیاته کړه"
+  },
+  "statRemoved": {
+    "message": "لرې کړل"
+  },
+  "statChanged": {
+    "message": "بدل شو"
+  },
+  "statUnchanged": {
+    "message": "بې بدلونه"
+  },
+  "statLines": {
+    "message": "کرښې"
+  },
+  "emptyStateTitle": {
+    "message": "د پرتله کولو لپاره چمتو دی"
+  },
+  "emptyStateBody": {
+    "message": "متن په دواړو تختو کې پیسټ کړئ او په پرتله کلیک وکړئ - یا Ctrl+Enter فشار ورکړئ"
+  },
+  "identicalTitle": {
+    "message": "فایلونه یو شان دي"
+  },
+  "identicalBody": {
+    "message": "د دواړو آخذونو ترمنځ هیڅ توپیر ونه موندل شو."
+  },
+  "errorLargeInput": {
+    "message": "ننوت خورا لوی دی. توپیر ممکن یو شیبه وخت ونیسي ..."
+  },
+  "errorBothEmpty": {
+    "message": "مهرباني وکړئ د پرتله کولو دمخه په دواړو پینلونو کې مینځپانګه پیسټ کړئ."
+  },
+  "errorOneEmpty": {
+    "message": "یوه تخته خالي ده. مهرباني وکړئ په دواړو پینلو کې مواد چمتو کړئ."
+  },
+  "copied": {
+    "message": "کاپی شوی!"
+  },
+  "copyFailed": {
+    "message": "کاپي ناکامه شوه"
+  },
+  "cleared": {
+    "message": "پاک شوی"
+  },
+  "swapped": {
+    "message": "بدل شوی"
+  },
+  "kbShortcutsTitle": {
+    "message": "د کیبورډ شارټ کټونه"
+  },
+  "kbCompare": {
+    "message": "پرتله کول"
+  },
+  "kbClear": {
+    "message": "روښانه"
+  },
+  "kbSwap": {
+    "message": "تختې بدل کړئ"
+  },
+  "lineLabel": {
+    "message": "کرښه"
+  },
+  "addedLabel": {
+    "message": "زیاته کړه"
+  },
+  "removedLabel": {
+    "message": "لرې شوی"
+  },
+  "changedLabel": {
+    "message": "بدل شوی"
+  },
+  "unchangedLabel": {
+    "message": "نه بدلیدونکی"
+  },
+  "formatJSON": {
+    "message": "JSON بڼه"
+  },
+  "formatJSONError": {
+    "message": "په یوه یا دواړو پینلونو کې ناسم JSON."
+  },
+  "wordDiff": {
+    "message": "د کلمو توپیر"
+  },
+  "resultsPanelTitle": {
+    "message": "مختلفې پایلې"
+  },
+  "processingLabel": {
+    "message": "پروسس کول..."
+  }
+}

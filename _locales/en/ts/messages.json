@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Mulanguti",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Mulanguti",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Xitirhisiwa xo pimanisa xa offline diff xo olova xa tsalwa na khodi.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Mulanguti"
+  },
+  "headerSubtitle": {
+    "message": "Fanisa tsalwa, khodi, JSON, na swin’wana — ehandle ka inthanete"
+  },
+  "labelOriginal": {
+    "message": "Mampela"
+  },
+  "labelModified": {
+    "message": "Ku cinciwile"
+  },
+  "placeholderOriginal": {
+    "message": "Namarheta tsalwa ra masungulo kumbe khodi laha..."
+  },
+  "placeholderModified": {
+    "message": "Namarheta tsalwa leri cinciweke kumbe khodi laha..."
+  },
+  "btnCompare": {
+    "message": "Fananisa"
+  },
+  "btnClear": {
+    "message": "Rivaleni"
+  },
+  "btnCopyLeft": {
+    "message": "Kopa Left"
+  },
+  "btnCopyRight": {
+    "message": "Kopa Hi Xinene"
+  },
+  "btnSwap": {
+    "message": "Cincanisa"
+  },
+  "btnInlineDiff": {
+    "message": "Eka layini"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side"
+  },
+  "statAdded": {
+    "message": "Ku engeteriwile"
+  },
+  "statRemoved": {
+    "message": "Ku susiwile"
+  },
+  "statChanged": {
+    "message": "Ku cinciwile"
+  },
+  "statUnchanged": {
+    "message": "A swi cincanga"
+  },
+  "statLines": {
+    "message": "milayeni"
+  },
+  "emptyStateTitle": {
+    "message": "Swi Lunghekele Ku Fanisa"
+  },
+  "emptyStateBody": {
+    "message": "Namarheta tsalwa eka tiphaneleni leti hatimbirhi ivi u tikhoma Compare — kutani u tshikelela Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Tifayili ta Fana"
+  },
+  "identicalBody": {
+    "message": "Ku hava ku hambana loku kumiweke exikarhi ka swingheniso leswimbirhi."
+  },
+  "errorLargeInput": {
+    "message": "Input yikulu swinene. Diff yi nga teka nkarhinyana..."
+  },
+  "errorBothEmpty": {
+    "message": "Hi kombela u namarheta leswi nga endzeni eka tiphaneleni leti hatimbirhi u nga si pimanisa."
+  },
+  "errorOneEmpty": {
+    "message": "Phanele yin’we a yi na nchumu. Hi kombela u nyika swilo leswi nga endzeni eka tiphaneleni leti hatimbirhi."
+  },
+  "copied": {
+    "message": "Ku kopiwe!"
+  },
+  "copyFailed": {
+    "message": "Ku kopiwa ku tsandzekile"
+  },
+  "cleared": {
+    "message": "Ku basisiwile"
+  },
+  "swapped": {
+    "message": "Swi cinciwile"
+  },
+  "kbShortcutsTitle": {
+    "message": "Swipfuxeto swa Khibhodi"
+  },
+  "kbCompare": {
+    "message": "Fananisa"
+  },
+  "kbClear": {
+    "message": "Rivaleni"
+  },
+  "kbSwap": {
+    "message": "Ku cincana hi tiphaneleni"
+  },
+  "lineLabel": {
+    "message": "Ntila"
+  },
+  "addedLabel": {
+    "message": "ku engeterile"
+  },
+  "removedLabel": {
+    "message": "ku susiwile"
+  },
+  "changedLabel": {
+    "message": "swi cinciwile"
+  },
+  "unchangedLabel": {
+    "message": "swi nga cinciwanga"
+  },
+  "formatJSON": {
+    "message": "Fomati ya JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON leyi nga tirhiki eka phanele yin’we kumbe havumbirhi bya yona."
+  },
+  "wordDiff": {
+    "message": "Rito Ku Hambana"
+  },
+  "resultsPanelTitle": {
+    "message": "Vuyelo byo Hambana"
+  },
+  "processingLabel": {
+    "message": "Ku lulamisiwa ka..."
+  }
+}

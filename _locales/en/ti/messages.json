@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ዲፍ ቪውየር",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ዲፍ ቪውየር",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ቀሊል ካብ መስመር ወጻኢ ዲፍ ምውድዳር መሳርሒ ንጽሑፍን ኮድን.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ዲፍ ቪውየር"
+  },
+  "headerSubtitle": {
+    "message": "ጽሑፍ፡ ኮድ፡ JSONን ካልእን ኣነጻጽር — ካብ መስመር ወጻኢ"
+  },
+  "labelOriginal": {
+    "message": "ኦርጂናል"
+  },
+  "labelModified": {
+    "message": "ተቐይሩ"
+  },
+  "placeholderOriginal": {
+    "message": "ኦርጅናል ጽሑፍ ወይ ኮድ ኣብዚ ለጥፍ..."
+  },
+  "placeholderModified": {
+    "message": "ዝተመሓየሸ ጽሑፍ ወይ ኮድ ኣብዚ ለጥፍ..."
+  },
+  "btnCompare": {
+    "message": "ኣወዳደረ"
+  },
+  "btnClear": {
+    "message": "ንፁር"
+  },
+  "btnCopyLeft": {
+    "message": "ቅዳሕ ንጸጋም"
+  },
+  "btnCopyRight": {
+    "message": "ቅኑዕ ቅዳሕ"
+  },
+  "btnSwap": {
+    "message": "ምልውዋጥ"
+  },
+  "btnInlineDiff": {
+    "message": "ኣብ ውሽጢ መስመር"
+  },
+  "btnSideBySide": {
+    "message": "ጎኒ ንጎኒ"
+  },
+  "statAdded": {
+    "message": "ተወሰኸ"
+  },
+  "statRemoved": {
+    "message": "ተኣልዩ።"
+  },
+  "statChanged": {
+    "message": "ተቐይሩ"
+  },
+  "statUnchanged": {
+    "message": "ዘይተቐየረ"
+  },
+  "statLines": {
+    "message": "መስመራት።"
+  },
+  "emptyStateTitle": {
+    "message": "ንምንጽጻር ድሉው"
+  },
+  "emptyStateBody": {
+    "message": "ጽሑፍ ኣብ ክልቲኡ ፓነላት ለጥፍ እሞ Compare ጠውቕ — ወይ Ctrl+Enter ጽቐጥ"
+  },
+  "identicalTitle": {
+    "message": "ፋይላት ተመሳሳሊ እዮም።"
+  },
+  "identicalBody": {
+    "message": "ኣብ መንጎ ክልቲኦም እታዎታት ዝኾነ ፍልልይ ኣይተረኽበን።"
+  },
+  "errorLargeInput": {
+    "message": "እታው ኣዝዩ ዓቢ እዩ። ፍልልይ ንሓጺር እዋን ክወስድ ይኽእል እዩ..."
+  },
+  "errorBothEmpty": {
+    "message": "ቅድሚ ምውድዳርኩም ኣብ ክልቲኡ ፓነላት ትሕዝቶ ምልጣፍ።"
+  },
+  "errorOneEmpty": {
+    "message": "ሓደ ፓነል ባዶ እዩ። ኣብ ክልቲኡ ፓነላት ትሕዝቶ ኣቕርቡ።"
+  },
+  "copied": {
+    "message": "ተቐዲሑ!"
+  },
+  "copyFailed": {
+    "message": "ቅዳሕ ኣይተዓወተን"
+  },
+  "cleared": {
+    "message": "ተጸሪጉ"
+  },
+  "swapped": {
+    "message": "ተለዋዊጡ"
+  },
+  "kbShortcutsTitle": {
+    "message": "ኣቋራጭ ሰሌዳ ቁልፊ"
+  },
+  "kbCompare": {
+    "message": "ኣወዳደረ"
+  },
+  "kbClear": {
+    "message": "ንፁር"
+  },
+  "kbSwap": {
+    "message": "ፓነላት ምልውዋጥ"
+  },
+  "lineLabel": {
+    "message": "መስመር"
+  },
+  "addedLabel": {
+    "message": "ወሲኹ"
+  },
+  "removedLabel": {
+    "message": "ተኣልዩ።"
+  },
+  "changedLabel": {
+    "message": "ተቐይሩ"
+  },
+  "unchangedLabel": {
+    "message": "ዘይተቐየረ"
+  },
+  "formatJSON": {
+    "message": "ቅርጺ JSON"
+  },
+  "formatJSONError": {
+    "message": "ኣብ ሓደ ወይ ክልቲኡ ፓነላት ዘይሕጋዊ JSON።"
+  },
+  "wordDiff": {
+    "message": "ቃል ፍልልይ"
+  },
+  "resultsPanelTitle": {
+    "message": "ፍልልይ ውጽኢት"
+  },
+  "processingLabel": {
+    "message": "መስርሕ..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Visualizzatore differenze",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Visualizzatore differenze",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Strumento leggero di confronto delle differenze offline per testo e codice.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Visualizzatore differenze"
+  },
+  "headerSubtitle": {
+    "message": "Confronta testo, codice, JSON e altro ancora, offline"
+  },
+  "labelOriginal": {
+    "message": "Originale"
+  },
+  "labelModified": {
+    "message": "Modificato"
+  },
+  "placeholderOriginal": {
+    "message": "Incolla qui il testo o il codice originale..."
+  },
+  "placeholderModified": {
+    "message": "Incolla qui il testo o il codice modificato..."
+  },
+  "btnCompare": {
+    "message": "Confrontare"
+  },
+  "btnClear": {
+    "message": "Chiaro"
+  },
+  "btnCopyLeft": {
+    "message": "Copia a sinistra"
+  },
+  "btnCopyRight": {
+    "message": "Copia a destra"
+  },
+  "btnSwap": {
+    "message": "Scambio"
+  },
+  "btnInlineDiff": {
+    "message": "In linea"
+  },
+  "btnSideBySide": {
+    "message": "Fianco a fianco"
+  },
+  "statAdded": {
+    "message": "Aggiunto"
+  },
+  "statRemoved": {
+    "message": "RIMOSSO"
+  },
+  "statChanged": {
+    "message": "Cambiato"
+  },
+  "statUnchanged": {
+    "message": "Invariato"
+  },
+  "statLines": {
+    "message": "linee"
+  },
+  "emptyStateTitle": {
+    "message": "Pronto per il confronto"
+  },
+  "emptyStateBody": {
+    "message": "Incolla il testo in entrambi i pannelli e fai clic su Confronta oppure premi Ctrl+Invio"
+  },
+  "identicalTitle": {
+    "message": "I file sono identici"
+  },
+  "identicalBody": {
+    "message": "Non sono state riscontrate differenze tra i due input."
+  },
+  "errorLargeInput": {
+    "message": "L'ingresso è molto grande. La differenza potrebbe richiedere un momento..."
+  },
+  "errorBothEmpty": {
+    "message": "Incolla il contenuto in entrambi i pannelli prima del confronto."
+  },
+  "errorOneEmpty": {
+    "message": "Un pannello è vuoto. Si prega di fornire i contenuti in entrambi i pannelli."
+  },
+  "copied": {
+    "message": "Copiato!"
+  },
+  "copyFailed": {
+    "message": "Copia non riuscita"
+  },
+  "cleared": {
+    "message": "Cancellato"
+  },
+  "swapped": {
+    "message": "Scambiato"
+  },
+  "kbShortcutsTitle": {
+    "message": "Scorciatoie da tastiera"
+  },
+  "kbCompare": {
+    "message": "Confrontare"
+  },
+  "kbClear": {
+    "message": "Chiaro"
+  },
+  "kbSwap": {
+    "message": "Scambiare i pannelli"
+  },
+  "lineLabel": {
+    "message": "Linea"
+  },
+  "addedLabel": {
+    "message": "aggiunto"
+  },
+  "removedLabel": {
+    "message": "RIMOSSO"
+  },
+  "changedLabel": {
+    "message": "cambiato"
+  },
+  "unchangedLabel": {
+    "message": "invariato"
+  },
+  "formatJSON": {
+    "message": "Formato JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON non valido in uno o entrambi i pannelli."
+  },
+  "wordDiff": {
+    "message": "Differenza di parole"
+  },
+  "resultsPanelTitle": {
+    "message": "Risultati differenze"
+  },
+  "processingLabel": {
+    "message": "Elaborazione..."
+  }
+}

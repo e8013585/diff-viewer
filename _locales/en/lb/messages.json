@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Liichtgewiicht offline Diff Verglach Tool fir Text a Code.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Vergläicht Text, Code, JSON, a méi - offline"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Geännert"
+  },
+  "placeholderOriginal": {
+    "message": "Paste original Text oder Code hei ..."
+  },
+  "placeholderModified": {
+    "message": "Paste geännert Text oder Code hei ..."
+  },
+  "btnCompare": {
+    "message": "Vergläichen"
+  },
+  "btnClear": {
+    "message": "Kloer"
+  },
+  "btnCopyLeft": {
+    "message": "Kopie Lénks"
+  },
+  "btnCopyRight": {
+    "message": "Kopie Recht"
+  },
+  "btnSwap": {
+    "message": "Tauschen"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Säit vun Säit"
+  },
+  "statAdded": {
+    "message": "Dobäigesat"
+  },
+  "statRemoved": {
+    "message": "Geläscht"
+  },
+  "statChanged": {
+    "message": "Geännert"
+  },
+  "statUnchanged": {
+    "message": "Onverännert"
+  },
+  "statLines": {
+    "message": "Linnen"
+  },
+  "emptyStateTitle": {
+    "message": "Bereet fir ze vergläichen"
+  },
+  "emptyStateBody": {
+    "message": "Paste Text a béid Panelen a klickt Vergläichen - oder dréckt Ctrl + Enter"
+  },
+  "identicalTitle": {
+    "message": "Dateien sinn identesch"
+  },
+  "identicalBody": {
+    "message": "Keng Differenzen goufen tëscht deenen zwee Input fonnt."
+  },
+  "errorLargeInput": {
+    "message": "Input ass ganz grouss. Diff kann e Moment daueren ..."
+  },
+  "errorBothEmpty": {
+    "message": "Paste w.e.g. Inhalt a béid Panelen ier Dir vergläicht."
+  },
+  "errorOneEmpty": {
+    "message": "Ee Panel ass eidel. Gitt w.e.g. Inhalt a béide Panelen."
+  },
+  "copied": {
+    "message": "Kopéiert!"
+  },
+  "copyFailed": {
+    "message": "Kopie gescheitert"
+  },
+  "cleared": {
+    "message": "Geläscht"
+  },
+  "swapped": {
+    "message": "Ausgewiesselt"
+  },
+  "kbShortcutsTitle": {
+    "message": "Tastatur Ofkiirzungen"
+  },
+  "kbCompare": {
+    "message": "Vergläichen"
+  },
+  "kbClear": {
+    "message": "Kloer"
+  },
+  "kbSwap": {
+    "message": "Tauscht Panelen"
+  },
+  "lineLabel": {
+    "message": "Linn"
+  },
+  "addedLabel": {
+    "message": "dobäi"
+  },
+  "removedLabel": {
+    "message": "ewechgeholl"
+  },
+  "changedLabel": {
+    "message": "geännert"
+  },
+  "unchangedLabel": {
+    "message": "onverännert"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "Ongülteg JSON an engem oder béide Panelen."
+  },
+  "wordDiff": {
+    "message": "Wuert Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Resultater"
+  },
+  "processingLabel": {
+    "message": "Veraarbechtung ..."
+  }
+}

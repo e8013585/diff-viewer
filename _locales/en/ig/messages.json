@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Ihe nlele dị iche",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Ihe nlele dị iche",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Ngwa ntụnyere dị iche na-anọghị n'ịntanetị dị fechaa maka ederede na koodu.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Ihe nlele dị iche"
+  },
+  "headerSubtitle": {
+    "message": "Tulee ederede, koodu, JSON, na ndị ọzọ - na-anọghị n'ịntanetị"
+  },
+  "labelOriginal": {
+    "message": "Nke mbụ"
+  },
+  "labelModified": {
+    "message": "Emegharịrị"
+  },
+  "placeholderOriginal": {
+    "message": "Tapawa ederede ma ọ bụ koodu izizi ebe a..."
+  },
+  "placeholderModified": {
+    "message": "Tapawa ederede ma ọ bụ koodu ebe a..."
+  },
+  "btnCompare": {
+    "message": "Tulee"
+  },
+  "btnClear": {
+    "message": "Kpochapụ"
+  },
+  "btnCopyLeft": {
+    "message": "Detuo aka ekpe"
+  },
+  "btnCopyRight": {
+    "message": "Detuo aka nri"
+  },
+  "btnSwap": {
+    "message": "Gbanwee"
+  },
+  "btnInlineDiff": {
+    "message": "N'ahịrị"
+  },
+  "btnSideBySide": {
+    "message": "N'akụkụ n'akụkụ"
+  },
+  "statAdded": {
+    "message": "agbakwunyere"
+  },
+  "statRemoved": {
+    "message": "Ewepụrụ"
+  },
+  "statChanged": {
+    "message": "Gbanwee"
+  },
+  "statUnchanged": {
+    "message": "Agbanweghị"
+  },
+  "statLines": {
+    "message": "ahịrị"
+  },
+  "emptyStateTitle": {
+    "message": "Dị njikere iji tụnyere"
+  },
+  "emptyStateBody": {
+    "message": "Tapawa ederede n'ime akụkụ abụọ ahụ wee pịa Tụlee - ma ọ bụ pịa Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Faịlụ bụ otu"
+  },
+  "identicalBody": {
+    "message": "Enweghị ọdịiche dị n'etiti ntinye abụọ ahụ."
+  },
+  "errorLargeInput": {
+    "message": "Ntinye dị ukwuu. Ọgbaghara nwere ike were obere oge..."
+  },
+  "errorBothEmpty": {
+    "message": "Biko mado ọdịnaya n'ime akụkụ abụọ ahụ tupu atụnyere ya."
+  },
+  "errorOneEmpty": {
+    "message": "Otu panel adịghị. Biko nye ọdịnaya n'akụkụ abụọ ahụ."
+  },
+  "copied": {
+    "message": "Eṅomiri!"
+  },
+  "copyFailed": {
+    "message": "Iṅomi dara"
+  },
+  "cleared": {
+    "message": "Kpochapụ"
+  },
+  "swapped": {
+    "message": "Gbanwee"
+  },
+  "kbShortcutsTitle": {
+    "message": "Ụzọ mkpirisi ahụigodo"
+  },
+  "kbCompare": {
+    "message": "Tulee"
+  },
+  "kbClear": {
+    "message": "Kpochapụ"
+  },
+  "kbSwap": {
+    "message": "Gbanwee ogwe"
+  },
+  "lineLabel": {
+    "message": "Ahịrị"
+  },
+  "addedLabel": {
+    "message": "agbakwunyere"
+  },
+  "removedLabel": {
+    "message": "wepụrụ"
+  },
+  "changedLabel": {
+    "message": "gbanwere"
+  },
+  "unchangedLabel": {
+    "message": "agbanweghi agbanwe"
+  },
+  "formatJSON": {
+    "message": "Mepụta JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON ezighi ezi n'ime otu panel ma ọ bụ abụọ."
+  },
+  "wordDiff": {
+    "message": "Okwu dị iche"
+  },
+  "resultsPanelTitle": {
+    "message": "Nsonaazụ dị iche"
+  },
+  "processingLabel": {
+    "message": "Na-ahazi..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Shikuesi i Ndryshimeve",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Shikuesi i Ndryshimeve",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Mjet i lehtë për krahasimin e dallimeve jashtë linje për tekstin dhe kodin.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Shikuesi i Ndryshimeve"
+  },
+  "headerSubtitle": {
+    "message": "Krahasoni tekstin, kodin, JSON dhe më shumë — jashtë linje"
+  },
+  "labelOriginal": {
+    "message": "Origjinale"
+  },
+  "labelModified": {
+    "message": "I modifikuar"
+  },
+  "placeholderOriginal": {
+    "message": "Ngjit tekstin ose kodin origjinal këtu..."
+  },
+  "placeholderModified": {
+    "message": "Ngjit tekstin ose kodin e modifikuar këtu..."
+  },
+  "btnCompare": {
+    "message": "Krahasoni"
+  },
+  "btnClear": {
+    "message": "E qartë"
+  },
+  "btnCopyLeft": {
+    "message": "Kopjo majtas"
+  },
+  "btnCopyRight": {
+    "message": "Kopjo djathtas"
+  },
+  "btnSwap": {
+    "message": "këmbejnë"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Krah për krah"
+  },
+  "statAdded": {
+    "message": "Shtuar"
+  },
+  "statRemoved": {
+    "message": "U hoq"
+  },
+  "statChanged": {
+    "message": "Ndryshuar"
+  },
+  "statUnchanged": {
+    "message": "I pandryshuar"
+  },
+  "statLines": {
+    "message": "linjat"
+  },
+  "emptyStateTitle": {
+    "message": "Gati për të krahasuar"
+  },
+  "emptyStateBody": {
+    "message": "Ngjitni tekstin në të dy panelet dhe klikoni Krahaso - ose shtypni Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Skedarët janë identikë"
+  },
+  "identicalBody": {
+    "message": "Nuk u gjetën dallime midis dy hyrjeve."
+  },
+  "errorLargeInput": {
+    "message": "Hyrja është shumë e madhe. Ndryshimi mund të marrë një moment..."
+  },
+  "errorBothEmpty": {
+    "message": "Ju lutemi ngjisni përmbajtjen në të dy panelet përpara se ta krahasoni."
+  },
+  "errorOneEmpty": {
+    "message": "Një panel është bosh. Ju lutemi jepni përmbajtje në të dy panelet."
+  },
+  "copied": {
+    "message": "E kopjuar!"
+  },
+  "copyFailed": {
+    "message": "Kopjimi dështoi"
+  },
+  "cleared": {
+    "message": "I pastruar"
+  },
+  "swapped": {
+    "message": "E këmbyer"
+  },
+  "kbShortcutsTitle": {
+    "message": "Shkurtoret e tastierës"
+  },
+  "kbCompare": {
+    "message": "Krahasoni"
+  },
+  "kbClear": {
+    "message": "E qartë"
+  },
+  "kbSwap": {
+    "message": "Ndërroni panelet"
+  },
+  "lineLabel": {
+    "message": "Linja"
+  },
+  "addedLabel": {
+    "message": "shtuar"
+  },
+  "removedLabel": {
+    "message": "hequr"
+  },
+  "changedLabel": {
+    "message": "ndryshuar"
+  },
+  "unchangedLabel": {
+    "message": "e pandryshuar"
+  },
+  "formatJSON": {
+    "message": "Formatoni JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON i pavlefshëm në një ose të dy panelet."
+  },
+  "wordDiff": {
+    "message": "Ndryshimi i fjalëve"
+  },
+  "resultsPanelTitle": {
+    "message": "Rezultatet e ndryshme"
+  },
+  "processingLabel": {
+    "message": "Po përpunohet..."
+  }
+}

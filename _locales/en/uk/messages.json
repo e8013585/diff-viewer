@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Перегляд відмінностей",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Перегляд відмінностей",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Легкий офлайн-інструмент порівняння відмінностей для тексту та коду.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Перегляд відмінностей"
+  },
+  "headerSubtitle": {
+    "message": "Порівнюйте текст, код, JSON тощо — офлайн"
+  },
+  "labelOriginal": {
+    "message": "Оригінал"
+  },
+  "labelModified": {
+    "message": "Змінено"
+  },
+  "placeholderOriginal": {
+    "message": "Вставте сюди оригінальний текст або код..."
+  },
+  "placeholderModified": {
+    "message": "Вставте сюди змінений текст або код..."
+  },
+  "btnCompare": {
+    "message": "Порівняйте"
+  },
+  "btnClear": {
+    "message": "ясно"
+  },
+  "btnCopyLeft": {
+    "message": "Копіювати ліворуч"
+  },
+  "btnCopyRight": {
+    "message": "Копіювати праворуч"
+  },
+  "btnSwap": {
+    "message": "Обмін"
+  },
+  "btnInlineDiff": {
+    "message": "Вбудований"
+  },
+  "btnSideBySide": {
+    "message": "Пліч-о-пліч"
+  },
+  "statAdded": {
+    "message": "Додано"
+  },
+  "statRemoved": {
+    "message": "Видалено"
+  },
+  "statChanged": {
+    "message": "Змінено"
+  },
+  "statUnchanged": {
+    "message": "Без змін"
+  },
+  "statLines": {
+    "message": "лінії"
+  },
+  "emptyStateTitle": {
+    "message": "Готовий до порівняння"
+  },
+  "emptyStateBody": {
+    "message": "Вставте текст на обидві панелі та натисніть «Порівняти» або натисніть Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Файли ідентичні"
+  },
+  "identicalBody": {
+    "message": "Між двома вхідними даними не виявлено відмінностей."
+  },
+  "errorLargeInput": {
+    "message": "Вхід дуже великий. Різниця може зайняти деякий час..."
+  },
+  "errorBothEmpty": {
+    "message": "Перед порівнянням вставте вміст на обидві панелі."
+  },
+  "errorOneEmpty": {
+    "message": "Одна панель порожня. Надайте вміст на обох панелях."
+  },
+  "copied": {
+    "message": "Скопійовано!"
+  },
+  "copyFailed": {
+    "message": "Помилка копіювання"
+  },
+  "cleared": {
+    "message": "Очищено"
+  },
+  "swapped": {
+    "message": "Поміняно місцями"
+  },
+  "kbShortcutsTitle": {
+    "message": "Комбінації клавіш"
+  },
+  "kbCompare": {
+    "message": "Порівняйте"
+  },
+  "kbClear": {
+    "message": "ясно"
+  },
+  "kbSwap": {
+    "message": "Поміняти панелі"
+  },
+  "lineLabel": {
+    "message": "лінія"
+  },
+  "addedLabel": {
+    "message": "додано"
+  },
+  "removedLabel": {
+    "message": "видалено"
+  },
+  "changedLabel": {
+    "message": "змінено"
+  },
+  "unchangedLabel": {
+    "message": "без змін"
+  },
+  "formatJSON": {
+    "message": "Формат JSON"
+  },
+  "formatJSONError": {
+    "message": "Недійсний JSON на одній або обох панелях."
+  },
+  "wordDiff": {
+    "message": "Слово Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Результати різниці"
+  },
+  "processingLabel": {
+    "message": "Обробка..."
+  }
+}

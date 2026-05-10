@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lub teeb yuag offline sib piv cov cuab yeej rau cov ntawv nyeem thiab cov lej.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Sib piv cov ntawv nyeem, code, JSON, thiab ntau dua - offline"
+  },
+  "labelOriginal": {
+    "message": "Keeb kwm"
+  },
+  "labelModified": {
+    "message": "Hloov kho"
+  },
+  "placeholderOriginal": {
+    "message": "Paste original text or code here..."
+  },
+  "placeholderModified": {
+    "message": "Paste modified text or code here..."
+  },
+  "btnCompare": {
+    "message": "Sib piv"
+  },
+  "btnClear": {
+    "message": "Ntshiab"
+  },
+  "btnCopyLeft": {
+    "message": "Luam sab laug"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Sib pauv"
+  },
+  "btnInlineDiff": {
+    "message": "Hauv kab"
+  },
+  "btnSideBySide": {
+    "message": "Sab Qab Teb"
+  },
+  "statAdded": {
+    "message": "Ntxiv"
+  },
+  "statRemoved": {
+    "message": "Tshem tawm"
+  },
+  "statChanged": {
+    "message": "Hloov"
+  },
+  "statUnchanged": {
+    "message": "Tsis hloov"
+  },
+  "statLines": {
+    "message": "kab"
+  },
+  "emptyStateTitle": {
+    "message": "Npaj sib piv"
+  },
+  "emptyStateBody": {
+    "message": "Muab cov ntawv tso rau hauv ob lub vaj huam sib luag thiab nyem Sib piv - lossis nias Ctrl + Nkag"
+  },
+  "identicalTitle": {
+    "message": "Cov ntaub ntawv yog tib yam"
+  },
+  "identicalBody": {
+    "message": "Tsis muaj qhov sib txawv ntawm ob lub tswv yim."
+  },
+  "errorLargeInput": {
+    "message": "Input loj heev. Diff yuav siv sij hawm ib pliag..."
+  },
+  "errorBothEmpty": {
+    "message": "Thov muab cov ntsiab lus tso rau hauv ob lub vaj huam sib luag ua ntej sib piv."
+  },
+  "errorOneEmpty": {
+    "message": "Ib lub vaj huam sib luag yog khoob. Thov muab cov ntsiab lus hauv ob lub vaj huam sib luag."
+  },
+  "copied": {
+    "message": "Luam!"
+  },
+  "copyFailed": {
+    "message": "Luam ua tsis tiav"
+  },
+  "cleared": {
+    "message": "Cleared"
+  },
+  "swapped": {
+    "message": "Hloov pauv"
+  },
+  "kbShortcutsTitle": {
+    "message": "Keyboard Shortcuts"
+  },
+  "kbCompare": {
+    "message": "Sib piv"
+  },
+  "kbClear": {
+    "message": "Ntshiab"
+  },
+  "kbSwap": {
+    "message": "Sib pauv panels"
+  },
+  "lineLabel": {
+    "message": "Kab"
+  },
+  "addedLabel": {
+    "message": "ntxiv"
+  },
+  "removedLabel": {
+    "message": "tshem tawm"
+  },
+  "changedLabel": {
+    "message": "hloov"
+  },
+  "unchangedLabel": {
+    "message": "tsis hloov"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "Tsis siv tau JSON hauv ib lossis ob lub vaj huam sib luag."
+  },
+  "wordDiff": {
+    "message": "Lo lus Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Cov txiaj ntsig sib txawv"
+  },
+  "processingLabel": {
+    "message": "Kev ua..."
+  }
+}

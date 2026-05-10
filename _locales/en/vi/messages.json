@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Trình xem khác biệt",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Trình xem khác biệt",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Công cụ so sánh khác biệt ngoại tuyến nhẹ cho văn bản và mã.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Trình xem khác biệt"
+  },
+  "headerSubtitle": {
+    "message": "So sánh văn bản, mã, JSON, v.v. — ngoại tuyến"
+  },
+  "labelOriginal": {
+    "message": "Nguyên bản"
+  },
+  "labelModified": {
+    "message": "Đã sửa đổi"
+  },
+  "placeholderOriginal": {
+    "message": "Dán văn bản hoặc mã gốc vào đây..."
+  },
+  "placeholderModified": {
+    "message": "Dán văn bản hoặc mã đã sửa đổi vào đây..."
+  },
+  "btnCompare": {
+    "message": "So sánh"
+  },
+  "btnClear": {
+    "message": "Thông thoáng"
+  },
+  "btnCopyLeft": {
+    "message": "Sao chép sang trái"
+  },
+  "btnCopyRight": {
+    "message": "Sao chép đúng"
+  },
+  "btnSwap": {
+    "message": "Tráo đổi"
+  },
+  "btnInlineDiff": {
+    "message": "Nội tuyến"
+  },
+  "btnSideBySide": {
+    "message": "Bên nhau"
+  },
+  "statAdded": {
+    "message": "Đã thêm"
+  },
+  "statRemoved": {
+    "message": "LOẠI BỎ"
+  },
+  "statChanged": {
+    "message": "Đã thay đổi"
+  },
+  "statUnchanged": {
+    "message": "Không thay đổi"
+  },
+  "statLines": {
+    "message": "dòng"
+  },
+  "emptyStateTitle": {
+    "message": "Sẵn sàng để so sánh"
+  },
+  "emptyStateBody": {
+    "message": "Dán văn bản vào cả hai bảng và nhấp vào So sánh — hoặc nhấn Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Các tập tin giống hệt nhau"
+  },
+  "identicalBody": {
+    "message": "Không tìm thấy sự khác biệt giữa hai đầu vào."
+  },
+  "errorLargeInput": {
+    "message": "Đầu vào rất lớn. Sự khác biệt có thể mất một chút thời gian..."
+  },
+  "errorBothEmpty": {
+    "message": "Vui lòng dán nội dung vào cả hai bảng trước khi so sánh."
+  },
+  "errorOneEmpty": {
+    "message": "Một bảng trống. Vui lòng cung cấp nội dung trong cả hai bảng."
+  },
+  "copied": {
+    "message": "Đã sao chép!"
+  },
+  "copyFailed": {
+    "message": "Sao chép không thành công"
+  },
+  "cleared": {
+    "message": "Đã xóa"
+  },
+  "swapped": {
+    "message": "Đã hoán đổi"
+  },
+  "kbShortcutsTitle": {
+    "message": "Phím tắt"
+  },
+  "kbCompare": {
+    "message": "So sánh"
+  },
+  "kbClear": {
+    "message": "Thông thoáng"
+  },
+  "kbSwap": {
+    "message": "Trao đổi bảng"
+  },
+  "lineLabel": {
+    "message": "Đường kẻ"
+  },
+  "addedLabel": {
+    "message": "đã thêm"
+  },
+  "removedLabel": {
+    "message": "LOẠI BỎ"
+  },
+  "changedLabel": {
+    "message": "đã thay đổi"
+  },
+  "unchangedLabel": {
+    "message": "không thay đổi"
+  },
+  "formatJSON": {
+    "message": "Định dạng JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON không hợp lệ trong một hoặc cả hai bảng."
+  },
+  "wordDiff": {
+    "message": "Từ khác biệt"
+  },
+  "resultsPanelTitle": {
+    "message": "Kết quả khác biệt"
+  },
+  "processingLabel": {
+    "message": "Xử lý..."
+  }
+}

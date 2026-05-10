@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ਡਿਫ ਦਰਸ਼ਕ",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ਡਿਫ ਦਰਸ਼ਕ",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ਟੈਕਸਟ ਅਤੇ ਕੋਡ ਲਈ ਲਾਈਟਵੇਟ ਔਫਲਾਈਨ ਡਿਫ ਤੁਲਨਾ ਟੂਲ।",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ਡਿਫ ਦਰਸ਼ਕ"
+  },
+  "headerSubtitle": {
+    "message": "ਟੈਕਸਟ, ਕੋਡ, JSON, ਅਤੇ ਹੋਰ - ਔਫਲਾਈਨ ਦੀ ਤੁਲਨਾ ਕਰੋ"
+  },
+  "labelOriginal": {
+    "message": "ਮੂਲ"
+  },
+  "labelModified": {
+    "message": "ਸੋਧਿਆ ਗਿਆ"
+  },
+  "placeholderOriginal": {
+    "message": "ਇੱਥੇ ਮੂਲ ਟੈਕਸਟ ਜਾਂ ਕੋਡ ਪੇਸਟ ਕਰੋ..."
+  },
+  "placeholderModified": {
+    "message": "ਸੋਧਿਆ ਟੈਕਸਟ ਜਾਂ ਕੋਡ ਇੱਥੇ ਪੇਸਟ ਕਰੋ..."
+  },
+  "btnCompare": {
+    "message": "ਤੁਲਨਾ ਕਰੋ"
+  },
+  "btnClear": {
+    "message": "ਸਾਫ਼"
+  },
+  "btnCopyLeft": {
+    "message": "ਖੱਬੇ ਪਾਸੇ ਕਾਪੀ ਕਰੋ"
+  },
+  "btnCopyRight": {
+    "message": "ਕਾਪੀ ਰਾਈਟ"
+  },
+  "btnSwap": {
+    "message": "ਸਵੈਪ"
+  },
+  "btnInlineDiff": {
+    "message": "ਇਨ ਲਾਇਨ"
+  },
+  "btnSideBySide": {
+    "message": "ਨਾਲ-ਨਾਲ"
+  },
+  "statAdded": {
+    "message": "ਜੋੜਿਆ ਗਿਆ"
+  },
+  "statRemoved": {
+    "message": "ਹਟਾਇਆ ਗਿਆ"
+  },
+  "statChanged": {
+    "message": "ਬਦਲਿਆ"
+  },
+  "statUnchanged": {
+    "message": "ਬਦਲਿਆ ਨਹੀਂ"
+  },
+  "statLines": {
+    "message": "ਲਾਈਨਾਂ"
+  },
+  "emptyStateTitle": {
+    "message": "ਤੁਲਨਾ ਕਰਨ ਲਈ ਤਿਆਰ"
+  },
+  "emptyStateBody": {
+    "message": "ਟੈਕਸਟ ਨੂੰ ਦੋਵੇਂ ਪੈਨਲਾਂ ਵਿੱਚ ਚਿਪਕਾਓ ਅਤੇ ਤੁਲਨਾ ਕਰੋ — ਜਾਂ Ctrl+Enter ਦਬਾਓ"
+  },
+  "identicalTitle": {
+    "message": "ਫਾਈਲਾਂ ਇੱਕੋ ਜਿਹੀਆਂ ਹਨ"
+  },
+  "identicalBody": {
+    "message": "ਦੋ ਇਨਪੁਟਸ ਵਿੱਚ ਕੋਈ ਅੰਤਰ ਨਹੀਂ ਮਿਲਿਆ।"
+  },
+  "errorLargeInput": {
+    "message": "ਇੰਪੁੱਟ ਬਹੁਤ ਵੱਡਾ ਹੈ। ਫਰਕ ਵਿੱਚ ਇੱਕ ਪਲ ਲੱਗ ਸਕਦਾ ਹੈ..."
+  },
+  "errorBothEmpty": {
+    "message": "ਕਿਰਪਾ ਕਰਕੇ ਤੁਲਨਾ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਸਮੱਗਰੀ ਨੂੰ ਦੋਵਾਂ ਪੈਨਲਾਂ ਵਿੱਚ ਪੇਸਟ ਕਰੋ।"
+  },
+  "errorOneEmpty": {
+    "message": "ਇੱਕ ਪੈਨਲ ਖਾਲੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੋਵਾਂ ਪੈਨਲਾਂ ਵਿੱਚ ਸਮੱਗਰੀ ਪ੍ਰਦਾਨ ਕਰੋ।"
+  },
+  "copied": {
+    "message": "ਕਾਪੀ ਕੀਤਾ!"
+  },
+  "copyFailed": {
+    "message": "ਕਾਪੀ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ"
+  },
+  "cleared": {
+    "message": "ਸਾਫ਼ ਕੀਤਾ"
+  },
+  "swapped": {
+    "message": "ਸਵੈਪ ਕੀਤਾ"
+  },
+  "kbShortcutsTitle": {
+    "message": "ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ"
+  },
+  "kbCompare": {
+    "message": "ਤੁਲਨਾ ਕਰੋ"
+  },
+  "kbClear": {
+    "message": "ਸਾਫ਼"
+  },
+  "kbSwap": {
+    "message": "ਪੈਨਲਾਂ ਨੂੰ ਸਵੈਪ ਕਰੋ"
+  },
+  "lineLabel": {
+    "message": "ਲਾਈਨ"
+  },
+  "addedLabel": {
+    "message": "ਜੋੜਿਆ ਗਿਆ"
+  },
+  "removedLabel": {
+    "message": "ਹਟਾਇਆ ਗਿਆ"
+  },
+  "changedLabel": {
+    "message": "ਬਦਲਿਆ"
+  },
+  "unchangedLabel": {
+    "message": "ਨਾ ਬਦਲਿਆ"
+  },
+  "formatJSON": {
+    "message": "JSON ਫਾਰਮੈਟ ਕਰੋ"
+  },
+  "formatJSONError": {
+    "message": "ਇੱਕ ਜਾਂ ਦੋਵੇਂ ਪੈਨਲਾਂ ਵਿੱਚ ਅਵੈਧ JSON।"
+  },
+  "wordDiff": {
+    "message": "ਸ਼ਬਦ ਅੰਤਰ"
+  },
+  "resultsPanelTitle": {
+    "message": "ਵੱਖਰੇ ਨਤੀਜੇ"
+  },
+  "processingLabel": {
+    "message": "ਪ੍ਰਕਿਰਿਆ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ..."
+  }
+}

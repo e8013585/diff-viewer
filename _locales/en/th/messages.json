@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "โปรแกรมดูต่าง",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "โปรแกรมดูต่าง",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "เครื่องมือเปรียบเทียบส่วนต่างออฟไลน์น้ำหนักเบาสำหรับข้อความและโค้ด",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "โปรแกรมดูต่าง"
+  },
+  "headerSubtitle": {
+    "message": "เปรียบเทียบข้อความ โค้ด JSON และอื่นๆ — ออฟไลน์"
+  },
+  "labelOriginal": {
+    "message": "ต้นฉบับ"
+  },
+  "labelModified": {
+    "message": "ดัดแปลง"
+  },
+  "placeholderOriginal": {
+    "message": "วางข้อความหรือโค้ดต้นฉบับที่นี่..."
+  },
+  "placeholderModified": {
+    "message": "วางข้อความหรือรหัสที่แก้ไขที่นี่..."
+  },
+  "btnCompare": {
+    "message": "เปรียบเทียบ"
+  },
+  "btnClear": {
+    "message": "ชัดเจน"
+  },
+  "btnCopyLeft": {
+    "message": "คัดลอกไปทางซ้าย"
+  },
+  "btnCopyRight": {
+    "message": "คัดลอกขวา"
+  },
+  "btnSwap": {
+    "message": "แลกเปลี่ยน"
+  },
+  "btnInlineDiff": {
+    "message": "แบบอินไลน์"
+  },
+  "btnSideBySide": {
+    "message": "เคียงข้างกัน"
+  },
+  "statAdded": {
+    "message": "เพิ่มแล้ว"
+  },
+  "statRemoved": {
+    "message": "ลบออก"
+  },
+  "statChanged": {
+    "message": "เปลี่ยน"
+  },
+  "statUnchanged": {
+    "message": "ไม่เปลี่ยนแปลง"
+  },
+  "statLines": {
+    "message": "เส้น"
+  },
+  "emptyStateTitle": {
+    "message": "พร้อมเปรียบเทียบ"
+  },
+  "emptyStateBody": {
+    "message": "วางข้อความลงในทั้งสองแผงแล้วคลิกเปรียบเทียบ — หรือกด Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "ไฟล์เหมือนกัน"
+  },
+  "identicalBody": {
+    "message": "ไม่พบความแตกต่างระหว่างอินพุตทั้งสอง"
+  },
+  "errorLargeInput": {
+    "message": "อินพุตมีขนาดใหญ่มาก ความแตกต่างอาจใช้เวลาสักครู่..."
+  },
+  "errorBothEmpty": {
+    "message": "กรุณาวางเนื้อหาลงในทั้งสองแผงก่อนที่จะเปรียบเทียบ"
+  },
+  "errorOneEmpty": {
+    "message": "แผงหนึ่งว่างเปล่า กรุณาระบุเนื้อหาในทั้งสองแผง"
+  },
+  "copied": {
+    "message": "คัดลอก!"
+  },
+  "copyFailed": {
+    "message": "การคัดลอกล้มเหลว"
+  },
+  "cleared": {
+    "message": "เคลียร์แล้ว"
+  },
+  "swapped": {
+    "message": "สลับแล้ว"
+  },
+  "kbShortcutsTitle": {
+    "message": "แป้นพิมพ์ลัด"
+  },
+  "kbCompare": {
+    "message": "เปรียบเทียบ"
+  },
+  "kbClear": {
+    "message": "ชัดเจน"
+  },
+  "kbSwap": {
+    "message": "สลับแผง"
+  },
+  "lineLabel": {
+    "message": "เส้น"
+  },
+  "addedLabel": {
+    "message": "เพิ่ม"
+  },
+  "removedLabel": {
+    "message": "ลบออก"
+  },
+  "changedLabel": {
+    "message": "เปลี่ยน"
+  },
+  "unchangedLabel": {
+    "message": "ไม่เปลี่ยนแปลง"
+  },
+  "formatJSON": {
+    "message": "จัดรูปแบบ JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON ไม่ถูกต้องในหนึ่งหรือทั้งสองแผง"
+  },
+  "wordDiff": {
+    "message": "คำที่แตกต่าง"
+  },
+  "resultsPanelTitle": {
+    "message": "ผลลัพธ์ที่แตกต่าง"
+  },
+  "processingLabel": {
+    "message": "กำลังประมวลผล..."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lätt offline-diff-jämförelseverktyg för text och kod.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Jämför text, kod, JSON och mer – offline"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Ändrad"
+  },
+  "placeholderOriginal": {
+    "message": "Klistra in originaltext eller kod här..."
+  },
+  "placeholderModified": {
+    "message": "Klistra in ändrad text eller kod här..."
+  },
+  "btnCompare": {
+    "message": "Jämföra"
+  },
+  "btnClear": {
+    "message": "Rensa"
+  },
+  "btnCopyLeft": {
+    "message": "Kopiera till vänster"
+  },
+  "btnCopyRight": {
+    "message": "Kopiera höger"
+  },
+  "btnSwap": {
+    "message": "Byta"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Sida vid sida"
+  },
+  "statAdded": {
+    "message": "Tillagd"
+  },
+  "statRemoved": {
+    "message": "Borttagen"
+  },
+  "statChanged": {
+    "message": "Ändrad"
+  },
+  "statUnchanged": {
+    "message": "Oförändrat"
+  },
+  "statLines": {
+    "message": "rader"
+  },
+  "emptyStateTitle": {
+    "message": "Redo att jämföra"
+  },
+  "emptyStateBody": {
+    "message": "Klistra in text i båda panelerna och klicka på Jämför - eller tryck på Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Filerna är identiska"
+  },
+  "identicalBody": {
+    "message": "Inga skillnader hittades mellan de två ingångarna."
+  },
+  "errorLargeInput": {
+    "message": "Ingången är mycket stor. Diff kan ta en stund..."
+  },
+  "errorBothEmpty": {
+    "message": "Klistra in innehåll i båda panelerna innan du jämför."
+  },
+  "errorOneEmpty": {
+    "message": "En panel är tom. Ange innehåll i båda panelerna."
+  },
+  "copied": {
+    "message": "Kopierade!"
+  },
+  "copyFailed": {
+    "message": "Kopieringen misslyckades"
+  },
+  "cleared": {
+    "message": "Rensat"
+  },
+  "swapped": {
+    "message": "Bytt"
+  },
+  "kbShortcutsTitle": {
+    "message": "Kortkommandon"
+  },
+  "kbCompare": {
+    "message": "Jämföra"
+  },
+  "kbClear": {
+    "message": "Rensa"
+  },
+  "kbSwap": {
+    "message": "Byt paneler"
+  },
+  "lineLabel": {
+    "message": "Linje"
+  },
+  "addedLabel": {
+    "message": "lagt till"
+  },
+  "removedLabel": {
+    "message": "tas bort"
+  },
+  "changedLabel": {
+    "message": "ändrats"
+  },
+  "unchangedLabel": {
+    "message": "oförändrad"
+  },
+  "formatJSON": {
+    "message": "Formatera JSON"
+  },
+  "formatJSONError": {
+    "message": "Ogiltig JSON i en eller båda panelerna."
+  },
+  "wordDiff": {
+    "message": "Orddiff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff resultat"
+  },
+  "processingLabel": {
+    "message": "Bearbetar..."
+  }
+}

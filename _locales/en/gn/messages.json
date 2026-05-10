@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Ohecháva",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Ohecháva",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Tembipuru ombojojáva diff offline ligero jehaipyre ha código-pe g̃uarã.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Ohecháva"
+  },
+  "headerSubtitle": {
+    "message": "Embojoja jehaipyre, código, JSON ha hetave mba’e — línea’ỹre"
+  },
+  "labelOriginal": {
+    "message": "Ypykue"
+  },
+  "labelModified": {
+    "message": "Oñemoambue"
+  },
+  "placeholderOriginal": {
+    "message": "Emboja ko'ápe texto térã código original..."
+  },
+  "placeholderModified": {
+    "message": "Emboja ko'ápe jehaipyre térã código oñemoambuéva..."
+  },
+  "btnCompare": {
+    "message": "Mbojoja"
+  },
+  "btnClear": {
+    "message": "Hesakã"
+  },
+  "btnCopyLeft": {
+    "message": "Copia Izquierda gotyo"
+  },
+  "btnCopyRight": {
+    "message": "Copia Derecha rehegua"
+  },
+  "btnSwap": {
+    "message": "Ñomoambue"
+  },
+  "btnInlineDiff": {
+    "message": "En línea ryepýpe"
+  },
+  "btnSideBySide": {
+    "message": "Lado a Lado"
+  },
+  "statAdded": {
+    "message": "Oñembojoapy"
+  },
+  "statRemoved": {
+    "message": "Ojepe’a"
+  },
+  "statChanged": {
+    "message": "Oñemoambue"
+  },
+  "statUnchanged": {
+    "message": "Noñemoambuéiva"
+  },
+  "statLines": {
+    "message": "línea-kuéra rehegua"
+  },
+  "emptyStateTitle": {
+    "message": "Oĩmava Oñembojoja hag̃ua"
+  },
+  "emptyStateBody": {
+    "message": "Emoĩ jehaipyre mokõive panel-pe ha eñemboguejy Ñembojoja — térã eity Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Umi archivo ha’e peteĩchagua"
+  },
+  "identicalBody": {
+    "message": "Ndojejuhúi joavy umi mokõi insumo apytépe."
+  },
+  "errorLargeInput": {
+    "message": "Input tuichaiterei. Diff ikatu ogueraha sapy'ami..."
+  },
+  "errorBothEmpty": {
+    "message": "Emboja contenido mokõive panel-pe embojoja mboyve."
+  },
+  "errorOneEmpty": {
+    "message": "Peteĩ panel oĩ nandi. Eme’ẽ contenido mokõive panel-pe."
+  },
+  "copied": {
+    "message": "¡Ojekopia!"
+  },
+  "copyFailed": {
+    "message": "Copia ndoikói"
+  },
+  "cleared": {
+    "message": "Oñemopotî"
+  },
+  "swapped": {
+    "message": "Oñeintercambia"
+  },
+  "kbShortcutsTitle": {
+    "message": "Teclado Ñe’ẽryru"
+  },
+  "kbCompare": {
+    "message": "Mbojoja"
+  },
+  "kbClear": {
+    "message": "Hesakã"
+  },
+  "kbSwap": {
+    "message": "Oñeintercambia umi panel"
+  },
+  "lineLabel": {
+    "message": "Kytarysýi"
+  },
+  "addedLabel": {
+    "message": "ombojoapy"
+  },
+  "removedLabel": {
+    "message": "ojeipe’a chuguikuéra"
+  },
+  "changedLabel": {
+    "message": "oñemoambue"
+  },
+  "unchangedLabel": {
+    "message": "noñemoambuéiva"
+  },
+  "formatJSON": {
+    "message": "Formato JSON rehegua"
+  },
+  "formatJSONError": {
+    "message": "JSON ndoikóiva peteĩ térã mokõive panel-pe."
+  },
+  "wordDiff": {
+    "message": "Ñe’ẽ Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Resultado-kuéra rehegua"
+  },
+  "processingLabel": {
+    "message": "Procesamiento rehegua..."
+  }
+}

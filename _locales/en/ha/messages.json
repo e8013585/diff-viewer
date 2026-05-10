@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Kayan aikin kwatanta bambancin layi mai nauyi don rubutu da lamba.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Kwatanta rubutu, lamba, JSON, da ƙari - layi"
+  },
+  "labelOriginal": {
+    "message": "Na asali"
+  },
+  "labelModified": {
+    "message": "Gyara"
+  },
+  "placeholderOriginal": {
+    "message": "Manna ainihin rubutu ko lamba anan..."
+  },
+  "placeholderModified": {
+    "message": "Manna rubutu ko lamba da aka gyara anan..."
+  },
+  "btnCompare": {
+    "message": "Kwatanta"
+  },
+  "btnClear": {
+    "message": "Share"
+  },
+  "btnCopyLeft": {
+    "message": "Kwafi Hagu"
+  },
+  "btnCopyRight": {
+    "message": "Kwafi Dama"
+  },
+  "btnSwap": {
+    "message": "Musanya"
+  },
+  "btnInlineDiff": {
+    "message": "Layin layi"
+  },
+  "btnSideBySide": {
+    "message": "Gefe da Gefe"
+  },
+  "statAdded": {
+    "message": "Kara"
+  },
+  "statRemoved": {
+    "message": "An cire"
+  },
+  "statChanged": {
+    "message": "Canza"
+  },
+  "statUnchanged": {
+    "message": "Ba canzawa"
+  },
+  "statLines": {
+    "message": "layuka"
+  },
+  "emptyStateTitle": {
+    "message": "Shirye don Kwatanta"
+  },
+  "emptyStateBody": {
+    "message": "Manna rubutu a cikin bangarorin biyu kuma danna Kwatanta - ko danna Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Fayiloli iri ɗaya ne"
+  },
+  "identicalBody": {
+    "message": "Ba a sami bambance-bambance tsakanin abubuwan shigar guda biyu ba."
+  },
+  "errorLargeInput": {
+    "message": "Shigarwa yana da girma sosai. Diff na iya ɗaukar ɗan lokaci..."
+  },
+  "errorBothEmpty": {
+    "message": "Da fatan za a liƙa abun ciki a cikin bangarorin biyu kafin kwatanta."
+  },
+  "errorOneEmpty": {
+    "message": "Panel ɗaya babu komai. Da fatan za a samar da abun ciki a bangarorin biyu."
+  },
+  "copied": {
+    "message": "Kwafi!"
+  },
+  "copyFailed": {
+    "message": "Kwafi ya kasa"
+  },
+  "cleared": {
+    "message": "An share"
+  },
+  "swapped": {
+    "message": "Canja wurin"
+  },
+  "kbShortcutsTitle": {
+    "message": "Gajerun hanyoyin Allon madannai"
+  },
+  "kbCompare": {
+    "message": "Kwatanta"
+  },
+  "kbClear": {
+    "message": "Share"
+  },
+  "kbSwap": {
+    "message": "Musanya bangarori"
+  },
+  "lineLabel": {
+    "message": "Layi"
+  },
+  "addedLabel": {
+    "message": "kara da cewa"
+  },
+  "removedLabel": {
+    "message": "cire"
+  },
+  "changedLabel": {
+    "message": "canza"
+  },
+  "unchangedLabel": {
+    "message": "ba canzawa"
+  },
+  "formatJSON": {
+    "message": "Tsarin JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON mara inganci a cikin guda ɗaya ko duka biyun."
+  },
+  "wordDiff": {
+    "message": "Bambance-bambancen Kalma"
+  },
+  "resultsPanelTitle": {
+    "message": "Sakamako Diff"
+  },
+  "processingLabel": {
+    "message": "Ana aiwatarwa..."
+  }
+}

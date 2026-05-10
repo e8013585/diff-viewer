@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "דיפף וויוער",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "דיפף וויוער",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "לייטווייט אָפפלינע דיפ פאַרגלייַך געצייַג פֿאַר טעקסט און קאָד.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "דיפף וויוער"
+  },
+  "headerSubtitle": {
+    "message": "פאַרגלייַכן טעקסט, קאָד, JSON און מער - אָפפלינע"
+  },
+  "labelOriginal": {
+    "message": "אָריגינעל"
+  },
+  "labelModified": {
+    "message": "מאַדאַפייד"
+  },
+  "placeholderOriginal": {
+    "message": "פּאַפּ אָריגינעל טעקסט אָדער קאָד דאָ ..."
+  },
+  "placeholderModified": {
+    "message": "פּאַפּ מאַדאַפייד טעקסט אָדער קאָד דאָ ..."
+  },
+  "btnCompare": {
+    "message": "פאַרגלייַכן"
+  },
+  "btnClear": {
+    "message": "קלאָר"
+  },
+  "btnCopyLeft": {
+    "message": "קאָפּי לינקס"
+  },
+  "btnCopyRight": {
+    "message": "קאָפּי רעכט"
+  },
+  "btnSwap": {
+    "message": "ויסבייַטן"
+  },
+  "btnInlineDiff": {
+    "message": "אינלינע"
+  },
+  "btnSideBySide": {
+    "message": "זייַט ביי זייַט"
+  },
+  "statAdded": {
+    "message": "צוגעגעבן"
+  },
+  "statRemoved": {
+    "message": "אַוועקגענומען"
+  },
+  "statChanged": {
+    "message": "געביטן"
+  },
+  "statUnchanged": {
+    "message": "אַנטשיינדזשד"
+  },
+  "statLines": {
+    "message": "שורות"
+  },
+  "emptyStateTitle": {
+    "message": "גרייט צו פאַרגלייַכן"
+  },
+  "emptyStateBody": {
+    "message": "פּאַפּ טעקסט אין ביידע פּאַנאַלז און גיט פאַרגלייַכן - אָדער דריקן קטרל + אַרייַן"
+  },
+  "identicalTitle": {
+    "message": "טעקעס זענען יידעניקאַל"
+  },
+  "identicalBody": {
+    "message": "קיין דיפעראַנסיז זענען געפונען צווישן די צוויי ינפּוץ."
+  },
+  "errorLargeInput": {
+    "message": "אַרייַנשרייַב איז זייער גרויס. די חילוק קען נעמען אַ מאָמענט ..."
+  },
+  "errorBothEmpty": {
+    "message": "ביטע פּאַפּ אינהאַלט אין ביידע פּאַנאַלז איידער קאַמפּערינג."
+  },
+  "errorOneEmpty": {
+    "message": "איין טאַפליע איז ליידיק. ביטע צושטעלן אינהאַלט אין ביידע פּאַנאַלז."
+  },
+  "copied": {
+    "message": "קאַפּיד!"
+  },
+  "copyFailed": {
+    "message": "קאָפּי ניט אַנדערש"
+  },
+  "cleared": {
+    "message": "קלירד"
+  },
+  "swapped": {
+    "message": "סוואַפּט"
+  },
+  "kbShortcutsTitle": {
+    "message": "קלאַוויאַטור שאָרטקאַץ"
+  },
+  "kbCompare": {
+    "message": "פאַרגלייַכן"
+  },
+  "kbClear": {
+    "message": "קלאָר"
+  },
+  "kbSwap": {
+    "message": "ויסבייַטן פּאַנאַלז"
+  },
+  "lineLabel": {
+    "message": "שורה"
+  },
+  "addedLabel": {
+    "message": "צוגעגעבן"
+  },
+  "removedLabel": {
+    "message": "אַוועקגענומען"
+  },
+  "changedLabel": {
+    "message": "געביטן"
+  },
+  "unchangedLabel": {
+    "message": "אַנטשיינדזשד"
+  },
+  "formatJSON": {
+    "message": "פֿאָרמאַט JSON"
+  },
+  "formatJSONError": {
+    "message": "פאַרקריפּלט JSON אין איין אָדער ביידע פּאַנאַלז."
+  },
+  "wordDiff": {
+    "message": "וואָרט דיף"
+  },
+  "resultsPanelTitle": {
+    "message": "פאַרשידענע רעזולטאַטן"
+  },
+  "processingLabel": {
+    "message": "פּראַסעסינג..."
+  }
+}

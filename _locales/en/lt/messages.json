@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lengvas neprisijungus skirtų skirtumų palyginimo įrankis tekstui ir kodui.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Palyginkite tekstą, kodą, JSON ir daugiau – neprisijungę"
+  },
+  "labelOriginal": {
+    "message": "Originalus"
+  },
+  "labelModified": {
+    "message": "Modifikuota"
+  },
+  "placeholderOriginal": {
+    "message": "Įklijuokite originalų tekstą arba kodą čia..."
+  },
+  "placeholderModified": {
+    "message": "Įklijuokite pakeistą tekstą arba kodą čia..."
+  },
+  "btnCompare": {
+    "message": "Palyginti"
+  },
+  "btnClear": {
+    "message": "Aišku"
+  },
+  "btnCopyLeft": {
+    "message": "Kopijuoti į kairę"
+  },
+  "btnCopyRight": {
+    "message": "Kopijuoti į dešinę"
+  },
+  "btnSwap": {
+    "message": "Sukeisti"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Vienas šalia kito"
+  },
+  "statAdded": {
+    "message": "Pridėta"
+  },
+  "statRemoved": {
+    "message": "Pašalinta"
+  },
+  "statChanged": {
+    "message": "Pasikeitė"
+  },
+  "statUnchanged": {
+    "message": "Nepakitęs"
+  },
+  "statLines": {
+    "message": "linijos"
+  },
+  "emptyStateTitle": {
+    "message": "Paruošta palyginimui"
+  },
+  "emptyStateBody": {
+    "message": "Įklijuokite tekstą į abu skydelius ir spustelėkite Palyginti arba paspauskite Ctrl + Enter"
+  },
+  "identicalTitle": {
+    "message": "Failai yra identiški"
+  },
+  "identicalBody": {
+    "message": "Nerasta jokių skirtumų tarp dviejų įvesties."
+  },
+  "errorLargeInput": {
+    "message": "Įvestis yra labai didelė. Skirtumas gali užtrukti..."
+  },
+  "errorBothEmpty": {
+    "message": "Prieš palygindami, įklijuokite turinį į abu skydelius."
+  },
+  "errorOneEmpty": {
+    "message": "Vienas skydelis tuščias. Pateikite turinį abiejose skydeliuose."
+  },
+  "copied": {
+    "message": "Nukopijuota!"
+  },
+  "copyFailed": {
+    "message": "Kopijuoti nepavyko"
+  },
+  "cleared": {
+    "message": "Išvalyta"
+  },
+  "swapped": {
+    "message": "Sukeisti"
+  },
+  "kbShortcutsTitle": {
+    "message": "Spartieji klavišai"
+  },
+  "kbCompare": {
+    "message": "Palyginti"
+  },
+  "kbClear": {
+    "message": "Aišku"
+  },
+  "kbSwap": {
+    "message": "Sukeisti plokštes"
+  },
+  "lineLabel": {
+    "message": "Linija"
+  },
+  "addedLabel": {
+    "message": "pridėta"
+  },
+  "removedLabel": {
+    "message": "pašalintas"
+  },
+  "changedLabel": {
+    "message": "pasikeitė"
+  },
+  "unchangedLabel": {
+    "message": "nepakitęs"
+  },
+  "formatJSON": {
+    "message": "Formatuokite JSON"
+  },
+  "formatJSONError": {
+    "message": "Netinkamas JSON viename arba abiejuose skyduose."
+  },
+  "wordDiff": {
+    "message": "Žodžių skirtumas"
+  },
+  "resultsPanelTitle": {
+    "message": "Skirtingi rezultatai"
+  },
+  "processingLabel": {
+    "message": "Apdorojama..."
+  }
+}
