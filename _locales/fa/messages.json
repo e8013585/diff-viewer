@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "بیننده تفاوت",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "بیننده تفاوت",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ابزار مقایسه تفاوت آفلاین سبک برای متن و کد.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "بیننده تفاوت"
+  },
+  "headerSubtitle": {
+    "message": "متن، کد، JSON و موارد دیگر را مقایسه کنید — آفلاین"
+  },
+  "labelOriginal": {
+    "message": "اصل"
+  },
+  "labelModified": {
+    "message": "اصلاح شد"
+  },
+  "placeholderOriginal": {
+    "message": "متن یا کد اصلی را اینجا بچسبانید..."
+  },
+  "placeholderModified": {
+    "message": "متن یا کد اصلاح شده را اینجا بچسبانید..."
+  },
+  "btnCompare": {
+    "message": "مقایسه کنید"
+  },
+  "btnClear": {
+    "message": "پاک کردن"
+  },
+  "btnCopyLeft": {
+    "message": "سمت چپ را کپی کنید"
+  },
+  "btnCopyRight": {
+    "message": "کپی راست"
+  },
+  "btnSwap": {
+    "message": "تعویض کنید"
+  },
+  "btnInlineDiff": {
+    "message": "درون خطی"
+  },
+  "btnSideBySide": {
+    "message": "پهلو به پهلو"
+  },
+  "statAdded": {
+    "message": "اضافه شد"
+  },
+  "statRemoved": {
+    "message": "حذف شد"
+  },
+  "statChanged": {
+    "message": "تغییر کرد"
+  },
+  "statUnchanged": {
+    "message": "بدون تغییر"
+  },
+  "statLines": {
+    "message": "خطوط"
+  },
+  "emptyStateTitle": {
+    "message": "آماده برای مقایسه"
+  },
+  "emptyStateBody": {
+    "message": "متن را در هر دو پنل جای‌گذاری کنید و روی مقایسه کلیک کنید - یا Ctrl+Enter را فشار دهید"
+  },
+  "identicalTitle": {
+    "message": "فایل ها یکسان هستند"
+  },
+  "identicalBody": {
+    "message": "هیچ تفاوتی بین دو ورودی پیدا نشد."
+  },
+  "errorLargeInput": {
+    "message": "ورودی بسیار بزرگ است. تفاوت ممکن است یک لحظه طول بکشد ..."
+  },
+  "errorBothEmpty": {
+    "message": "لطفاً قبل از مقایسه محتوا را در هر دو پانل قرار دهید."
+  },
+  "errorOneEmpty": {
+    "message": "یک پنل خالی است لطفا مطالب را در هر دو پنل ارائه دهید."
+  },
+  "copied": {
+    "message": "کپی شده!"
+  },
+  "copyFailed": {
+    "message": "کپی ناموفق بود"
+  },
+  "cleared": {
+    "message": "پاک شد"
+  },
+  "swapped": {
+    "message": "تعویض شد"
+  },
+  "kbShortcutsTitle": {
+    "message": "میانبرهای صفحه کلید"
+  },
+  "kbCompare": {
+    "message": "مقایسه کنید"
+  },
+  "kbClear": {
+    "message": "پاک کردن"
+  },
+  "kbSwap": {
+    "message": "تعویض پنل ها"
+  },
+  "lineLabel": {
+    "message": "خط"
+  },
+  "addedLabel": {
+    "message": "اضافه شده است"
+  },
+  "removedLabel": {
+    "message": "حذف شده است"
+  },
+  "changedLabel": {
+    "message": "تغییر کرد"
+  },
+  "unchangedLabel": {
+    "message": "بدون تغییر"
+  },
+  "formatJSON": {
+    "message": "فرمت JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON نامعتبر در یک یا هر دو پانل."
+  },
+  "wordDiff": {
+    "message": "تفاوت کلمه"
+  },
+  "resultsPanelTitle": {
+    "message": "نتایج متفاوت"
+  },
+  "processingLabel": {
+    "message": "در حال پردازش..."
+  }
+}

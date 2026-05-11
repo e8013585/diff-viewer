@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Uñch’ukiña",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Uñch’ukiña",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "K’achachata offline diff comparación herramienta qillqañataki ukhamaraki código ukataki.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Uñch’ukiña"
+  },
+  "headerSubtitle": {
+    "message": "Qillqata, chimpu, JSON, ukat juk’ampinakat uñakipt’aña — jan internetan"
+  },
+  "labelOriginal": {
+    "message": "Urijinala"
+  },
+  "labelModified": {
+    "message": "Mayjt’ayata"
+  },
+  "placeholderOriginal": {
+    "message": "Aka chiqan qillqat original jan ukax código ukar lip’katañamawa..."
+  },
+  "placeholderModified": {
+    "message": "Aka chiqan mayjt’at qillqat jan ukax código ukar lip’katayaña..."
+  },
+  "btnCompare": {
+    "message": "Alaña"
+  },
+  "btnClear": {
+    "message": "Qhana"
+  },
+  "btnCopyLeft": {
+    "message": "Copia Ch’iqa tuqiru"
+  },
+  "btnCopyRight": {
+    "message": "Copia Chiqapa"
+  },
+  "btnSwap": {
+    "message": "Chhalaqa"
+  },
+  "btnInlineDiff": {
+    "message": "Inline ukan uñt’ayata"
+  },
+  "btnSideBySide": {
+    "message": "Lado ukat Lado"
+  },
+  "statAdded": {
+    "message": "Ukhamaraki"
+  },
+  "statRemoved": {
+    "message": "Ukax apsutawa"
+  },
+  "statChanged": {
+    "message": "Mayjt’ayata"
+  },
+  "statUnchanged": {
+    "message": "Jan mayjt’ayata"
+  },
+  "statLines": {
+    "message": "líneas ukanaka"
+  },
+  "emptyStateTitle": {
+    "message": "Comparar lurañatakix wakicht’atawa"
+  },
+  "emptyStateBody": {
+    "message": "Panpacha paneles ukar qillqat ch’iqt’aña ukat Comparar ukar ch’iqt’aña — jan ukax Ctrl+Enter ukar ch’iqt’aña"
+  },
+  "identicalTitle": {
+    "message": "Archivonakax Identical ukhamawa"
+  },
+  "identicalBody": {
+    "message": "Uka pä amuyunakanx janiw mayjt’awinakax jikxataskänti."
+  },
+  "errorLargeInput": {
+    "message": "Input ukax wali jach’awa. Diff ukax mä juk’a pachakiw..."
+  },
+  "errorBothEmpty": {
+    "message": "Janïr uñakipt’kasax pä paneles ukar contenido ukar lip’katañamawa."
+  },
+  "errorOneEmpty": {
+    "message": "Mä panel ukax ch’usawa. Ukhamaraki, panpacha paneles ukan contenido uñacht’ayaña."
+  },
+  "copied": {
+    "message": "¡Copiatäjjewa!"
+  },
+  "copyFailed": {
+    "message": "Copia ukax janiw phuqhaskiti"
+  },
+  "cleared": {
+    "message": "Q’umachata"
+  },
+  "swapped": {
+    "message": "Ukax mä juk’a pachanakanwa"
+  },
+  "kbShortcutsTitle": {
+    "message": "Teclado ukax mä juk’a pachanakanwa"
+  },
+  "kbCompare": {
+    "message": "Alaña"
+  },
+  "kbClear": {
+    "message": "Qhana"
+  },
+  "kbSwap": {
+    "message": "Paneles ukanaka mayjt’ayaña"
+  },
+  "lineLabel": {
+    "message": "Chiqa"
+  },
+  "addedLabel": {
+    "message": "sasaw yapxatäna"
+  },
+  "removedLabel": {
+    "message": "apsutawa"
+  },
+  "changedLabel": {
+    "message": "mayjt’ayata"
+  },
+  "unchangedLabel": {
+    "message": "jan mayjt’ayata"
+  },
+  "formatJSON": {
+    "message": "JSON ukar uñt’ayaña"
+  },
+  "formatJSONError": {
+    "message": "Mä jan ukax pä panel ukan JSON jan wali."
+  },
+  "wordDiff": {
+    "message": "Arunakax Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Resultados ukax mä juk’a pachanakanwa"
+  },
+  "processingLabel": {
+    "message": "Uka lurawixa..."
+  }
+}

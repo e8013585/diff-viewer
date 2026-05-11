@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Διαφορετικό πρόγραμμα προβολής",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Διαφορετικό πρόγραμμα προβολής",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Ελαφρύ εργαλείο σύγκρισης διαφορών εκτός σύνδεσης για κείμενο και κώδικα.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Διαφορετικό πρόγραμμα προβολής"
+  },
+  "headerSubtitle": {
+    "message": "Συγκρίνετε κείμενο, κώδικα, JSON και άλλα — εκτός σύνδεσης"
+  },
+  "labelOriginal": {
+    "message": "Πρωτότυπο"
+  },
+  "labelModified": {
+    "message": "Τροποποιήθηκε"
+  },
+  "placeholderOriginal": {
+    "message": "Επικολλήστε εδώ το αρχικό κείμενο ή τον κώδικα..."
+  },
+  "placeholderModified": {
+    "message": "Επικόλληση τροποποιημένου κειμένου ή κώδικα εδώ..."
+  },
+  "btnCompare": {
+    "message": "Συγκρίνω"
+  },
+  "btnClear": {
+    "message": "Σαφής"
+  },
+  "btnCopyLeft": {
+    "message": "Αντιγραφή Αριστερά"
+  },
+  "btnCopyRight": {
+    "message": "Αντιγραφή δεξιά"
+  },
+  "btnSwap": {
+    "message": "Ανταλαγή"
+  },
+  "btnInlineDiff": {
+    "message": "Ενσωματωμένη"
+  },
+  "btnSideBySide": {
+    "message": "Πλάι πλάι"
+  },
+  "statAdded": {
+    "message": "Προστέθηκε"
+  },
+  "statRemoved": {
+    "message": "Καταργήθηκε"
+  },
+  "statChanged": {
+    "message": "Άλλαξε"
+  },
+  "statUnchanged": {
+    "message": "Αμετάβλητος"
+  },
+  "statLines": {
+    "message": "γραμμές"
+  },
+  "emptyStateTitle": {
+    "message": "Έτοιμοι για σύγκριση"
+  },
+  "emptyStateBody": {
+    "message": "Επικολλήστε κείμενο και στους δύο πίνακες και κάντε κλικ στο Σύγκριση — ή πατήστε Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Τα αρχεία είναι πανομοιότυπα"
+  },
+  "identicalBody": {
+    "message": "Δεν βρέθηκαν διαφορές μεταξύ των δύο εισροών."
+  },
+  "errorLargeInput": {
+    "message": "Η είσοδος είναι πολύ μεγάλη. Η διαφορά μπορεί να πάρει μια στιγμή..."
+  },
+  "errorBothEmpty": {
+    "message": "Επικολλήστε το περιεχόμενο και στα δύο πλαίσια πριν το συγκρίνετε."
+  },
+  "errorOneEmpty": {
+    "message": "Ένα πλαίσιο είναι κενό. Παρέχετε περιεχόμενο και στους δύο πίνακες."
+  },
+  "copied": {
+    "message": "Αντιγράφηκε!"
+  },
+  "copyFailed": {
+    "message": "Η αντιγραφή απέτυχε"
+  },
+  "cleared": {
+    "message": "Καθαρίστηκε"
+  },
+  "swapped": {
+    "message": "Ανταλλάχθηκε"
+  },
+  "kbShortcutsTitle": {
+    "message": "Συντομεύσεις πληκτρολογίου"
+  },
+  "kbCompare": {
+    "message": "Συγκρίνω"
+  },
+  "kbClear": {
+    "message": "Σαφής"
+  },
+  "kbSwap": {
+    "message": "Ανταλλαγή πάνελ"
+  },
+  "lineLabel": {
+    "message": "Γραμμή"
+  },
+  "addedLabel": {
+    "message": "προστέθηκε"
+  },
+  "removedLabel": {
+    "message": "αφαιρέθηκε"
+  },
+  "changedLabel": {
+    "message": "άλλαξε"
+  },
+  "unchangedLabel": {
+    "message": "αμετάβλητος"
+  },
+  "formatJSON": {
+    "message": "Μορφοποίηση JSON"
+  },
+  "formatJSONError": {
+    "message": "Μη έγκυρο JSON σε έναν ή και στους δύο πίνακες."
+  },
+  "wordDiff": {
+    "message": "Διαφορά λέξης"
+  },
+  "resultsPanelTitle": {
+    "message": "Διαφορετικά αποτελέσματα"
+  },
+  "processingLabel": {
+    "message": "Επεξεργασία..."
+  }
+}

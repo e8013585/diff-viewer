@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "دیف بینەر",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "دیف بینەر",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ئامرازی بەراوردکردنی جیاوازی ئۆفلاین سووک بۆ دەق و کۆد.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "دیف بینەر"
+  },
+  "headerSubtitle": {
+    "message": "بەراوردکردنی دەق، کۆد، JSON و زۆر شتی تر — ئۆفلاین"
+  },
+  "labelOriginal": {
+    "message": "ڕەسەن"
+  },
+  "labelModified": {
+    "message": "دەستکاری کراوە"
+  },
+  "placeholderOriginal": {
+    "message": "دەقی ئەسڵی یان کۆدی لێرەدا لێبدە..."
+  },
+  "placeholderModified": {
+    "message": "دەق یان کۆدی دەستکاریکراو لێرەدا لێبدە..."
+  },
+  "btnCompare": {
+    "message": "بەراورد"
+  },
+  "btnClear": {
+    "message": "ڕوون"
+  },
+  "btnCopyLeft": {
+    "message": "کۆپی چەپ"
+  },
+  "btnCopyRight": {
+    "message": "کۆپی ڕاست"
+  },
+  "btnSwap": {
+    "message": "جێگۆڕین"
+  },
+  "btnInlineDiff": {
+    "message": "لە هێڵدا"
+  },
+  "btnSideBySide": {
+    "message": "ساید بە ساید"
+  },
+  "statAdded": {
+    "message": "زیاد کرا"
+  },
+  "statRemoved": {
+    "message": "لابرا"
+  },
+  "statChanged": {
+    "message": "گۆڕا"
+  },
+  "statUnchanged": {
+    "message": "نەگۆڕاوە"
+  },
+  "statLines": {
+    "message": "هێڵەکان"
+  },
+  "emptyStateTitle": {
+    "message": "ئامادەیە بۆ بەراوردکردن"
+  },
+  "emptyStateBody": {
+    "message": "دەقەکە لە هەردوو پانێڵەکەدا لێبدە و کرتە لە بەراورد بکە — یان Ctrl+Enter داگرە"
+  },
+  "identicalTitle": {
+    "message": "فایلەکان یەکسانن"
+  },
+  "identicalBody": {
+    "message": "هیچ جیاوازییەک لە نێوان دوو ئینپوتەکەدا نەدۆزراوەتەوە."
+  },
+  "errorLargeInput": {
+    "message": "ئینپوت زۆر گەورەیە. ڕەنگە جیاوازی ساتێک بخایەنێت..."
+  },
+  "errorBothEmpty": {
+    "message": "تکایە پێش بەراوردکردن ناوەڕۆکەکە لە هەردوو پانێڵەکەدا لێبدە."
+  },
+  "errorOneEmpty": {
+    "message": "پانێڵێک بەتاڵە. تکایە ناوەڕۆک لە هەردوو پانێڵەکەدا دابین بکەن."
+  },
+  "copied": {
+    "message": "کۆپی کراوە!"
+  },
+  "copyFailed": {
+    "message": "کۆپیکردن شکستی هێنا"
+  },
+  "cleared": {
+    "message": "پاککرایەوە"
+  },
+  "swapped": {
+    "message": "گۆڕاوە"
+  },
+  "kbShortcutsTitle": {
+    "message": "کورتە ڕێگاکانی کیبۆرد"
+  },
+  "kbCompare": {
+    "message": "بەراورد"
+  },
+  "kbClear": {
+    "message": "ڕوون"
+  },
+  "kbSwap": {
+    "message": "پانێڵەکان بگۆڕنەوە"
+  },
+  "lineLabel": {
+    "message": "هێڵ"
+  },
+  "addedLabel": {
+    "message": "زیادی کرد"
+  },
+  "removedLabel": {
+    "message": "لابرا"
+  },
+  "changedLabel": {
+    "message": "گۆڕا"
+  },
+  "unchangedLabel": {
+    "message": "نەگۆڕاوە"
+  },
+  "formatJSON": {
+    "message": "فۆرمات JSON بکە"
+  },
+  "formatJSONError": {
+    "message": "JSON نادروست لە یەکێک یان هەردوو پانێڵەکەدا."
+  },
+  "wordDiff": {
+    "message": "جیاوازی وشە"
+  },
+  "resultsPanelTitle": {
+    "message": "جیاوازی ئەنجامەکان"
+  },
+  "processingLabel": {
+    "message": "پرۆسێسکردن..."
+  }
+}

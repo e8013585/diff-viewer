@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lineaz kanpoko desberdintasunak alderatzeko tresna arina testua eta kodea.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Konparatu testua, kodea, JSON eta gehiago — lineaz kanpo"
+  },
+  "labelOriginal": {
+    "message": "Jatorrizkoa"
+  },
+  "labelModified": {
+    "message": "Aldatua"
+  },
+  "placeholderOriginal": {
+    "message": "Itsatsi jatorrizko testua edo kodea hemen..."
+  },
+  "placeholderModified": {
+    "message": "Itsatsi aldatutako testua edo kodea hemen..."
+  },
+  "btnCompare": {
+    "message": "Konparatu"
+  },
+  "btnClear": {
+    "message": "Garbi"
+  },
+  "btnCopyLeft": {
+    "message": "Kopiatu ezkerrera"
+  },
+  "btnCopyRight": {
+    "message": "Kopiatu Eskubidea"
+  },
+  "btnSwap": {
+    "message": "Trukatu"
+  },
+  "btnInlineDiff": {
+    "message": "Sarean"
+  },
+  "btnSideBySide": {
+    "message": "Bat-batean"
+  },
+  "statAdded": {
+    "message": "Gehituta"
+  },
+  "statRemoved": {
+    "message": "Kendua"
+  },
+  "statChanged": {
+    "message": "Aldatua"
+  },
+  "statUnchanged": {
+    "message": "Aldatu gabe"
+  },
+  "statLines": {
+    "message": "lerroak"
+  },
+  "emptyStateTitle": {
+    "message": "Konparatzeko prest"
+  },
+  "emptyStateBody": {
+    "message": "Itsatsi testua bi paneletan eta sakatu Konparatu edo sakatu Ctrl+Sartu"
+  },
+  "identicalTitle": {
+    "message": "Fitxategiak berdinak dira"
+  },
+  "identicalBody": {
+    "message": "Ez da desberdintasunik aurkitu bi sarreraren artean."
+  },
+  "errorLargeInput": {
+    "message": "Sarrera oso handia da. Baliteke desberdintasunak une bat behar izatea..."
+  },
+  "errorBothEmpty": {
+    "message": "Mesedez itsatsi edukia bi paneletan alderatu aurretik."
+  },
+  "errorOneEmpty": {
+    "message": "Panel bat hutsik dago. Eman edukia bi paneletan."
+  },
+  "copied": {
+    "message": "Kopiatu!"
+  },
+  "copyFailed": {
+    "message": "Ezin izan da kopiatu"
+  },
+  "cleared": {
+    "message": "Garbitu"
+  },
+  "swapped": {
+    "message": "Trukatu"
+  },
+  "kbShortcutsTitle": {
+    "message": "Teklatuko lasterbideak"
+  },
+  "kbCompare": {
+    "message": "Konparatu"
+  },
+  "kbClear": {
+    "message": "Garbi"
+  },
+  "kbSwap": {
+    "message": "Trukatu panelak"
+  },
+  "lineLabel": {
+    "message": "Lerroa"
+  },
+  "addedLabel": {
+    "message": "gehitu"
+  },
+  "removedLabel": {
+    "message": "kenduta"
+  },
+  "changedLabel": {
+    "message": "aldatu"
+  },
+  "unchangedLabel": {
+    "message": "aldatu gabe"
+  },
+  "formatJSON": {
+    "message": "JSON formatua"
+  },
+  "formatJSONError": {
+    "message": "JSON baliogabea panel batean edo bietan."
+  },
+  "wordDiff": {
+    "message": "Hitz desberdina"
+  },
+  "resultsPanelTitle": {
+    "message": "Emaitza desberdina"
+  },
+  "processingLabel": {
+    "message": "Prozesatzen..."
+  }
+}

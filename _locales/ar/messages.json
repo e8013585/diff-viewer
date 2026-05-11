@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "عارض الفرق",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "عارض الفرق",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "أداة مقارنة الفرق خفيفة الوزن دون اتصال بالإنترنت للنص والكود.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "عارض الفرق"
+  },
+  "headerSubtitle": {
+    "message": "قارن بين النص والكود وJSON والمزيد — دون الاتصال بالإنترنت"
+  },
+  "labelOriginal": {
+    "message": "إبداعي"
+  },
+  "labelModified": {
+    "message": "معدل"
+  },
+  "placeholderOriginal": {
+    "message": "الصق النص الأصلي أو الرمز هنا..."
+  },
+  "placeholderModified": {
+    "message": "الصق نصًا أو رمزًا معدلاً هنا..."
+  },
+  "btnCompare": {
+    "message": "يقارن"
+  },
+  "btnClear": {
+    "message": "واضح"
+  },
+  "btnCopyLeft": {
+    "message": "انسخ لليسار"
+  },
+  "btnCopyRight": {
+    "message": "حق النسخ"
+  },
+  "btnSwap": {
+    "message": "تبديل"
+  },
+  "btnInlineDiff": {
+    "message": "مضمنة"
+  },
+  "btnSideBySide": {
+    "message": "جنبا إلى جنب"
+  },
+  "statAdded": {
+    "message": "تمت الإضافة"
+  },
+  "statRemoved": {
+    "message": "تمت الإزالة"
+  },
+  "statChanged": {
+    "message": "تغيرت"
+  },
+  "statUnchanged": {
+    "message": "دون تغيير"
+  },
+  "statLines": {
+    "message": "خطوط"
+  },
+  "emptyStateTitle": {
+    "message": "جاهز للمقارنة"
+  },
+  "emptyStateBody": {
+    "message": "الصق النص في كلتا اللوحيتين وانقر على \"مقارنة\" — أو اضغط على Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "الملفات متطابقة"
+  },
+  "identicalBody": {
+    "message": "ولم يتم العثور على اختلافات بين المدخلين."
+  },
+  "errorLargeInput": {
+    "message": "المدخلات كبيرة جدًا. قد يستغرق الاختلاف لحظة ..."
+  },
+  "errorBothEmpty": {
+    "message": "يرجى لصق المحتوى في كلتا اللوحتين قبل المقارنة."
+  },
+  "errorOneEmpty": {
+    "message": "لوحة واحدة فارغة. يرجى تقديم المحتوى في كلتا اللوحتين."
+  },
+  "copied": {
+    "message": "منسوخ!"
+  },
+  "copyFailed": {
+    "message": "فشل النسخ"
+  },
+  "cleared": {
+    "message": "مسح"
+  },
+  "swapped": {
+    "message": "مبادلة"
+  },
+  "kbShortcutsTitle": {
+    "message": "اختصارات لوحة المفاتيح"
+  },
+  "kbCompare": {
+    "message": "يقارن"
+  },
+  "kbClear": {
+    "message": "واضح"
+  },
+  "kbSwap": {
+    "message": "تبديل اللوحات"
+  },
+  "lineLabel": {
+    "message": "خط"
+  },
+  "addedLabel": {
+    "message": "وأضاف"
+  },
+  "removedLabel": {
+    "message": "تمت إزالته"
+  },
+  "changedLabel": {
+    "message": "تغير"
+  },
+  "unchangedLabel": {
+    "message": "دون تغيير"
+  },
+  "formatJSON": {
+    "message": "تنسيق جيسون"
+  },
+  "formatJSONError": {
+    "message": "JSON غير صالح في إحدى اللوحتين أو كلتيهما."
+  },
+  "wordDiff": {
+    "message": "اختلاف الكلمات"
+  },
+  "resultsPanelTitle": {
+    "message": "نتائج الفرق"
+  },
+  "processingLabel": {
+    "message": "يعالج..."
+  }
+}

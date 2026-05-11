@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Liggewig vanlyn verskil-vergelykingsinstrument vir teks en kode.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Vergelyk teks, kode, JSON en meer – vanlyn"
+  },
+  "labelOriginal": {
+    "message": "Oorspronklik"
+  },
+  "labelModified": {
+    "message": "Gewysig"
+  },
+  "placeholderOriginal": {
+    "message": "Plak oorspronklike teks of kode hier..."
+  },
+  "placeholderModified": {
+    "message": "Plak gewysigde teks of kode hier..."
+  },
+  "btnCompare": {
+    "message": "Vergelyk"
+  },
+  "btnClear": {
+    "message": "Duidelik"
+  },
+  "btnCopyLeft": {
+    "message": "Kopieer links"
+  },
+  "btnCopyRight": {
+    "message": "Kopieer Regs"
+  },
+  "btnSwap": {
+    "message": "Ruil"
+  },
+  "btnInlineDiff": {
+    "message": "Inlyn"
+  },
+  "btnSideBySide": {
+    "message": "Sy aan sy"
+  },
+  "statAdded": {
+    "message": "Bygevoeg"
+  },
+  "statRemoved": {
+    "message": "Verwyder"
+  },
+  "statChanged": {
+    "message": "Verander"
+  },
+  "statUnchanged": {
+    "message": "Onveranderd"
+  },
+  "statLines": {
+    "message": "lyne"
+  },
+  "emptyStateTitle": {
+    "message": "Gereed om te vergelyk"
+  },
+  "emptyStateBody": {
+    "message": "Plak teks in albei panele en klik Vergelyk - of druk Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Lêers is identies"
+  },
+  "identicalBody": {
+    "message": "Geen verskille is tussen die twee insette gevind nie."
+  },
+  "errorLargeInput": {
+    "message": "Insette is baie groot. Verskil kan 'n oomblik neem ..."
+  },
+  "errorBothEmpty": {
+    "message": "Plak asseblief inhoud in beide panele voor jy vergelyk."
+  },
+  "errorOneEmpty": {
+    "message": "Een paneel is leeg. Verskaf asseblief inhoud in beide panele."
+  },
+  "copied": {
+    "message": "Gekopieer!"
+  },
+  "copyFailed": {
+    "message": "Kopieer het misluk"
+  },
+  "cleared": {
+    "message": "Uitgevee"
+  },
+  "swapped": {
+    "message": "Omgeruil"
+  },
+  "kbShortcutsTitle": {
+    "message": "Sleutelbordkortpaaie"
+  },
+  "kbCompare": {
+    "message": "Vergelyk"
+  },
+  "kbClear": {
+    "message": "Duidelik"
+  },
+  "kbSwap": {
+    "message": "Ruil panele om"
+  },
+  "lineLabel": {
+    "message": "Lyn"
+  },
+  "addedLabel": {
+    "message": "bygevoeg"
+  },
+  "removedLabel": {
+    "message": "verwyder"
+  },
+  "changedLabel": {
+    "message": "verander"
+  },
+  "unchangedLabel": {
+    "message": "onveranderd"
+  },
+  "formatJSON": {
+    "message": "Formateer JSON"
+  },
+  "formatJSONError": {
+    "message": "Ongeldige JSON in een of albei panele."
+  },
+  "wordDiff": {
+    "message": "Woordverskil"
+  },
+  "resultsPanelTitle": {
+    "message": "Verskillende resultate"
+  },
+  "processingLabel": {
+    "message": "Verwerk tans …"
+  }
+}

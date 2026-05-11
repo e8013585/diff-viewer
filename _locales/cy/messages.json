@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Gwyliwr Diff",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Gwyliwr Diff",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Offeryn cymharu diff ysgafn all-lein ar gyfer testun a chod.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Gwyliwr Diff"
+  },
+  "headerSubtitle": {
+    "message": "Cymharwch destun, cod, JSON, a mwy - all-lein"
+  },
+  "labelOriginal": {
+    "message": "Gwreiddiol"
+  },
+  "labelModified": {
+    "message": "Wedi'i addasu"
+  },
+  "placeholderOriginal": {
+    "message": "Gludwch destun neu god gwreiddiol yma..."
+  },
+  "placeholderModified": {
+    "message": "Gludwch destun neu god wedi'i addasu yma..."
+  },
+  "btnCompare": {
+    "message": "Cymharer"
+  },
+  "btnClear": {
+    "message": "Clir"
+  },
+  "btnCopyLeft": {
+    "message": "Copïo i'r Chwith"
+  },
+  "btnCopyRight": {
+    "message": "Copi i'r Dde"
+  },
+  "btnSwap": {
+    "message": "Cyfnewid"
+  },
+  "btnInlineDiff": {
+    "message": "Mewn-lein"
+  },
+  "btnSideBySide": {
+    "message": "Ochr yn Ochr"
+  },
+  "statAdded": {
+    "message": "Ychwanegwyd"
+  },
+  "statRemoved": {
+    "message": "Wedi'i ddileu"
+  },
+  "statChanged": {
+    "message": "Wedi newid"
+  },
+  "statUnchanged": {
+    "message": "Heb ei newid"
+  },
+  "statLines": {
+    "message": "llinellau"
+  },
+  "emptyStateTitle": {
+    "message": "Barod i'w Cymharu"
+  },
+  "emptyStateBody": {
+    "message": "Gludwch destun i'r ddau banel a chliciwch ar Cymharu - neu pwyswch Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Ffeiliau yn Unfath"
+  },
+  "identicalBody": {
+    "message": "Ni chanfuwyd unrhyw wahaniaethau rhwng y ddau fewnbwn."
+  },
+  "errorLargeInput": {
+    "message": "Mae'r mewnbwn yn fawr iawn. Efallai y bydd Diff yn cymryd eiliad..."
+  },
+  "errorBothEmpty": {
+    "message": "Gludwch y cynnwys i'r ddau banel cyn cymharu."
+  },
+  "errorOneEmpty": {
+    "message": "Mae un panel yn wag. Rhowch gynnwys yn y ddau banel."
+  },
+  "copied": {
+    "message": "Wedi'i gopïo!"
+  },
+  "copyFailed": {
+    "message": "Methodd y copi"
+  },
+  "cleared": {
+    "message": "Cliriwyd"
+  },
+  "swapped": {
+    "message": "Cyfnewid"
+  },
+  "kbShortcutsTitle": {
+    "message": "Llwybrau Byr bysellfwrdd"
+  },
+  "kbCompare": {
+    "message": "Cymharer"
+  },
+  "kbClear": {
+    "message": "Clir"
+  },
+  "kbSwap": {
+    "message": "Cyfnewid paneli"
+  },
+  "lineLabel": {
+    "message": "Llinell"
+  },
+  "addedLabel": {
+    "message": "ychwanegodd"
+  },
+  "removedLabel": {
+    "message": "tynnu"
+  },
+  "changedLabel": {
+    "message": "wedi newid"
+  },
+  "unchangedLabel": {
+    "message": "digyfnewid"
+  },
+  "formatJSON": {
+    "message": "Fformat JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON annilys mewn un neu'r ddau banel."
+  },
+  "wordDiff": {
+    "message": "Gair Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Canlyniadau Gwahaniaeth"
+  },
+  "processingLabel": {
+    "message": "Wrthi'n prosesu..."
+  }
+}

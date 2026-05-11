@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Kevyt offline-vertailutyökalu tekstille ja koodille.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Vertaa tekstiä, koodia, JSONia ja paljon muuta – offline-tilassa"
+  },
+  "labelOriginal": {
+    "message": "Alkuperäinen"
+  },
+  "labelModified": {
+    "message": "Muokattu"
+  },
+  "placeholderOriginal": {
+    "message": "Liitä alkuperäinen teksti tai koodi tähän..."
+  },
+  "placeholderModified": {
+    "message": "Liitä muokattu teksti tai koodi tähän..."
+  },
+  "btnCompare": {
+    "message": "Vertaa"
+  },
+  "btnClear": {
+    "message": "Selkeä"
+  },
+  "btnCopyLeft": {
+    "message": "Kopioi vasemmalle"
+  },
+  "btnCopyRight": {
+    "message": "Kopioi oikealle"
+  },
+  "btnSwap": {
+    "message": "Vaihtaa"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Rinnakkain"
+  },
+  "statAdded": {
+    "message": "Lisätty"
+  },
+  "statRemoved": {
+    "message": "Poistettu"
+  },
+  "statChanged": {
+    "message": "Muutettu"
+  },
+  "statUnchanged": {
+    "message": "Muuttumaton"
+  },
+  "statLines": {
+    "message": "rivit"
+  },
+  "emptyStateTitle": {
+    "message": "Valmiina vertailuun"
+  },
+  "emptyStateBody": {
+    "message": "Liitä tekstiä molempiin paneeleihin ja napsauta Vertaa — tai paina Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Tiedostot ovat identtisiä"
+  },
+  "identicalBody": {
+    "message": "Kahden syötteen välillä ei löytynyt eroja."
+  },
+  "errorLargeInput": {
+    "message": "Syöttö on erittäin suuri. Ero voi kestää hetken..."
+  },
+  "errorBothEmpty": {
+    "message": "Liitä sisältö molempiin paneeleihin ennen vertailua."
+  },
+  "errorOneEmpty": {
+    "message": "Yksi paneeli on tyhjä. Anna sisältö molemmissa paneeleissa."
+  },
+  "copied": {
+    "message": "Kopioitu!"
+  },
+  "copyFailed": {
+    "message": "Kopiointi epäonnistui"
+  },
+  "cleared": {
+    "message": "Tyhjennetty"
+  },
+  "swapped": {
+    "message": "Vaihdettu"
+  },
+  "kbShortcutsTitle": {
+    "message": "Pikanäppäimet"
+  },
+  "kbCompare": {
+    "message": "Vertaa"
+  },
+  "kbClear": {
+    "message": "Selkeä"
+  },
+  "kbSwap": {
+    "message": "Vaihda paneelit"
+  },
+  "lineLabel": {
+    "message": "Linja"
+  },
+  "addedLabel": {
+    "message": "lisätty"
+  },
+  "removedLabel": {
+    "message": "poistettu"
+  },
+  "changedLabel": {
+    "message": "muuttunut"
+  },
+  "unchangedLabel": {
+    "message": "muuttumattomana"
+  },
+  "formatJSON": {
+    "message": "Muotoile JSON"
+  },
+  "formatJSONError": {
+    "message": "Virheellinen JSON yhdessä tai molemmissa paneeleissa."
+  },
+  "wordDiff": {
+    "message": "Sanaero"
+  },
+  "resultsPanelTitle": {
+    "message": "Erotulokset"
+  },
+  "processingLabel": {
+    "message": "Käsitellään..."
+  }
+}

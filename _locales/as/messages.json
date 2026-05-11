@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ডিফ ভিউয়াৰ",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ডিফ ভিউয়াৰ",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "লিখনী আৰু ক'ডৰ বাবে লঘু অফলাইন পাৰ্থক্য তুলনা সঁজুলি।",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ডিফ ভিউয়াৰ"
+  },
+  "headerSubtitle": {
+    "message": "লিখনী, ক'ড, JSON, আৰু অধিক তুলনা কৰক — অফলাইন"
+  },
+  "labelOriginal": {
+    "message": "মূল"
+  },
+  "labelModified": {
+    "message": "পৰিৱৰ্তিত"
+  },
+  "placeholderOriginal": {
+    "message": "মূল লিখনী বা কোড এখানে পেস্ট করুন..."
+  },
+  "placeholderModified": {
+    "message": "পরিবর্তিত লিখনী বা কোড এখানে পেস্ট করুন..."
+  },
+  "btnCompare": {
+    "message": "তুলনা কৰা"
+  },
+  "btnClear": {
+    "message": "পৰিষ্কাৰ"
+  },
+  "btnCopyLeft": {
+    "message": "বাওঁফালে কপি কৰক"
+  },
+  "btnCopyRight": {
+    "message": "কপি ৰাইট"
+  },
+  "btnSwap": {
+    "message": "অদলবদল"
+  },
+  "btnInlineDiff": {
+    "message": "ইনলাইন"
+  },
+  "btnSideBySide": {
+    "message": "চাইড বাই চাইড"
+  },
+  "statAdded": {
+    "message": "যোগ কৰা হৈছে"
+  },
+  "statRemoved": {
+    "message": "আঁতৰোৱা হৈছে"
+  },
+  "statChanged": {
+    "message": "সলনি হ’ল"
+  },
+  "statUnchanged": {
+    "message": "অপৰিৱৰ্তিত"
+  },
+  "statLines": {
+    "message": "লাইন"
+  },
+  "emptyStateTitle": {
+    "message": "তুলনা কৰিবলৈ সাজু"
+  },
+  "emptyStateBody": {
+    "message": "দুয়োটা পেনেলত লিখনী পেষ্ট কৰক আৰু তুলনা কৰক ক্লিক কৰক — বা Ctrl+Enter টিপক"
+  },
+  "identicalTitle": {
+    "message": "ফাইলসমূহ একে"
+  },
+  "identicalBody": {
+    "message": "দুয়োটা ইনপুটৰ মাজত কোনো পাৰ্থক্য পোৱা নগ’ল।"
+  },
+  "errorLargeInput": {
+    "message": "ইনপুট বহুত ডাঙৰ। Diff এটা মুহূৰ্ত ল'ব পাৰে..."
+  },
+  "errorBothEmpty": {
+    "message": "তুলনা কৰাৰ আগতে অনুগ্ৰহ কৰি দুয়োটা পেনেলতে বিষয়বস্তু পেষ্ট কৰক।"
+  },
+  "errorOneEmpty": {
+    "message": "এটা পেনেল খালী। অনুগ্ৰহ কৰি দুয়োটা পেনেলতে বিষয়বস্তু প্ৰদান কৰক।"
+  },
+  "copied": {
+    "message": "কপি কৰা হৈছে!"
+  },
+  "copyFailed": {
+    "message": "কপি বিফল হ'ল"
+  },
+  "cleared": {
+    "message": "ক্লিয়াৰ কৰা হৈছে"
+  },
+  "swapped": {
+    "message": "শ্বেয়াপ কৰা হৈছে"
+  },
+  "kbShortcutsTitle": {
+    "message": "কিবৰ্ড চৰ্টকাটসমূহ"
+  },
+  "kbCompare": {
+    "message": "তুলনা কৰা"
+  },
+  "kbClear": {
+    "message": "পৰিষ্কাৰ"
+  },
+  "kbSwap": {
+    "message": "পেনেলসমূহ শ্বেপ কৰক"
+  },
+  "lineLabel": {
+    "message": "ৰেখা"
+  },
+  "addedLabel": {
+    "message": "যোগ কৰিলে"
+  },
+  "removedLabel": {
+    "message": "আঁতৰোৱা হৈছে"
+  },
+  "changedLabel": {
+    "message": "সলনি হ’ল"
+  },
+  "unchangedLabel": {
+    "message": "অপৰিৱৰ্তিত"
+  },
+  "formatJSON": {
+    "message": "JSON ফৰ্মেট কৰক"
+  },
+  "formatJSONError": {
+    "message": "এটা বা দুয়োটা পেনেলত অবৈধ JSON।"
+  },
+  "wordDiff": {
+    "message": "শব্দৰ পাৰ্থক্য"
+  },
+  "resultsPanelTitle": {
+    "message": "ডিফ ফলাফল"
+  },
+  "processingLabel": {
+    "message": "প্ৰচেছিং..."
+  }
+}

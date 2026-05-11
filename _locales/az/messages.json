@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Fərqli Baxıcı",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Fərqli Baxıcı",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Mətn və kod üçün yüngül oflayn fərq müqayisə aləti.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Fərqli Baxıcı"
+  },
+  "headerSubtitle": {
+    "message": "Mətn, kod, JSON və s. müqayisə edin — oflayn"
+  },
+  "labelOriginal": {
+    "message": "Orijinal"
+  },
+  "labelModified": {
+    "message": "Dəyişdirilib"
+  },
+  "placeholderOriginal": {
+    "message": "Orijinal mətni və ya kodu bura yerləşdirin..."
+  },
+  "placeholderModified": {
+    "message": "Dəyişdirilmiş mətni və ya kodu bura yerləşdirin..."
+  },
+  "btnCompare": {
+    "message": "Müqayisə et"
+  },
+  "btnClear": {
+    "message": "Təmiz"
+  },
+  "btnCopyLeft": {
+    "message": "Sola kopyalayın"
+  },
+  "btnCopyRight": {
+    "message": "Sağa Kopyalayın"
+  },
+  "btnSwap": {
+    "message": "Mübadilə"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Yan-yana"
+  },
+  "statAdded": {
+    "message": "Əlavə edilib"
+  },
+  "statRemoved": {
+    "message": "Silindi"
+  },
+  "statChanged": {
+    "message": "Dəyişdi"
+  },
+  "statUnchanged": {
+    "message": "Dəyişməmiş"
+  },
+  "statLines": {
+    "message": "xətlər"
+  },
+  "emptyStateTitle": {
+    "message": "Müqayisə etməyə hazırdır"
+  },
+  "emptyStateBody": {
+    "message": "Mətni hər iki panelə yerləşdirin və Müqayisə et və ya Ctrl+Enter düymələrini basın"
+  },
+  "identicalTitle": {
+    "message": "Fayllar Eynidir"
+  },
+  "identicalBody": {
+    "message": "İki giriş arasında heç bir fərq tapılmadı."
+  },
+  "errorLargeInput": {
+    "message": "Giriş çox böyükdür. Fərq bir an çəkə bilər..."
+  },
+  "errorBothEmpty": {
+    "message": "Müqayisə etməzdən əvvəl məzmunu hər iki panelə yapışdırın."
+  },
+  "errorOneEmpty": {
+    "message": "Bir panel boşdur. Hər iki paneldə məzmun təmin edin."
+  },
+  "copied": {
+    "message": "Kopyalandı!"
+  },
+  "copyFailed": {
+    "message": "Kopyalama alınmadı"
+  },
+  "cleared": {
+    "message": "Təmizləndi"
+  },
+  "swapped": {
+    "message": "Dəyişdirildi"
+  },
+  "kbShortcutsTitle": {
+    "message": "Klaviatura Qısayolları"
+  },
+  "kbCompare": {
+    "message": "Müqayisə et"
+  },
+  "kbClear": {
+    "message": "Təmiz"
+  },
+  "kbSwap": {
+    "message": "Panelləri dəyişdirin"
+  },
+  "lineLabel": {
+    "message": "Xətt"
+  },
+  "addedLabel": {
+    "message": "əlavə etdi"
+  },
+  "removedLabel": {
+    "message": "çıxarıldı"
+  },
+  "changedLabel": {
+    "message": "dəyişdi"
+  },
+  "unchangedLabel": {
+    "message": "dəyişməz"
+  },
+  "formatJSON": {
+    "message": "JSON formatı"
+  },
+  "formatJSONError": {
+    "message": "Bir və ya hər iki paneldə etibarsız JSON."
+  },
+  "wordDiff": {
+    "message": "Söz fərqi"
+  },
+  "resultsPanelTitle": {
+    "message": "Fərqli nəticələr"
+  },
+  "processingLabel": {
+    "message": "Emal edilir..."
+  }
+}

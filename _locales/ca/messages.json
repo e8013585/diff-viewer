@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Visor de diferències",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Visor de diferències",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Eina lleugera de comparació de diferències fora de línia per a text i codi.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Visor de diferències"
+  },
+  "headerSubtitle": {
+    "message": "Compareu text, codi, JSON i molt més sense connexió"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Modificat"
+  },
+  "placeholderOriginal": {
+    "message": "Enganxeu aquí el text o el codi original..."
+  },
+  "placeholderModified": {
+    "message": "Enganxeu aquí el text o el codi modificats..."
+  },
+  "btnCompare": {
+    "message": "Compara"
+  },
+  "btnClear": {
+    "message": "Clar"
+  },
+  "btnCopyLeft": {
+    "message": "Còpia a l'esquerra"
+  },
+  "btnCopyRight": {
+    "message": "Còpia correctament"
+  },
+  "btnSwap": {
+    "message": "Canviar"
+  },
+  "btnInlineDiff": {
+    "message": "En línia"
+  },
+  "btnSideBySide": {
+    "message": "Al costat de l'altre"
+  },
+  "statAdded": {
+    "message": "Afegit"
+  },
+  "statRemoved": {
+    "message": "Eliminat"
+  },
+  "statChanged": {
+    "message": "Canviat"
+  },
+  "statUnchanged": {
+    "message": "Sense canvis"
+  },
+  "statLines": {
+    "message": "línies"
+  },
+  "emptyStateTitle": {
+    "message": "A punt per comparar"
+  },
+  "emptyStateBody": {
+    "message": "Enganxeu text als dos panells i feu clic a Compara, o premeu Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Els fitxers són idèntics"
+  },
+  "identicalBody": {
+    "message": "No es van trobar diferències entre les dues entrades."
+  },
+  "errorLargeInput": {
+    "message": "L'entrada és molt gran. La diferència pot trigar un moment..."
+  },
+  "errorBothEmpty": {
+    "message": "Enganxeu el contingut als dos panells abans de comparar."
+  },
+  "errorOneEmpty": {
+    "message": "Un panell està buit. Proporcioneu contingut als dos panells."
+  },
+  "copied": {
+    "message": "Copiat!"
+  },
+  "copyFailed": {
+    "message": "La còpia ha fallat"
+  },
+  "cleared": {
+    "message": "Esborrat"
+  },
+  "swapped": {
+    "message": "Canviat"
+  },
+  "kbShortcutsTitle": {
+    "message": "Dreceres de teclat"
+  },
+  "kbCompare": {
+    "message": "Compara"
+  },
+  "kbClear": {
+    "message": "Clar"
+  },
+  "kbSwap": {
+    "message": "Intercanvi de panells"
+  },
+  "lineLabel": {
+    "message": "Línia"
+  },
+  "addedLabel": {
+    "message": "afegit"
+  },
+  "removedLabel": {
+    "message": "eliminat"
+  },
+  "changedLabel": {
+    "message": "canviat"
+  },
+  "unchangedLabel": {
+    "message": "sense canvis"
+  },
+  "formatJSON": {
+    "message": "Format JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON no vàlid en un o ambdós panells."
+  },
+  "wordDiff": {
+    "message": "Diferència de paraules"
+  },
+  "resultsPanelTitle": {
+    "message": "Resultats diferencials"
+  },
+  "processingLabel": {
+    "message": "S'està processant..."
+  }
+}

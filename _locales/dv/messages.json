@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ޑިފް ވިއުއަރ",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ޑިފް ވިއުއަރ",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ޓެކްސްޓާއި ކޯޑަށް ލުއި އޮފްލައިން ޑިފް ކޮމްޕެރިޝަން ޓޫލް.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ޑިފް ވިއުއަރ"
+  },
+  "headerSubtitle": {
+    "message": "ޓެކްސްޓް، ކޯޑް، ޖޭއެސްއޯއެން، އަދި އެއަށްވުރެ ގިނަ ކަންތައްތައް އަޅާކިޔުން — އޮފްލައިން"
+  },
+  "labelOriginal": {
+    "message": "އަސްލު"
+  },
+  "labelModified": {
+    "message": "ބަދަލުކޮށްފައި"
+  },
+  "placeholderOriginal": {
+    "message": "މިތަނުގައި އަސްލު ޓެކްސްޓް ނުވަތަ ކޯޑް ޕޭސްޓް ކުރާށެވެ..."
+  },
+  "placeholderModified": {
+    "message": "މޮޑިފައިޑް ޓެކްސްޓް ނުވަތަ ކޯޑް މިތަނުގައި ޕޭސްޓް ކުރާށެވެ..."
+  },
+  "btnCompare": {
+    "message": "އަޅާކިޔުން"
+  },
+  "btnClear": {
+    "message": "ސާފުކޮށް"
+  },
+  "btnCopyLeft": {
+    "message": "ކޮޕީ ލެފްޓް"
+  },
+  "btnCopyRight": {
+    "message": "ކޮޕީ ރައިޓް"
+  },
+  "btnSwap": {
+    "message": "ބަދަލުކޮށްލުން"
+  },
+  "btnInlineDiff": {
+    "message": "އިންލައިން"
+  },
+  "btnSideBySide": {
+    "message": "ސައިޑް ބައި ސައިޑް"
+  },
+  "statAdded": {
+    "message": "އިތުރުކޮށްފިއެވެ"
+  },
+  "statRemoved": {
+    "message": "ނައްތާލެވިއްޖެއެވެ"
+  },
+  "statChanged": {
+    "message": "ބަދަލުވެއްޖެއެވެ"
+  },
+  "statUnchanged": {
+    "message": "ބަދަލެއް ނާދެއެވެ"
+  },
+  "statLines": {
+    "message": "ލައިންތަކެވެ"
+  },
+  "emptyStateTitle": {
+    "message": "އަޅާކިޔުމަށް ތައްޔާރަށް"
+  },
+  "emptyStateBody": {
+    "message": "ދެ ޕެނަލްގައި ވެސް ޓެކްސްޓް ޕޭސްޓްކޮށް ކޮމްޕެއާ އަށް ކްލިކް ކުރާށެވެ — ނުވަތަ Ctrl+Enter އަށް ފިތާލާށެވެ"
+  },
+  "identicalTitle": {
+    "message": "ފައިލްތައް އެއްގޮތް"
+  },
+  "identicalBody": {
+    "message": "މި ދެ އިންޕުޓްގެ މެދުގައި އެއްވެސް ތަފާތެއް ނުފެނެއެވެ."
+  },
+  "errorLargeInput": {
+    "message": "އިންޕުޓް ވަރަށް ބޮޑެވެ. ޑިފް އަށް ވަގުތުކޮޅެއް ނަގާފާނެ..."
+  },
+  "errorBothEmpty": {
+    "message": "އަޅާކިޔުމުގެ ކުރިން ދެ ޕެނަލްގައި ވެސް ކޮންޓެންޓް ޕޭސްޓް ކުރައްވާށެވެ."
+  },
+  "errorOneEmpty": {
+    "message": "އެއް ޕެނަލް ހުރީ ހުސްކޮށެވެ. ދެ ޕެނަލްގައި ވެސް ކޮންޓެންޓް ފޯރުކޮށްދެއްވުން އެދެމެވެ."
+  },
+  "copied": {
+    "message": "ކޮޕީކޮށްފައި!"
+  },
+  "copyFailed": {
+    "message": "ކޮޕީ ފެއިލްވެއްޖެއެވެ"
+  },
+  "cleared": {
+    "message": "ސާފުވެއްޖެއެވެ"
+  },
+  "swapped": {
+    "message": "ބަދަލުކޮށްފިއެވެ"
+  },
+  "kbShortcutsTitle": {
+    "message": "ކީބޯޑް ޝޯޓްކަޓްސް"
+  },
+  "kbCompare": {
+    "message": "އަޅާކިޔުން"
+  },
+  "kbClear": {
+    "message": "ސާފުކޮށް"
+  },
+  "kbSwap": {
+    "message": "ޕެނަލްތައް ބަދަލުކުރުން"
+  },
+  "lineLabel": {
+    "message": "ލައިން"
+  },
+  "addedLabel": {
+    "message": "އިތުރަށް ބުންޏެވެ"
+  },
+  "removedLabel": {
+    "message": "ނައްތާލެވިއްޖެއެވެ"
+  },
+  "changedLabel": {
+    "message": "ބަދަލުވެއްޖެއެވެ"
+  },
+  "unchangedLabel": {
+    "message": "ބަދަލެއް ނާދެއެވެ"
+  },
+  "formatJSON": {
+    "message": "ފޯމެޓް ޖޭއެސްއޯއެން"
+  },
+  "formatJSONError": {
+    "message": "އެއް ނުވަތަ ދެ ޕެނަލްގައި ވެސް ސައްހަ ނޫން ޖޭއެސްއޯއެން އެވެ."
+  },
+  "wordDiff": {
+    "message": "ލަފުޒު ތަފާތު"
+  },
+  "resultsPanelTitle": {
+    "message": "ޑިފް ނަތީޖާ"
+  },
+  "processingLabel": {
+    "message": "ޕްރޮސެސިންގ..."
+  }
+}

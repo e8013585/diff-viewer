@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lagani offline alat za poređenje razlika za tekst i kod.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Uporedite tekst, kôd, JSON i još mnogo toga — van mreže"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Izmijenjeno"
+  },
+  "placeholderOriginal": {
+    "message": "Ovdje zalijepite originalni tekst ili kod..."
+  },
+  "placeholderModified": {
+    "message": "Ovdje zalijepite izmijenjeni tekst ili kod..."
+  },
+  "btnCompare": {
+    "message": "Uporedite"
+  },
+  "btnClear": {
+    "message": "Jasno"
+  },
+  "btnCopyLeft": {
+    "message": "Kopiraj lijevo"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Swap"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Rame uz rame"
+  },
+  "statAdded": {
+    "message": "Dodano"
+  },
+  "statRemoved": {
+    "message": "Uklonjeno"
+  },
+  "statChanged": {
+    "message": "Promijenjeno"
+  },
+  "statUnchanged": {
+    "message": "Unchanged"
+  },
+  "statLines": {
+    "message": "linije"
+  },
+  "emptyStateTitle": {
+    "message": "Spremni za poređenje"
+  },
+  "emptyStateBody": {
+    "message": "Zalijepite tekst u oba panela i kliknite na Uporedi — ili pritisnite Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Fajlovi su identični"
+  },
+  "identicalBody": {
+    "message": "Nisu pronađene razlike između dva ulaza."
+  },
+  "errorLargeInput": {
+    "message": "Ulaz je veoma velik. Razlika može potrajati..."
+  },
+  "errorBothEmpty": {
+    "message": "Zalijepite sadržaj u oba panela prije poređenja."
+  },
+  "errorOneEmpty": {
+    "message": "Jedan panel je prazan. Molimo navedite sadržaj u oba panela."
+  },
+  "copied": {
+    "message": "Kopirano!"
+  },
+  "copyFailed": {
+    "message": "Kopiranje nije uspjelo"
+  },
+  "cleared": {
+    "message": "Očišćeno"
+  },
+  "swapped": {
+    "message": "Zamenjeno"
+  },
+  "kbShortcutsTitle": {
+    "message": "Prečice na tastaturi"
+  },
+  "kbCompare": {
+    "message": "Uporedite"
+  },
+  "kbClear": {
+    "message": "Jasno"
+  },
+  "kbSwap": {
+    "message": "Zamijenite panele"
+  },
+  "lineLabel": {
+    "message": "Linija"
+  },
+  "addedLabel": {
+    "message": "dodano"
+  },
+  "removedLabel": {
+    "message": "uklonjeno"
+  },
+  "changedLabel": {
+    "message": "promijenio"
+  },
+  "unchangedLabel": {
+    "message": "nepromijenjen"
+  },
+  "formatJSON": {
+    "message": "Formatirajte JSON"
+  },
+  "formatJSONError": {
+    "message": "Nevažeći JSON na jednom ili oba panela."
+  },
+  "wordDiff": {
+    "message": "Word Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Results"
+  },
+  "processingLabel": {
+    "message": "Obrada..."
+  }
+}

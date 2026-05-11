@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Prohlížeč rozdílů",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Prohlížeč rozdílů",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lehký offline nástroj pro porovnání rozdílů pro text a kód.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Prohlížeč rozdílů"
+  },
+  "headerSubtitle": {
+    "message": "Porovnejte text, kód, JSON a další — offline"
+  },
+  "labelOriginal": {
+    "message": "Originál"
+  },
+  "labelModified": {
+    "message": "Upraveno"
+  },
+  "placeholderOriginal": {
+    "message": "Sem vložte původní text nebo kód..."
+  },
+  "placeholderModified": {
+    "message": "Sem vložte upravený text nebo kód..."
+  },
+  "btnCompare": {
+    "message": "Porovnejte"
+  },
+  "btnClear": {
+    "message": "Jasný"
+  },
+  "btnCopyLeft": {
+    "message": "Kopírovat vlevo"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Vyměňte"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Bok po boku"
+  },
+  "statAdded": {
+    "message": "Přidáno"
+  },
+  "statRemoved": {
+    "message": "Odebráno"
+  },
+  "statChanged": {
+    "message": "Změněno"
+  },
+  "statUnchanged": {
+    "message": "Beze změny"
+  },
+  "statLines": {
+    "message": "linky"
+  },
+  "emptyStateTitle": {
+    "message": "Připraveno k porovnání"
+  },
+  "emptyStateBody": {
+    "message": "Vložte text do obou panelů a klikněte na Porovnat — nebo stiskněte Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Soubory jsou identické"
+  },
+  "identicalBody": {
+    "message": "Mezi těmito dvěma vstupy nebyly nalezeny žádné rozdíly."
+  },
+  "errorLargeInput": {
+    "message": "Vstup je velmi velký. Rozdíl může chvíli trvat..."
+  },
+  "errorBothEmpty": {
+    "message": "Před porovnáním vložte obsah do obou panelů."
+  },
+  "errorOneEmpty": {
+    "message": "Jeden panel je prázdný. Uveďte obsah v obou panelech."
+  },
+  "copied": {
+    "message": "Zkopírováno!"
+  },
+  "copyFailed": {
+    "message": "Kopírování se nezdařilo"
+  },
+  "cleared": {
+    "message": "Vymazáno"
+  },
+  "swapped": {
+    "message": "Vyměněno"
+  },
+  "kbShortcutsTitle": {
+    "message": "Klávesové zkratky"
+  },
+  "kbCompare": {
+    "message": "Porovnejte"
+  },
+  "kbClear": {
+    "message": "Jasný"
+  },
+  "kbSwap": {
+    "message": "Vyměňte panely"
+  },
+  "lineLabel": {
+    "message": "Čára"
+  },
+  "addedLabel": {
+    "message": "přidáno"
+  },
+  "removedLabel": {
+    "message": "odstraněno"
+  },
+  "changedLabel": {
+    "message": "změněno"
+  },
+  "unchangedLabel": {
+    "message": "beze změny"
+  },
+  "formatJSON": {
+    "message": "Formát JSON"
+  },
+  "formatJSONError": {
+    "message": "Neplatný JSON v jednom nebo obou panelech."
+  },
+  "wordDiff": {
+    "message": "Rozdíl slov"
+  },
+  "resultsPanelTitle": {
+    "message": "Rozdíl výsledků"
+  },
+  "processingLabel": {
+    "message": "Zpracovává se..."
+  }
+}

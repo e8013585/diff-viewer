@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Lajɛbaga",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Lajɛbaga",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Diff comparison tool min ka nɔgɔn offline kan sɛbɛnni ni kode kama.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Lajɛbaga"
+  },
+  "headerSubtitle": {
+    "message": "Sɛbɛnni, kode, JSON, ani fɛn wɛrɛw sanga ɲɔgɔn ma — ɛntɛrinɛti kɔkan"
+  },
+  "labelOriginal": {
+    "message": "Yɛrɛyɛrɛ"
+  },
+  "labelModified": {
+    "message": "Yɛlɛma donna a la"
+  },
+  "placeholderOriginal": {
+    "message": "I ka sɛbɛnni walima code original nɔrɔ yan..."
+  },
+  "placeholderModified": {
+    "message": "Texte modifié walima code nɔrɔ yan..."
+  },
+  "btnCompare": {
+    "message": "Ka sanga"
+  },
+  "btnClear": {
+    "message": "Jɛman"
+  },
+  "btnCopyLeft": {
+    "message": "Kopi kɛ Numan fɛ"
+  },
+  "btnCopyRight": {
+    "message": "Kopi Kɛrɛnkɛrɛnnenya la"
+  },
+  "btnSwap": {
+    "message": "Ka falen"
+  },
+  "btnInlineDiff": {
+    "message": "Inline kɔnɔ"
+  },
+  "btnSideBySide": {
+    "message": "Kɛrɛfɛ-kɛrɛ fɛ"
+  },
+  "statAdded": {
+    "message": "A farala a kan"
+  },
+  "statRemoved": {
+    "message": "A bɔra yen"
+  },
+  "statChanged": {
+    "message": "Yɛlɛma donna"
+  },
+  "statUnchanged": {
+    "message": "Yɛlɛma tɛ min na"
+  },
+  "statLines": {
+    "message": "layiniw"
+  },
+  "emptyStateTitle": {
+    "message": "Labɛnnen don ka ɲɔgɔn sanga"
+  },
+  "emptyStateBody": {
+    "message": "Sɛbɛnniw nɔrɔ panneau fila bɛɛ kɔnɔ ani ka Comparer digi — walima ka Ctrl+Enter digi"
+  },
+  "identicalTitle": {
+    "message": "Filenw ye Identical ye"
+  },
+  "identicalBody": {
+    "message": "Danfara si ma Sɔrɔ donnafɛn fla ninnu ni ɲɔgɔn cɛ."
+  },
+  "errorLargeInput": {
+    "message": "Donanw ka bon kosɛbɛ. Diff bɛ se ka waati dɔɔnin ta..."
+  },
+  "errorBothEmpty": {
+    "message": "Aw ye kɔnɔkow nɔrɔ pankurun fila bɛɛ kɔnɔ sani aw ka ɲɔgɔn sanga."
+  },
+  "errorOneEmpty": {
+    "message": "Panɛli kelen lankolon don. Aw ye kɔnɔkow di panɛli fila bɛɛ kɔnɔ."
+  },
+  "copied": {
+    "message": "Kopi kɛra!"
+  },
+  "copyFailed": {
+    "message": "Kopi ma ɲɛ"
+  },
+  "cleared": {
+    "message": "A jɛlen don"
+  },
+  "swapped": {
+    "message": "A ye ɲɔgɔn falen-falen"
+  },
+  "kbShortcutsTitle": {
+    "message": "Klaviyeti Surukuw"
+  },
+  "kbCompare": {
+    "message": "Ka sanga"
+  },
+  "kbClear": {
+    "message": "Jɛman"
+  },
+  "kbSwap": {
+    "message": "Panɛliw ɲɔgɔn falen-falen"
+  },
+  "lineLabel": {
+    "message": "Ci"
+  },
+  "addedLabel": {
+    "message": "a farala a kan"
+  },
+  "removedLabel": {
+    "message": "bɔra yen"
+  },
+  "changedLabel": {
+    "message": "fɛn caman Changé"
+  },
+  "unchangedLabel": {
+    "message": "fɛn min ma Changé (Yɛlɛma)."
+  },
+  "formatJSON": {
+    "message": "JSON ka cogoya"
+  },
+  "formatJSONError": {
+    "message": "JSON tiɲɛnen bɛ panɛli kelen walima fila bɛɛ kɔnɔ."
+  },
+  "wordDiff": {
+    "message": "Daɲɛ Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Résultats (Jɛɲɔgɔnya) Résultats"
+  },
+  "processingLabel": {
+    "message": "Baarakɛcogo..."
+  }
+}

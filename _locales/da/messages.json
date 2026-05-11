@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Letvægts offline diff sammenligningsværktøj til tekst og kode.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Sammenlign tekst, kode, JSON og mere - offline"
+  },
+  "labelOriginal": {
+    "message": "Original"
+  },
+  "labelModified": {
+    "message": "Ændret"
+  },
+  "placeholderOriginal": {
+    "message": "Indsæt original tekst eller kode her..."
+  },
+  "placeholderModified": {
+    "message": "Indsæt ændret tekst eller kode her..."
+  },
+  "btnCompare": {
+    "message": "Sammenligne"
+  },
+  "btnClear": {
+    "message": "Klar"
+  },
+  "btnCopyLeft": {
+    "message": "Kopi til venstre"
+  },
+  "btnCopyRight": {
+    "message": "Kopier til højre"
+  },
+  "btnSwap": {
+    "message": "Byt"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Side om Side"
+  },
+  "statAdded": {
+    "message": "Tilføjet"
+  },
+  "statRemoved": {
+    "message": "Fjernet"
+  },
+  "statChanged": {
+    "message": "Ændret"
+  },
+  "statUnchanged": {
+    "message": "Uændret"
+  },
+  "statLines": {
+    "message": "linjer"
+  },
+  "emptyStateTitle": {
+    "message": "Klar til at sammenligne"
+  },
+  "emptyStateBody": {
+    "message": "Indsæt tekst i begge paneler, og klik på Sammenlign - eller tryk på Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Filerne er identiske"
+  },
+  "identicalBody": {
+    "message": "Der blev ikke fundet forskelle mellem de to input."
+  },
+  "errorLargeInput": {
+    "message": "Input er meget stort. Diff kan tage et øjeblik..."
+  },
+  "errorBothEmpty": {
+    "message": "Indsæt venligst indhold i begge paneler, før du sammenligner."
+  },
+  "errorOneEmpty": {
+    "message": "Et panel er tomt. Angiv venligst indhold i begge paneler."
+  },
+  "copied": {
+    "message": "Kopieret!"
+  },
+  "copyFailed": {
+    "message": "Kopiering mislykkedes"
+  },
+  "cleared": {
+    "message": "Ryddet"
+  },
+  "swapped": {
+    "message": "Byttet"
+  },
+  "kbShortcutsTitle": {
+    "message": "Tastaturgenveje"
+  },
+  "kbCompare": {
+    "message": "Sammenligne"
+  },
+  "kbClear": {
+    "message": "Klar"
+  },
+  "kbSwap": {
+    "message": "Skift paneler"
+  },
+  "lineLabel": {
+    "message": "Linje"
+  },
+  "addedLabel": {
+    "message": "tilføjet"
+  },
+  "removedLabel": {
+    "message": "fjernet"
+  },
+  "changedLabel": {
+    "message": "ændret"
+  },
+  "unchangedLabel": {
+    "message": "uændret"
+  },
+  "formatJSON": {
+    "message": "Formater JSON"
+  },
+  "formatJSONError": {
+    "message": "Ugyldig JSON i et eller begge paneler."
+  },
+  "wordDiff": {
+    "message": "Ordforskel"
+  },
+  "resultsPanelTitle": {
+    "message": "Forskellige resultater"
+  },
+  "processingLabel": {
+    "message": "Forarbejdning..."
+  }
+}

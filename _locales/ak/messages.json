@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Nsonsonoe a Ɛhwɛ Ɔhwɛfo",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Nsonsonoe a Ɛhwɛ Ɔhwɛfo",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Offline diff ntotoho adwinnade a emu yɛ hare ma nsɛm ne koodu.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Nsonsonoe a Ɛhwɛ Ɔhwɛfo"
+  },
+  "headerSubtitle": {
+    "message": "Fa nsɛm, koodu, JSON, ne nea ɛkeka ho toto ho — offline"
+  },
+  "labelOriginal": {
+    "message": "Ankasa"
+  },
+  "labelModified": {
+    "message": "Wɔayɛ nsakrae wɔ mu"
+  },
+  "placeholderOriginal": {
+    "message": "Fa mfitiase nkyerɛwee anaa koodu hyɛ ha..."
+  },
+  "placeholderModified": {
+    "message": "Fa nkyerɛwee anaa koodu a wɔasesa no hyɛ ha..."
+  },
+  "btnCompare": {
+    "message": "Fa toto ho"
+  },
+  "btnClear": {
+    "message": "Wann"
+  },
+  "btnCopyLeft": {
+    "message": "Copy Left"
+  },
+  "btnCopyRight": {
+    "message": "Copy Nifa so"
+  },
+  "btnSwap": {
+    "message": "Sesa"
+  },
+  "btnInlineDiff": {
+    "message": "Inline no mu"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side a ɛwɔ nkyɛnkyɛn"
+  },
+  "statAdded": {
+    "message": "Wɔde kaa ho"
+  },
+  "statRemoved": {
+    "message": "Wɔayi afi hɔ"
+  },
+  "statChanged": {
+    "message": "Wɔasesa no"
+  },
+  "statUnchanged": {
+    "message": "Ɛnsakrae"
+  },
+  "statLines": {
+    "message": "nkyerɛwde ahorow"
+  },
+  "emptyStateTitle": {
+    "message": "Woasiesie Wo ho sɛ Wobɛtoto Ho"
+  },
+  "emptyStateBody": {
+    "message": "Fa nsɛm hyɛ panel abien no nyinaa mu na klik Compare — anaa mia Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Fael ahorow no yɛ Identical"
+  },
+  "identicalBody": {
+    "message": "Wɔanhu nsonsonoe biara wɔ nneɛma abien a wɔde hyɛɛ mu no ntam."
+  },
+  "errorLargeInput": {
+    "message": "Input no yɛ kɛse yiye. Diff betumi agye bere tiaa bi..."
+  },
+  "errorBothEmpty": {
+    "message": "Yɛsrɛ sɛ fa emu nsɛm gu panel abien no nyinaa mu ansa na wode atoto ho."
+  },
+  "errorOneEmpty": {
+    "message": "Panel biako da mpan. Yɛsrɛ sɛ fa nsɛm a ɛwɔ panel abien no nyinaa mu ma."
+  },
+  "copied": {
+    "message": "Wɔayɛ ho mfonini!"
+  },
+  "copyFailed": {
+    "message": "Copy no antumi anyɛ yiye"
+  },
+  "cleared": {
+    "message": "Wɔaprapra mu"
+  },
+  "swapped": {
+    "message": "Wɔasesa wɔn ho wɔn ho"
+  },
+  "kbShortcutsTitle": {
+    "message": "Keyboard Akwan Tiatiaa a Wɔde Di Dwuma"
+  },
+  "kbCompare": {
+    "message": "Fa toto ho"
+  },
+  "kbClear": {
+    "message": "Wann"
+  },
+  "kbSwap": {
+    "message": "Sesa panel ahorow"
+  },
+  "lineLabel": {
+    "message": "Nsensaneeɛ"
+  },
+  "addedLabel": {
+    "message": "de kaa ho"
+  },
+  "removedLabel": {
+    "message": "wɔayi afi hɔ"
+  },
+  "changedLabel": {
+    "message": "sesae"
+  },
+  "unchangedLabel": {
+    "message": "a ɛnsakrae"
+  },
+  "formatJSON": {
+    "message": "Fa JSON no hyɛ mu"
+  },
+  "formatJSONError": {
+    "message": "JSON a ɛnteɛ wɔ panel biako anaa abien no nyinaa mu."
+  },
+  "wordDiff": {
+    "message": "Asɛmfua Nsonsonoe"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Nea Efi Mu Ba"
+  },
+  "processingLabel": {
+    "message": "Nneɛma a wɔyɛ..."
+  }
+}

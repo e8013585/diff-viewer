@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Strumenta ligera di paragone di diffizzioni offline per u testu è u codice.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Paragunate testu, codice, JSON è più - offline"
+  },
+  "labelOriginal": {
+    "message": "Uriginale"
+  },
+  "labelModified": {
+    "message": "Modificatu"
+  },
+  "placeholderOriginal": {
+    "message": "Incolla u testu o codice originale quì..."
+  },
+  "placeholderModified": {
+    "message": "Incolla u testu o codice mudificatu quì..."
+  },
+  "btnCompare": {
+    "message": "Comparare"
+  },
+  "btnClear": {
+    "message": "Chjara"
+  },
+  "btnCopyLeft": {
+    "message": "Copia a manca"
+  },
+  "btnCopyRight": {
+    "message": "Copy Right"
+  },
+  "btnSwap": {
+    "message": "Scambià"
+  },
+  "btnInlineDiff": {
+    "message": "In linea"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side"
+  },
+  "statAdded": {
+    "message": "Aggiuntu"
+  },
+  "statRemoved": {
+    "message": "Eliminatu"
+  },
+  "statChanged": {
+    "message": "Cambiatu"
+  },
+  "statUnchanged": {
+    "message": "Immubiliatu"
+  },
+  "statLines": {
+    "message": "linii"
+  },
+  "emptyStateTitle": {
+    "message": "Pronta à paragunà"
+  },
+  "emptyStateBody": {
+    "message": "Incolla u testu in i dui pannelli è cliccate Compare - o appughjà Ctrl + Enter"
+  },
+  "identicalTitle": {
+    "message": "I schedari sò identici"
+  },
+  "identicalBody": {
+    "message": "Nisuna differenza hè stata trovata trà i dui inputs."
+  },
+  "errorLargeInput": {
+    "message": "L'input hè assai grande. Diffu pò piglià un mumentu..."
+  },
+  "errorBothEmpty": {
+    "message": "Per piacè incollà u cuntenutu in i dui pannelli prima di paragunà."
+  },
+  "errorOneEmpty": {
+    "message": "Un pannellu hè viotu. Per piacè furnisce u cuntenutu in i dui pannelli."
+  },
+  "copied": {
+    "message": "Copiatu !"
+  },
+  "copyFailed": {
+    "message": "Copia falluta"
+  },
+  "cleared": {
+    "message": "Sguassatu"
+  },
+  "swapped": {
+    "message": "Scambiatu"
+  },
+  "kbShortcutsTitle": {
+    "message": "Tasti di scelta rapida"
+  },
+  "kbCompare": {
+    "message": "Comparare"
+  },
+  "kbClear": {
+    "message": "Chjara"
+  },
+  "kbSwap": {
+    "message": "Scambià i pannelli"
+  },
+  "lineLabel": {
+    "message": "Linea"
+  },
+  "addedLabel": {
+    "message": "aghjustatu"
+  },
+  "removedLabel": {
+    "message": "sguassatu"
+  },
+  "changedLabel": {
+    "message": "cambiatu"
+  },
+  "unchangedLabel": {
+    "message": "senza cambià"
+  },
+  "formatJSON": {
+    "message": "Formate JSON"
+  },
+  "formatJSONError": {
+    "message": "JSON invalidu in unu o i dui pannelli."
+  },
+  "wordDiff": {
+    "message": "Parola Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diffu risultati"
+  },
+  "processingLabel": {
+    "message": "Trattamentu..."
+  }
+}

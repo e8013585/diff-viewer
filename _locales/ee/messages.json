@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Nukpɔla",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Nukpɔla",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Dɔwɔnu si le bɔbɔe offline diff tsɔtsɔ sɔ kple nuŋɔŋlɔ kple code.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Nukpɔla"
+  },
+  "headerSubtitle": {
+    "message": "Tsɔ nuŋɔŋlɔ, kɔda, JSON, kple bubuwo sɔ kple wo nɔewo — le Internet dzi"
+  },
+  "labelOriginal": {
+    "message": "Gbãtɔ"
+  },
+  "labelModified": {
+    "message": "Wotrɔ asi le eŋu"
+  },
+  "placeholderOriginal": {
+    "message": "Kpe nuŋɔŋlɔ alo kɔda gbãtɔ ɖe afisia..."
+  },
+  "placeholderModified": {
+    "message": "Kpe nuŋɔŋlɔ alo kɔda si ŋu wotrɔ asi le la ɖe afisia..."
+  },
+  "btnCompare": {
+    "message": "Tsɔe sɔ"
+  },
+  "btnClear": {
+    "message": "Me kᴐ"
+  },
+  "btnCopyLeft": {
+    "message": "Kɔpi le Miame"
+  },
+  "btnCopyRight": {
+    "message": "Kɔpi Nuɖusi"
+  },
+  "btnSwap": {
+    "message": "Tutu eme"
+  },
+  "btnInlineDiff": {
+    "message": "Le fli me"
+  },
+  "btnSideBySide": {
+    "message": "Axa ɖeka kple Axadzi"
+  },
+  "statAdded": {
+    "message": "Wotsɔe kpe ɖe eŋu"
+  },
+  "statRemoved": {
+    "message": "Woɖee ɖa"
+  },
+  "statChanged": {
+    "message": "Wotrɔe"
+  },
+  "statUnchanged": {
+    "message": "Metrɔ o"
+  },
+  "statLines": {
+    "message": "fliwo"
+  },
+  "emptyStateTitle": {
+    "message": "Dzra Ðo Be Yeatsɔ Asɔ Kple Wo Nɔewo"
+  },
+  "emptyStateBody": {
+    "message": "Kpe nuŋɔŋlɔwo ɖe akpa eveawo me eye nàzi Compare dzi — alo nàzi Ctrl+Enter dzi"
+  },
+  "identicalTitle": {
+    "message": "Failwo sɔ kple wo nɔewo"
+  },
+  "identicalBody": {
+    "message": "Womekpɔ vovototo aɖeke le nusiwo wotsɔ de eme eveawo dome o."
+  },
+  "errorLargeInput": {
+    "message": "Nusiwo wotsɔ dea eme la lolo ŋutɔ. Diff ate ŋu axɔ ɣeyiɣi kpui aɖe..."
+  },
+  "errorBothEmpty": {
+    "message": "Taflatse tsɔ nyatakakawo de akpa eveawo me hafi nàtsɔ wo asɔ kple wo nɔewo."
+  },
+  "errorOneEmpty": {
+    "message": "Panel ɖeka le ƒuƒlu. Taflatse na nyatakaka siwo le akpa eveawo siaa me."
+  },
+  "copied": {
+    "message": "Wogbugbɔ ŋlɔe!"
+  },
+  "copyFailed": {
+    "message": "Kɔpiwɔwɔ do kpo nu"
+  },
+  "cleared": {
+    "message": "Wokɔe"
+  },
+  "swapped": {
+    "message": "Woɖɔli wo nɔewo"
+  },
+  "kbShortcutsTitle": {
+    "message": "Keyboard ƒe Mɔ Kpuiewo"
+  },
+  "kbCompare": {
+    "message": "Tsɔe sɔ"
+  },
+  "kbClear": {
+    "message": "Me kᴐ"
+  },
+  "kbSwap": {
+    "message": "Trɔ asi le panels ŋu"
+  },
+  "lineLabel": {
+    "message": "Fli"
+  },
+  "addedLabel": {
+    "message": "gblɔ kpee"
+  },
+  "removedLabel": {
+    "message": "woɖee ɖa"
+  },
+  "changedLabel": {
+    "message": "trɔ"
+  },
+  "unchangedLabel": {
+    "message": "metrɔ o"
+  },
+  "formatJSON": {
+    "message": "Ðo JSON ƒe nɔnɔme"
+  },
+  "formatJSONError": {
+    "message": "JSON si mesɔ o le akpa ɖeka alo evea siaa me."
+  },
+  "wordDiff": {
+    "message": "Nyawo ƒe Vovototo"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Emetsonuwo"
+  },
+  "processingLabel": {
+    "message": "Dɔwɔwɔ tso eŋu..."
+  }
+}

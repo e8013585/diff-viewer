@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Преглед на разл",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Преглед на разл",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Лек офлайн инструмент за сравнение на разлики за текст и код.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Преглед на разл"
+  },
+  "headerSubtitle": {
+    "message": "Сравнете текст, код, JSON и други – офлайн"
+  },
+  "labelOriginal": {
+    "message": "Оригинален"
+  },
+  "labelModified": {
+    "message": "Променен"
+  },
+  "placeholderOriginal": {
+    "message": "Поставете оригиналния текст или код тук..."
+  },
+  "placeholderModified": {
+    "message": "Поставете модифициран текст или код тук..."
+  },
+  "btnCompare": {
+    "message": "Сравнете"
+  },
+  "btnClear": {
+    "message": "ясно"
+  },
+  "btnCopyLeft": {
+    "message": "Копиране вляво"
+  },
+  "btnCopyRight": {
+    "message": "Копиране надясно"
+  },
+  "btnSwap": {
+    "message": "Размяна"
+  },
+  "btnInlineDiff": {
+    "message": "Вграден"
+  },
+  "btnSideBySide": {
+    "message": "Рамо до рамо"
+  },
+  "statAdded": {
+    "message": "Добавено"
+  },
+  "statRemoved": {
+    "message": "Премахнато"
+  },
+  "statChanged": {
+    "message": "Променен"
+  },
+  "statUnchanged": {
+    "message": "Непроменена"
+  },
+  "statLines": {
+    "message": "линии"
+  },
+  "emptyStateTitle": {
+    "message": "Готови за сравнение"
+  },
+  "emptyStateBody": {
+    "message": "Поставете текст в двата панела и щракнете върху Сравни — или натиснете Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Файловете са идентични"
+  },
+  "identicalBody": {
+    "message": "Не са открити разлики между двата входа."
+  },
+  "errorLargeInput": {
+    "message": "Входът е много голям. Разликата може да отнеме малко време..."
+  },
+  "errorBothEmpty": {
+    "message": "Моля, поставете съдържание в двата панела, преди да сравните."
+  },
+  "errorOneEmpty": {
+    "message": "Един панел е празен. Моля, предоставете съдържание и в двата панела."
+  },
+  "copied": {
+    "message": "Копирано!"
+  },
+  "copyFailed": {
+    "message": "Неуспешно копиране"
+  },
+  "cleared": {
+    "message": "Изчистено"
+  },
+  "swapped": {
+    "message": "Разменени"
+  },
+  "kbShortcutsTitle": {
+    "message": "Клавишни комбинации"
+  },
+  "kbCompare": {
+    "message": "Сравнете"
+  },
+  "kbClear": {
+    "message": "ясно"
+  },
+  "kbSwap": {
+    "message": "Разменете панелите"
+  },
+  "lineLabel": {
+    "message": "Линия"
+  },
+  "addedLabel": {
+    "message": "добавен"
+  },
+  "removedLabel": {
+    "message": "отстранени"
+  },
+  "changedLabel": {
+    "message": "променен"
+  },
+  "unchangedLabel": {
+    "message": "непроменени"
+  },
+  "formatJSON": {
+    "message": "Форматирайте JSON"
+  },
+  "formatJSONError": {
+    "message": "Невалиден JSON в единия или двата панела."
+  },
+  "wordDiff": {
+    "message": "Word Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Разл. резултати"
+  },
+  "processingLabel": {
+    "message": "Обработва се..."
+  }
+}

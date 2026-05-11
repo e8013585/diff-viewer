@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Праграма прагляду адрозненняў",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Праграма прагляду адрозненняў",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Лёгкі пазасеткавы інструмент параўнання адрозненняў для тэксту і кода.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Праграма прагляду адрозненняў"
+  },
+  "headerSubtitle": {
+    "message": "Параўнайце тэкст, код, JSON і многае іншае — у аўтаномным рэжыме"
+  },
+  "labelOriginal": {
+    "message": "Арыгінал"
+  },
+  "labelModified": {
+    "message": "Зменены"
+  },
+  "placeholderOriginal": {
+    "message": "Устаўце сюды зыходны тэкст або код..."
+  },
+  "placeholderModified": {
+    "message": "Устаўце сюды зменены тэкст або код..."
+  },
+  "btnCompare": {
+    "message": "Параўнайце"
+  },
+  "btnClear": {
+    "message": "Ясна"
+  },
+  "btnCopyLeft": {
+    "message": "Капіяваць злева"
+  },
+  "btnCopyRight": {
+    "message": "Капіяваць справа"
+  },
+  "btnSwap": {
+    "message": "Памяняць месцамі"
+  },
+  "btnInlineDiff": {
+    "message": "Убудаваны"
+  },
+  "btnSideBySide": {
+    "message": "Бок аб бок"
+  },
+  "statAdded": {
+    "message": "Дададзена"
+  },
+  "statRemoved": {
+    "message": "Выдалены"
+  },
+  "statChanged": {
+    "message": "Зменены"
+  },
+  "statUnchanged": {
+    "message": "Без змен"
+  },
+  "statLines": {
+    "message": "лініі"
+  },
+  "emptyStateTitle": {
+    "message": "Гатовы да параўнання"
+  },
+  "emptyStateBody": {
+    "message": "Устаўце тэкст у абедзве панэлі і націсніце Параўнаць — або націсніце Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Файлы аднолькавыя"
+  },
+  "identicalBody": {
+    "message": "Ніякіх адрозненняў паміж двума ўводамі не знойдзена."
+  },
+  "errorLargeInput": {
+    "message": "Уваход вельмі вялікі. Розніца можа заняць некаторы час..."
+  },
+  "errorBothEmpty": {
+    "message": "Перад параўнаннем устаўце змесціва ў абедзве панэлі."
+  },
+  "errorOneEmpty": {
+    "message": "Адна панэль пустая. Дадайце кантэнт на абедзве панэлі."
+  },
+  "copied": {
+    "message": "Скапіравана!"
+  },
+  "copyFailed": {
+    "message": "Збой капіравання"
+  },
+  "cleared": {
+    "message": "Ачышчана"
+  },
+  "swapped": {
+    "message": "Памяняліся месцамі"
+  },
+  "kbShortcutsTitle": {
+    "message": "Спалучэнні клавіш"
+  },
+  "kbCompare": {
+    "message": "Параўнайце"
+  },
+  "kbClear": {
+    "message": "Ясна"
+  },
+  "kbSwap": {
+    "message": "Памяняць панэлі месцамі"
+  },
+  "lineLabel": {
+    "message": "лінія"
+  },
+  "addedLabel": {
+    "message": "дададзены"
+  },
+  "removedLabel": {
+    "message": "выдалены"
+  },
+  "changedLabel": {
+    "message": "змянілася"
+  },
+  "unchangedLabel": {
+    "message": "без зменаў"
+  },
+  "formatJSON": {
+    "message": "Фармат JSON"
+  },
+  "formatJSONError": {
+    "message": "Няправільны JSON на адной або абедзвюх панэлях."
+  },
+  "wordDiff": {
+    "message": "Розніца слоў"
+  },
+  "resultsPanelTitle": {
+    "message": "Вынікі розн"
+  },
+  "processingLabel": {
+    "message": "Апрацоўка..."
+  }
+}

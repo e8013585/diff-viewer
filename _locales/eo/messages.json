@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Malpeza eksterreta diferenca kompara ilo por teksto kaj kodo.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Komparu tekston, kodon, JSON kaj pli - eksterrete"
+  },
+  "labelOriginal": {
+    "message": "Originala"
+  },
+  "labelModified": {
+    "message": "Modifita"
+  },
+  "placeholderOriginal": {
+    "message": "Algluu originalan tekston aŭ kodon ĉi tie..."
+  },
+  "placeholderModified": {
+    "message": "Algluu modifitan tekston aŭ kodon ĉi tie..."
+  },
+  "btnCompare": {
+    "message": "Komparu"
+  },
+  "btnClear": {
+    "message": "Klara"
+  },
+  "btnCopyLeft": {
+    "message": "Kopiu Maldekstre"
+  },
+  "btnCopyRight": {
+    "message": "Kopiu Dekstre"
+  },
+  "btnSwap": {
+    "message": "Interŝanĝi"
+  },
+  "btnInlineDiff": {
+    "message": "Enlinia"
+  },
+  "btnSideBySide": {
+    "message": "Flank-al-flanke"
+  },
+  "statAdded": {
+    "message": "Aldonita"
+  },
+  "statRemoved": {
+    "message": "Forigita"
+  },
+  "statChanged": {
+    "message": "Ŝanĝita"
+  },
+  "statUnchanged": {
+    "message": "Neŝanĝita"
+  },
+  "statLines": {
+    "message": "linioj"
+  },
+  "emptyStateTitle": {
+    "message": "Preta por Kompari"
+  },
+  "emptyStateBody": {
+    "message": "Algluu tekston en ambaŭ panelojn kaj alklaku Komparu — aŭ premu Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Dosieroj estas Identaj"
+  },
+  "identicalBody": {
+    "message": "Neniuj diferencoj estis trovitaj inter la du enigaĵoj."
+  },
+  "errorLargeInput": {
+    "message": "Enigo estas tre granda. Diferenco povas daŭri momenton..."
+  },
+  "errorBothEmpty": {
+    "message": "Bonvolu alglui enhavon en ambaŭ panelojn antaŭ ol kompari."
+  },
+  "errorOneEmpty": {
+    "message": "Unu panelo estas malplena. Bonvolu provizi enhavon en ambaŭ paneloj."
+  },
+  "copied": {
+    "message": "Kopiita!"
+  },
+  "copyFailed": {
+    "message": "Kopio malsukcesis"
+  },
+  "cleared": {
+    "message": "Malbarita"
+  },
+  "swapped": {
+    "message": "Interŝanĝita"
+  },
+  "kbShortcutsTitle": {
+    "message": "Klavaraj ŝparvojoj"
+  },
+  "kbCompare": {
+    "message": "Komparu"
+  },
+  "kbClear": {
+    "message": "Klara"
+  },
+  "kbSwap": {
+    "message": "Interŝanĝi panelojn"
+  },
+  "lineLabel": {
+    "message": "Linio"
+  },
+  "addedLabel": {
+    "message": "aldonis"
+  },
+  "removedLabel": {
+    "message": "forigita"
+  },
+  "changedLabel": {
+    "message": "ŝanĝiĝis"
+  },
+  "unchangedLabel": {
+    "message": "senŝanĝe"
+  },
+  "formatJSON": {
+    "message": "Formato JSON"
+  },
+  "formatJSONError": {
+    "message": "Nevalida JSON en unu aŭ ambaŭ paneloj."
+  },
+  "wordDiff": {
+    "message": "Vorto Diferenco"
+  },
+  "resultsPanelTitle": {
+    "message": "Diferaj Rezultoj"
+  },
+  "processingLabel": {
+    "message": "Prilaborado..."
+  }
+}

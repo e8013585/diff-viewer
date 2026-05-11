@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Kerge võrguühenduseta erinevuste võrdlemise tööriist teksti ja koodi jaoks.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Võrrelge teksti, koodi, JSON-i ja palju muud – võrguühenduseta"
+  },
+  "labelOriginal": {
+    "message": "Originaal"
+  },
+  "labelModified": {
+    "message": "Muudetud"
+  },
+  "placeholderOriginal": {
+    "message": "Kleebi algtekst või kood siia..."
+  },
+  "placeholderModified": {
+    "message": "Kleebi muudetud tekst või kood siia..."
+  },
+  "btnCompare": {
+    "message": "Võrdle"
+  },
+  "btnClear": {
+    "message": "Selge"
+  },
+  "btnCopyLeft": {
+    "message": "Kopeeri vasakule"
+  },
+  "btnCopyRight": {
+    "message": "Kopeeri paremale"
+  },
+  "btnSwap": {
+    "message": "Vahetada"
+  },
+  "btnInlineDiff": {
+    "message": "Sees"
+  },
+  "btnSideBySide": {
+    "message": "Kõrvuti"
+  },
+  "statAdded": {
+    "message": "Lisatud"
+  },
+  "statRemoved": {
+    "message": "Eemaldatud"
+  },
+  "statChanged": {
+    "message": "Muudetud"
+  },
+  "statUnchanged": {
+    "message": "Muutmata"
+  },
+  "statLines": {
+    "message": "read"
+  },
+  "emptyStateTitle": {
+    "message": "Võrdlemiseks valmis"
+  },
+  "emptyStateBody": {
+    "message": "Kleepige tekst mõlemale paneelile ja klõpsake nuppu Võrdle või vajutage Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Failid on identsed"
+  },
+  "identicalBody": {
+    "message": "Kahe sisendi vahel erinevusi ei leitud."
+  },
+  "errorLargeInput": {
+    "message": "Sisend on väga suur. Diff võib võtta hetke..."
+  },
+  "errorBothEmpty": {
+    "message": "Enne võrdlemist kleepige sisu mõlemale paneelile."
+  },
+  "errorOneEmpty": {
+    "message": "Üks paneel on tühi. Esitage sisu mõlemal paneelil."
+  },
+  "copied": {
+    "message": "Kopeeritud!"
+  },
+  "copyFailed": {
+    "message": "Kopeerimine ebaõnnestus"
+  },
+  "cleared": {
+    "message": "Kustutatud"
+  },
+  "swapped": {
+    "message": "Vahetatud"
+  },
+  "kbShortcutsTitle": {
+    "message": "Klaviatuuri otseteed"
+  },
+  "kbCompare": {
+    "message": "Võrdle"
+  },
+  "kbClear": {
+    "message": "Selge"
+  },
+  "kbSwap": {
+    "message": "Vahetage paneelid"
+  },
+  "lineLabel": {
+    "message": "Liin"
+  },
+  "addedLabel": {
+    "message": "lisatud"
+  },
+  "removedLabel": {
+    "message": "eemaldatud"
+  },
+  "changedLabel": {
+    "message": "muutunud"
+  },
+  "unchangedLabel": {
+    "message": "muutmata"
+  },
+  "formatJSON": {
+    "message": "Vormindage JSON"
+  },
+  "formatJSONError": {
+    "message": "Ühel või mõlemal paneelil on kehtetu JSON."
+  },
+  "wordDiff": {
+    "message": "Sõnade erinevus"
+  },
+  "resultsPanelTitle": {
+    "message": "Erinevad tulemused"
+  },
+  "processingLabel": {
+    "message": "Töötlemine..."
+  }
+}

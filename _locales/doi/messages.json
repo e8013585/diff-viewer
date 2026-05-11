@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "डिफ व्यूअर",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "डिफ व्यूअर",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "पाठ ते कोड आस्तै हल्के आफलाइन डिफ तुलना उपकरण।",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "डिफ व्यूअर"
+  },
+  "headerSubtitle": {
+    "message": "पाठ, कोड, जेएसओएन, ते होर मती तुलना करो — ऑफलाइन"
+  },
+  "labelOriginal": {
+    "message": "मूल"
+  },
+  "labelModified": {
+    "message": "संशोधित कीता गेआ"
+  },
+  "placeholderOriginal": {
+    "message": "मूल पाठ या कोड इत्थे पेस्ट करो..."
+  },
+  "placeholderModified": {
+    "message": "संशोधित पाठ या कोड इत्थें पेस्ट करो..."
+  },
+  "btnCompare": {
+    "message": "मकाबला करना"
+  },
+  "btnClear": {
+    "message": "साफ"
+  },
+  "btnCopyLeft": {
+    "message": "प्रतिलिपि बाएं"
+  },
+  "btnCopyRight": {
+    "message": "कॉपी राइट"
+  },
+  "btnSwap": {
+    "message": "बदला"
+  },
+  "btnInlineDiff": {
+    "message": "इनलाइन"
+  },
+  "btnSideBySide": {
+    "message": "साइड बाई साइड"
+  },
+  "statAdded": {
+    "message": "जोड़ा गया"
+  },
+  "statRemoved": {
+    "message": "हटाया गया"
+  },
+  "statChanged": {
+    "message": "बदल गया"
+  },
+  "statUnchanged": {
+    "message": "अपरिवर्तित"
+  },
+  "statLines": {
+    "message": "लाइनें"
+  },
+  "emptyStateTitle": {
+    "message": "तुलना करने के लिए तैयार"
+  },
+  "emptyStateBody": {
+    "message": "दौनें पैनल च पाठ पेस्ट करो ते तुलना पर क्लिक करो — जां Ctrl+Enter दबाओ"
+  },
+  "identicalTitle": {
+    "message": "फाइलें इक जेह्ड़े होंदे न"
+  },
+  "identicalBody": {
+    "message": "दौनें इनपुटें च कोई फर्क नेईं पाया गेआ।"
+  },
+  "errorLargeInput": {
+    "message": "इनपुट बड़ा बड्डा ऐ। डिफ इक पल ले सकदा ऐ..."
+  },
+  "errorBothEmpty": {
+    "message": "कृपा करियै तुलना करने शा पैह् लें दौनें पैनल च सामग्री पेस्ट करो."
+  },
+  "errorOneEmpty": {
+    "message": "इक पैनल खाली ऐ। कृपा करियै दौनें पैनल च सामग्री उपलब्ध करोआओ।"
+  },
+  "copied": {
+    "message": "नकल कीती !"
+  },
+  "copyFailed": {
+    "message": "कॉपी फेल हो गई"
+  },
+  "cleared": {
+    "message": "साफ कर दी"
+  },
+  "swapped": {
+    "message": "अदला-बदली कर दी"
+  },
+  "kbShortcutsTitle": {
+    "message": "कीबोर्ड शॉर्टकट"
+  },
+  "kbCompare": {
+    "message": "मकाबला करना"
+  },
+  "kbClear": {
+    "message": "साफ"
+  },
+  "kbSwap": {
+    "message": "पैनल अदला-बदली करो"
+  },
+  "lineLabel": {
+    "message": "पंगती"
+  },
+  "addedLabel": {
+    "message": "जोड़ा"
+  },
+  "removedLabel": {
+    "message": "हटा दिया"
+  },
+  "changedLabel": {
+    "message": "बदल गया"
+  },
+  "unchangedLabel": {
+    "message": "अपरिवर्तित"
+  },
+  "formatJSON": {
+    "message": "जेएसओएन प्रारूप बनाओ"
+  },
+  "formatJSONError": {
+    "message": "इक जां दौनें पैनल च अमान्य JSON."
+  },
+  "wordDiff": {
+    "message": "शब्द डिफर"
+  },
+  "resultsPanelTitle": {
+    "message": "डिफ रिजल्ट"
+  },
+  "processingLabel": {
+    "message": "प्रोसेसिंग करदे होई..."
+  }
+}

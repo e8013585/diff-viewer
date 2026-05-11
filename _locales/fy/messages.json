@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Ferskil Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Ferskil Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Lichtgewicht offline diff-fergelikingsark foar tekst en koade.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Ferskil Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Fergelykje tekst, koade, JSON, en mear - offline"
+  },
+  "labelOriginal": {
+    "message": "Oarspronklik"
+  },
+  "labelModified": {
+    "message": "Feroare"
+  },
+  "placeholderOriginal": {
+    "message": "Plak hjir orizjinele tekst of koade ..."
+  },
+  "placeholderModified": {
+    "message": "Plak hjir wizige tekst of koade ..."
+  },
+  "btnCompare": {
+    "message": "Ferlykje"
+  },
+  "btnClear": {
+    "message": "Klear"
+  },
+  "btnCopyLeft": {
+    "message": "Links kopiearje"
+  },
+  "btnCopyRight": {
+    "message": "Rjochts kopiearje"
+  },
+  "btnSwap": {
+    "message": "Ruilje"
+  },
+  "btnInlineDiff": {
+    "message": "Ynline"
+  },
+  "btnSideBySide": {
+    "message": "Side by Side"
+  },
+  "statAdded": {
+    "message": "Added"
+  },
+  "statRemoved": {
+    "message": "Fuortsmiten"
+  },
+  "statChanged": {
+    "message": "Feroare"
+  },
+  "statUnchanged": {
+    "message": "Net feroare"
+  },
+  "statLines": {
+    "message": "rigels"
+  },
+  "emptyStateTitle": {
+    "message": "Klear om te fergelykjen"
+  },
+  "emptyStateBody": {
+    "message": "Plak tekst yn beide panielen en klik Fergelykje - of druk op Ctrl + Enter"
+  },
+  "identicalTitle": {
+    "message": "Bestannen binne identyk"
+  },
+  "identicalBody": {
+    "message": "Gjin ferskillen waarden fûn tusken de twa yngongen."
+  },
+  "errorLargeInput": {
+    "message": "Ynput is hiel grut. Diff kin efkes duorje ..."
+  },
+  "errorBothEmpty": {
+    "message": "Plak asjebleaft ynhâld yn beide panielen foardat jo fergelykje."
+  },
+  "errorOneEmpty": {
+    "message": "Ien paniel is leech. Jou asjebleaft ynhâld yn beide panielen."
+  },
+  "copied": {
+    "message": "kopiearre!"
+  },
+  "copyFailed": {
+    "message": "Kopiearje mislearre"
+  },
+  "cleared": {
+    "message": "Ferwiderje"
+  },
+  "swapped": {
+    "message": "Ferruile"
+  },
+  "kbShortcutsTitle": {
+    "message": "Toetseboerd fluchtoetsen"
+  },
+  "kbCompare": {
+    "message": "Ferlykje"
+  },
+  "kbClear": {
+    "message": "Klear"
+  },
+  "kbSwap": {
+    "message": "Ruilje panielen"
+  },
+  "lineLabel": {
+    "message": "Rigel"
+  },
+  "addedLabel": {
+    "message": "tafoege"
+  },
+  "removedLabel": {
+    "message": "fuorthelle"
+  },
+  "changedLabel": {
+    "message": "feroare"
+  },
+  "unchangedLabel": {
+    "message": "ûnferoare"
+  },
+  "formatJSON": {
+    "message": "Opmaak JSON"
+  },
+  "formatJSONError": {
+    "message": "Unjildige JSON yn ien of beide panielen."
+  },
+  "wordDiff": {
+    "message": "Wurd Diff"
+  },
+  "resultsPanelTitle": {
+    "message": "Diff Results"
+  },
+  "processingLabel": {
+    "message": "It ferwurkjen..."
+  }
+}

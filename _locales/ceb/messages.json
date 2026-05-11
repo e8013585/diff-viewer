@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "Diff Viewer",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "Diff Viewer",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Ang gaan nga offline diff nga himan sa pagtandi alang sa teksto ug code.",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "Diff Viewer"
+  },
+  "headerSubtitle": {
+    "message": "Itandi ang teksto, code, JSON, ug uban pa — offline"
+  },
+  "labelOriginal": {
+    "message": "Orihinal"
+  },
+  "labelModified": {
+    "message": "Giusab"
+  },
+  "placeholderOriginal": {
+    "message": "Idikit ang orihinal nga teksto o code dinhi..."
+  },
+  "placeholderModified": {
+    "message": "Idikit ang giusab nga teksto o code dinhi..."
+  },
+  "btnCompare": {
+    "message": "Itandi"
+  },
+  "btnClear": {
+    "message": "Klaro"
+  },
+  "btnCopyLeft": {
+    "message": "Kopyaha sa Wala"
+  },
+  "btnCopyRight": {
+    "message": "Kopyaha sa Tuo"
+  },
+  "btnSwap": {
+    "message": "Pagbayloay"
+  },
+  "btnInlineDiff": {
+    "message": "Inline"
+  },
+  "btnSideBySide": {
+    "message": "Tapad"
+  },
+  "statAdded": {
+    "message": "Gidugang"
+  },
+  "statRemoved": {
+    "message": "Gitangtang"
+  },
+  "statChanged": {
+    "message": "Nausab"
+  },
+  "statUnchanged": {
+    "message": "Wala mausab"
+  },
+  "statLines": {
+    "message": "mga linya"
+  },
+  "emptyStateTitle": {
+    "message": "Andam sa Pagtandi"
+  },
+  "emptyStateBody": {
+    "message": "Idikit ang teksto sa duha ka panel ug i-klik ang Compare — o pindota ang Ctrl+Enter"
+  },
+  "identicalTitle": {
+    "message": "Ang mga file managsama"
+  },
+  "identicalBody": {
+    "message": "Wala’y nakit-an nga mga kalainan tali sa duha nga mga input."
+  },
+  "errorLargeInput": {
+    "message": "Dako kaayo ang input. Mahimong magdugay ang diff..."
+  },
+  "errorBothEmpty": {
+    "message": "Palihug i-paste ang sulod sa duha ka panel sa dili pa itandi."
+  },
+  "errorOneEmpty": {
+    "message": "Ang usa ka panel walay sulod. Palihug paghatag og sulod sa duha ka panel."
+  },
+  "copied": {
+    "message": "Gikopya!"
+  },
+  "copyFailed": {
+    "message": "Napakyas ang pagkopya"
+  },
+  "cleared": {
+    "message": "Gilimpyohan"
+  },
+  "swapped": {
+    "message": "Gibaylo"
+  },
+  "kbShortcutsTitle": {
+    "message": "Mga Shortcut sa Keyboard"
+  },
+  "kbCompare": {
+    "message": "Itandi"
+  },
+  "kbClear": {
+    "message": "Klaro"
+  },
+  "kbSwap": {
+    "message": "Pagbaylo sa mga panel"
+  },
+  "lineLabel": {
+    "message": "Linya"
+  },
+  "addedLabel": {
+    "message": "gidugang"
+  },
+  "removedLabel": {
+    "message": "gikuha"
+  },
+  "changedLabel": {
+    "message": "nausab"
+  },
+  "unchangedLabel": {
+    "message": "walay kausaban"
+  },
+  "formatJSON": {
+    "message": "I-format ang JSON"
+  },
+  "formatJSONError": {
+    "message": "Dili balido nga JSON sa usa o duha ka panel."
+  },
+  "wordDiff": {
+    "message": "Diff sa Pulong"
+  },
+  "resultsPanelTitle": {
+    "message": "Nagkalainlain nga mga Resulta"
+  },
+  "processingLabel": {
+    "message": "Nagproseso..."
+  }
+}

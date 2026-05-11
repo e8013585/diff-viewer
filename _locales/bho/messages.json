@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "डिफ व्यूअर के बा",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "डिफ व्यूअर के बा",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "पाठ आ कोड खातिर हल्का ऑफलाइन डिफ तुलना उपकरण।",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "डिफ व्यूअर के बा"
+  },
+  "headerSubtitle": {
+    "message": "पाठ, कोड, जेएसओएन, आ अउरी बहुत कुछ के तुलना करीं — ऑफलाइन"
+  },
+  "labelOriginal": {
+    "message": "असली"
+  },
+  "labelModified": {
+    "message": "संशोधित कइल गइल बा"
+  },
+  "placeholderOriginal": {
+    "message": "मूल पाठ भा कोड इहाँ पेस्ट करीं..."
+  },
+  "placeholderModified": {
+    "message": "संशोधित पाठ भा कोड इहाँ पेस्ट करीं..."
+  },
+  "btnCompare": {
+    "message": "तुलना"
+  },
+  "btnClear": {
+    "message": "साफ"
+  },
+  "btnCopyLeft": {
+    "message": "कॉपी बाईं ओर बा"
+  },
+  "btnCopyRight": {
+    "message": "कॉपी राइट के बा"
+  },
+  "btnSwap": {
+    "message": "अदला-बदला"
+  },
+  "btnInlineDiff": {
+    "message": "इनलाइन के बा"
+  },
+  "btnSideBySide": {
+    "message": "साइड बाई साइड के बा"
+  },
+  "statAdded": {
+    "message": "जोड़ल गइल बा"
+  },
+  "statRemoved": {
+    "message": "हटा दिहल गइल"
+  },
+  "statChanged": {
+    "message": "बदल गइल बा"
+  },
+  "statUnchanged": {
+    "message": "अपरिवर्तित बा"
+  },
+  "statLines": {
+    "message": "लाइनन के बा"
+  },
+  "emptyStateTitle": {
+    "message": "तुलना करे खातिर तइयार बानी"
+  },
+  "emptyStateBody": {
+    "message": "दुनो पैनल में टेक्स्ट पेस्ट करीं आ तुलना पर क्लिक करीं — या Ctrl+Enter दबाईं"
+  },
+  "identicalTitle": {
+    "message": "फाइल एके जइसन होला"
+  },
+  "identicalBody": {
+    "message": "दुनो इनपुट के बीच कवनो अंतर ना पावल गईल।"
+  },
+  "errorLargeInput": {
+    "message": "इनपुट बहुत बड़ बा। डिफ में एक पल लाग सकेला..."
+  },
+  "errorBothEmpty": {
+    "message": "तुलना करे से पहिले दुनो पैनल में सामग्री पेस्ट करीं।"
+  },
+  "errorOneEmpty": {
+    "message": "एगो पैनल खाली बा। कृपया दुनो पैनल में सामग्री उपलब्ध कराईं।"
+  },
+  "copied": {
+    "message": "नकल कइल गइल बा!"
+  },
+  "copyFailed": {
+    "message": "कॉपी फेल हो गइल"
+  },
+  "cleared": {
+    "message": "साफ हो गइल बा"
+  },
+  "swapped": {
+    "message": "अदला-बदली हो गइल"
+  },
+  "kbShortcutsTitle": {
+    "message": "कीबोर्ड के शॉर्टकट के बारे में बतावल गइल बा"
+  },
+  "kbCompare": {
+    "message": "तुलना"
+  },
+  "kbClear": {
+    "message": "साफ"
+  },
+  "kbSwap": {
+    "message": "पैनल के अदला-बदली करीं"
+  },
+  "lineLabel": {
+    "message": "रेखा"
+  },
+  "addedLabel": {
+    "message": "जोड़ले बाड़न"
+  },
+  "removedLabel": {
+    "message": "हटा दिहल गइल बा"
+  },
+  "changedLabel": {
+    "message": "बदल गइल बा"
+  },
+  "unchangedLabel": {
+    "message": "अपरिवर्तित बा"
+  },
+  "formatJSON": {
+    "message": "जेएसओएन के प्रारूप बनाईं"
+  },
+  "formatJSONError": {
+    "message": "एक या दुनो पैनल में अमान्य JSON।"
+  },
+  "wordDiff": {
+    "message": "शब्द के अंतर बा"
+  },
+  "resultsPanelTitle": {
+    "message": "डिफ रिजल्ट मिलल बा"
+  },
+  "processingLabel": {
+    "message": "प्रोसेसिंग के काम हो रहल बा..."
+  }
+}

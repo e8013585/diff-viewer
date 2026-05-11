@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ልዩነት ተመልካች",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ልዩነት ተመልካች",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "ለጽሑፍ እና ኮድ ቀላል ክብደት ያለው ከመስመር ውጭ ልዩነት ማነጻጸሪያ መሳሪያ።",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ልዩነት ተመልካች"
+  },
+  "headerSubtitle": {
+    "message": "ጽሑፍን፣ ኮድን፣ JSONን እና ሌሎችንም ያወዳድሩ — ከመስመር ውጭ"
+  },
+  "labelOriginal": {
+    "message": "ኦሪጅናል"
+  },
+  "labelModified": {
+    "message": "ተሻሽሏል።"
+  },
+  "placeholderOriginal": {
+    "message": "ዋናውን ጽሑፍ ወይም ኮድ እዚህ ይለጥፉ..."
+  },
+  "placeholderModified": {
+    "message": "የተሻሻለ ጽሑፍ ወይም ኮድ እዚህ ለጥፍ..."
+  },
+  "btnCompare": {
+    "message": "አወዳድር"
+  },
+  "btnClear": {
+    "message": "ግልጽ"
+  },
+  "btnCopyLeft": {
+    "message": "ወደ ግራ ቅዳ"
+  },
+  "btnCopyRight": {
+    "message": "ቀኝ ቅዳ"
+  },
+  "btnSwap": {
+    "message": "መለዋወጥ"
+  },
+  "btnInlineDiff": {
+    "message": "መስመር ውስጥ"
+  },
+  "btnSideBySide": {
+    "message": "ጎን ለጎን"
+  },
+  "statAdded": {
+    "message": "ታክሏል።"
+  },
+  "statRemoved": {
+    "message": "ተወግዷል"
+  },
+  "statChanged": {
+    "message": "ተለውጧል"
+  },
+  "statUnchanged": {
+    "message": "አልተለወጠም።"
+  },
+  "statLines": {
+    "message": "መስመሮች"
+  },
+  "emptyStateTitle": {
+    "message": "ለማነጻጸር ዝግጁ"
+  },
+  "emptyStateBody": {
+    "message": "በሁለቱም ፓነሎች ላይ ጽሑፍ ለጥፍ እና አወዳድር የሚለውን ጠቅ ያድርጉ ወይም Ctrl+Enter ን ይጫኑ"
+  },
+  "identicalTitle": {
+    "message": "ፋይሎች ተመሳሳይ ናቸው።"
+  },
+  "identicalBody": {
+    "message": "በሁለቱ ግብዓቶች መካከል ምንም ልዩነት አልተገኘም።"
+  },
+  "errorLargeInput": {
+    "message": "ግቤት በጣም ትልቅ ነው። ልዩነት ትንሽ ጊዜ ሊወስድ ይችላል..."
+  },
+  "errorBothEmpty": {
+    "message": "እባክዎን ከማነጻጸርዎ በፊት ይዘቱን ወደ ሁለቱም ፓነሎች ይለጥፉ።"
+  },
+  "errorOneEmpty": {
+    "message": "አንድ ፓነል ባዶ ነው። እባክዎ በሁለቱም ፓነሎች ውስጥ ይዘት ያቅርቡ።"
+  },
+  "copied": {
+    "message": "ተቀድቷል!"
+  },
+  "copyFailed": {
+    "message": "መቅዳት አልተሳካም።"
+  },
+  "cleared": {
+    "message": "ጸድቷል"
+  },
+  "swapped": {
+    "message": "ተቀይሯል"
+  },
+  "kbShortcutsTitle": {
+    "message": "የቁልፍ ሰሌዳ አቋራጮች"
+  },
+  "kbCompare": {
+    "message": "አወዳድር"
+  },
+  "kbClear": {
+    "message": "ግልጽ"
+  },
+  "kbSwap": {
+    "message": "ፓነሎችን ይቀያይሩ"
+  },
+  "lineLabel": {
+    "message": "መስመር"
+  },
+  "addedLabel": {
+    "message": "ታክሏል"
+  },
+  "removedLabel": {
+    "message": "ተወግዷል"
+  },
+  "changedLabel": {
+    "message": "ተለውጧል"
+  },
+  "unchangedLabel": {
+    "message": "ያልተለወጠ"
+  },
+  "formatJSON": {
+    "message": "JSON ቅረጽ"
+  },
+  "formatJSONError": {
+    "message": "ልክ ያልሆነ JSON በአንድ ወይም በሁለቱም ፓነሎች ውስጥ።"
+  },
+  "wordDiff": {
+    "message": "የቃል ልዩነት"
+  },
+  "resultsPanelTitle": {
+    "message": "የልዩነት ውጤቶች"
+  },
+  "processingLabel": {
+    "message": "በማስሄድ ላይ..."
+  }
+}

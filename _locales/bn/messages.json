@@ -1,0 +1,143 @@
+{
+  "extensionName": {
+    "message": "ডিফ ভিউয়ার",
+    "description": "Name of the extension"
+  },
+  "extensionShortName": {
+    "message": "ডিফ ভিউয়ার",
+    "description": "Short name of the extension"
+  },
+  "extensionDescription": {
+    "message": "টেক্সট এবং কোডের জন্য লাইটওয়েট অফলাইন ডিফ তুলনা টুল।",
+    "description": "Description shown in the Chrome Web Store"
+  },
+  "headerTitle": {
+    "message": "ডিফ ভিউয়ার"
+  },
+  "headerSubtitle": {
+    "message": "পাঠ্য, কোড, JSON এবং আরও অনেক কিছু — অফলাইনে তুলনা করুন"
+  },
+  "labelOriginal": {
+    "message": "আসল"
+  },
+  "labelModified": {
+    "message": "পরিবর্তিত"
+  },
+  "placeholderOriginal": {
+    "message": "এখানে মূল টেক্সট বা কোড পেস্ট করুন..."
+  },
+  "placeholderModified": {
+    "message": "সংশোধিত পাঠ্য বা কোড এখানে আটকান..."
+  },
+  "btnCompare": {
+    "message": "তুলনা করুন"
+  },
+  "btnClear": {
+    "message": "পরিষ্কার"
+  },
+  "btnCopyLeft": {
+    "message": "কপি বাম"
+  },
+  "btnCopyRight": {
+    "message": "কপি রাইট"
+  },
+  "btnSwap": {
+    "message": "অদলবদল"
+  },
+  "btnInlineDiff": {
+    "message": "ইনলাইন"
+  },
+  "btnSideBySide": {
+    "message": "সাইড বাই সাইড"
+  },
+  "statAdded": {
+    "message": "যোগ করা হয়েছে"
+  },
+  "statRemoved": {
+    "message": "সরানো হয়েছে"
+  },
+  "statChanged": {
+    "message": "পরিবর্তিত হয়েছে"
+  },
+  "statUnchanged": {
+    "message": "অপরিবর্তিত"
+  },
+  "statLines": {
+    "message": "লাইন"
+  },
+  "emptyStateTitle": {
+    "message": "তুলনা করতে প্রস্তুত"
+  },
+  "emptyStateBody": {
+    "message": "উভয় প্যানেলে পাঠ্য আটকান এবং তুলনা ক্লিক করুন — অথবা Ctrl+Enter টিপুন"
+  },
+  "identicalTitle": {
+    "message": "ফাইলগুলি অভিন্ন"
+  },
+  "identicalBody": {
+    "message": "দুটি ইনপুটের মধ্যে কোন পার্থক্য পাওয়া যায়নি।"
+  },
+  "errorLargeInput": {
+    "message": "ইনপুট অনেক বড়. পার্থক্য একটু সময় নিতে পারে..."
+  },
+  "errorBothEmpty": {
+    "message": "অনুগ্রহ করে তুলনা করার আগে উভয় প্যানেলে কন্টেন্ট পেস্ট করুন।"
+  },
+  "errorOneEmpty": {
+    "message": "একটি প্যানেল খালি। উভয় প্যানেলে বিষয়বস্তু প্রদান করুন."
+  },
+  "copied": {
+    "message": "কপি করা !"
+  },
+  "copyFailed": {
+    "message": "অনুলিপি ব্যর্থ হয়েছে"
+  },
+  "cleared": {
+    "message": "সাফ"
+  },
+  "swapped": {
+    "message": "অদলবদল"
+  },
+  "kbShortcutsTitle": {
+    "message": "কীবোর্ড শর্টকাট"
+  },
+  "kbCompare": {
+    "message": "তুলনা করুন"
+  },
+  "kbClear": {
+    "message": "পরিষ্কার"
+  },
+  "kbSwap": {
+    "message": "প্যানেল অদলবদল করুন"
+  },
+  "lineLabel": {
+    "message": "লাইন"
+  },
+  "addedLabel": {
+    "message": "যোগ করা হয়েছে"
+  },
+  "removedLabel": {
+    "message": "সরানো"
+  },
+  "changedLabel": {
+    "message": "পরিবর্তিত"
+  },
+  "unchangedLabel": {
+    "message": "অপরিবর্তিত"
+  },
+  "formatJSON": {
+    "message": "JSON ফর্ম্যাট করুন"
+  },
+  "formatJSONError": {
+    "message": "এক বা উভয় প্যানেলে অবৈধ JSON।"
+  },
+  "wordDiff": {
+    "message": "শব্দ পার্থক্য"
+  },
+  "resultsPanelTitle": {
+    "message": "ভিন্ন ফলাফল"
+  },
+  "processingLabel": {
+    "message": "প্রক্রিয়া করা হচ্ছে..."
+  }
+}
